@@ -22,4 +22,4 @@ This repository contains all required Fabric artifacts and data. Follow these in
 Follow [these instructions](https://learn.microsoft.com/en-us/fabric/cicd/git-integration/git-get-started?tabs=github%2CAzure%2Ccommit-to-git#git-prerequisites) to connect to your repository. The last step needed is **Connect and sync**.
 
 ### 3 - Run setup notebook
-The GitHub integration brings all the Fabric items into your workspace, but you still have to import the data. The notebook title Data Setup contains code and instructions that will allow you to populate the Fabric items with the necessary data. You may run the whole notebook if you will use all demos or select only the cells that interest you.
+The GitHub integration brings all the Fabric items into your workspace, but you still have to import the data. The notebook titled `Data Setup` contains code and instructions that will allow you to populate the Fabric items with the necessary data. You may run the whole notebook if you will use all demos or select only the cells that interest you.
