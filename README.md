@@ -1,6 +1,11 @@
 # Fabric Copilot Demo
 Welcome to the Fabric Copilot Demo repository. This repository contains briefing presentations, sample Fabric items and datasets, as well as step-by-step prompt guides to demonstrate Copilot's capabilities in each different workload. 
 
+## Briefing Presentations
+These presentations will help you provide an overview of Copilot's capabilities and are recommended before demos. There are 2 versions available:
+
+- [Short](https://github.com/juanlldc/FabricCopilotDemo/blob/8fbbb18965f53544b0c14d896f69cf6af1ef8ddf/Briefing%20Presenations/SHORT%20-%20Fabric%20and%20PBI%20CoPilot%20-%20Briefing%20and%20Demo.pptx)
+- [Comprehensive](https://github.com/juanlldc/FabricCopilotDemo/blob/8fbbb18965f53544b0c14d896f69cf6af1ef8ddf/Briefing%20Presenations/COMPREHENSIVE%20-%20Fabric%20and%20PBI%20CoPilot%20-%20Briefing%20and%20Demo.pptx)
 ## Available Demos
 Each different dataset allows you to demo one or more workloads. Please click on each demo in the list to learn more.
 
