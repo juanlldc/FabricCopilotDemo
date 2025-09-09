@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Eventhouse",
+    "displayName": "Stock Market - Eventhouse",
+    "description": "Eventhouse001"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "e7ba68d7-e9d3-9111-4973-6d79e5eb1901"
+  }
+}

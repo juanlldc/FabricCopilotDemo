@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Dataflow",
+    "displayName": "Starcraft 2 - Dataflow"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "afe6c445-6763-b69a-4a63-3cc2687a8690"
+  }
+}

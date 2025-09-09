@@ -1,0 +1,673 @@
+{
+  "schema_version": "60",
+  "title": "1493d59e-8671-4205-9f56-c5ea2933769cbe2e2910-111e-4812-802f-f56bd3306282",
+  "tiles": [
+    {
+      "markdownText": "<!-- COPILOT_DASHBOARD_FEEDBACK -->\r\n## 🌟 Copilot Insights 🌟\r\nThis dashboard is based on StockMarket. It provides you with real-time insights and analytics powered by Copilot.\r\n### 📄 Documentation\r\nFor detailed information on how to create and customize real-time dashboards, read the [official documentation](https://go.microsoft.com/fwlink/?linkid=2280782).\r\n### ✏️ Customization\r\nYou can edit and personalize the dashboard to meet your needs. Explore the various options to enhance and tailor the analytics, such as turning on auto-refresh (under Settings) for a near real time experience.\r\n\r\nMake sure AI-generated content is accurate and appropriate before using [See terms](https://go.microsoft.com/fwlink/?linkid=2253132).",
+      "id": "c99912b6-2d0d-4826-949a-bd650a6f2894",
+      "title": "",
+      "visualType": "markdownCard",
+      "pageId": "5584209f-793d-45e2-acb1-32e596eaed12",
+      "layout": {
+        "x": 0,
+        "y": 0,
+        "width": 20,
+        "height": 10
+      },
+      "description": "",
+      "visualOptions": {
+        "table_enableRenderLinks": true,
+        "colorRules": [],
+        "colorRulesDisabled": true,
+        "colorStyle": "light",
+        "crossFilterDisabled": false,
+        "drillthroughDisabled": false,
+        "crossFilter": [],
+        "drillthrough": [],
+        "table__renderLinks": []
+      }
+    },
+    {
+      "queryRef": {
+        "kind": "query",
+        "queryId": "0954c7a1-f0ad-41eb-b5a1-f09ea0099a4d"
+      },
+      "id": "2ee858ed-013d-4acc-8ea7-36a2f57ddad7",
+      "title": "Average Last Sale Price by Sector",
+      "visualType": "column",
+      "pageId": "5584209f-793d-45e2-acb1-32e596eaed12",
+      "layout": {
+        "x": 0,
+        "y": 10,
+        "width": 10,
+        "height": 10
+      },
+      "description": "Visualizes the average last sale price for each sector to identify which sectors have higher or lower stock prices.",
+      "visualOptions": {
+        "table_enableRenderLinks": true,
+        "colorRules": [],
+        "colorRulesDisabled": true,
+        "colorStyle": "light",
+        "crossFilterDisabled": false,
+        "drillthroughDisabled": false,
+        "crossFilter": [],
+        "drillthrough": [],
+        "table__renderLinks": [],
+        "selectedDataOnLoad": {
+          "all": true,
+          "limit": 10
+        },
+        "dataPointsTooltip": {
+          "all": false,
+          "limit": 1
+        }
+      }
+    },
+    {
+      "queryRef": {
+        "kind": "query",
+        "queryId": "12c30356-ccf1-420b-9748-b200ae7c53b1"
+      },
+      "id": "4c4e1d1b-3228-4946-aa57-ffbd1b9bc536",
+      "title": "Top 10 Symbols by Total Trading Volume",
+      "visualType": "table",
+      "pageId": "5584209f-793d-45e2-acb1-32e596eaed12",
+      "layout": {
+        "x": 10,
+        "y": 10,
+        "width": 10,
+        "height": 10
+      },
+      "description": "Displays the top 10 stock symbols with the highest trading volume, helping to identify the most actively traded stocks.",
+      "visualOptions": {
+        "table_enableRenderLinks": true,
+        "colorRules": [],
+        "colorRulesDisabled": true,
+        "colorStyle": "light",
+        "crossFilterDisabled": false,
+        "drillthroughDisabled": false,
+        "crossFilter": [],
+        "drillthrough": [],
+        "table__renderLinks": []
+      }
+    },
+    {
+      "queryRef": {
+        "kind": "query",
+        "queryId": "50e8f90a-9c97-46d1-bf43-8d13a2241424"
+      },
+      "id": "83f39e82-adb6-4cfc-acaa-b771da9133a3",
+      "title": "Average Bid Price Over Time",
+      "visualType": "line",
+      "pageId": "5584209f-793d-45e2-acb1-32e596eaed12",
+      "layout": {
+        "x": 0,
+        "y": 20,
+        "width": 10,
+        "height": 10
+      },
+      "description": "Shows how the average bid price changes over time, useful for tracking market trends and price movements.",
+      "visualOptions": {
+        "table_enableRenderLinks": true,
+        "colorRules": [],
+        "colorRulesDisabled": true,
+        "colorStyle": "light",
+        "crossFilterDisabled": false,
+        "drillthroughDisabled": false,
+        "crossFilter": [],
+        "drillthrough": [],
+        "table__renderLinks": [],
+        "selectedDataOnLoad": {
+          "all": true,
+          "limit": 10
+        },
+        "dataPointsTooltip": {
+          "all": false,
+          "limit": 1
+        }
+      }
+    },
+    {
+      "queryRef": {
+        "kind": "query",
+        "queryId": "e39c664f-b601-47a8-979e-6505a5d88fce"
+      },
+      "id": "52ace699-7286-49d3-ac91-15d1a92095fa",
+      "title": "Count of Records by Security Type",
+      "visualType": "table",
+      "pageId": "5584209f-793d-45e2-acb1-32e596eaed12",
+      "layout": {
+        "x": 10,
+        "y": 20,
+        "width": 10,
+        "height": 10
+      },
+      "description": "Counts the number of records for each security type, providing an overview of the types of securities present in the dataset.",
+      "visualOptions": {
+        "table_enableRenderLinks": true,
+        "colorRules": [],
+        "colorRulesDisabled": true,
+        "colorStyle": "light",
+        "crossFilterDisabled": false,
+        "drillthroughDisabled": false,
+        "crossFilter": [],
+        "drillthrough": [],
+        "table__renderLinks": []
+      }
+    },
+    {
+      "queryRef": {
+        "kind": "query",
+        "queryId": "711c3605-067c-4333-a4ad-cc1fa140dfe6"
+      },
+      "id": "2518a09e-9c2f-4621-9333-32c036b817bd",
+      "title": "Rows Histogram",
+      "visualType": "area",
+      "pageId": "3419d839-e60f-41fe-824a-20c0cecee47c",
+      "layout": {
+        "x": 0,
+        "y": 0,
+        "width": 23,
+        "height": 5
+      },
+      "description": "",
+      "visualOptions": {
+        "table_enableRenderLinks": true,
+        "colorRules": [],
+        "colorRulesDisabled": true,
+        "colorStyle": "light",
+        "crossFilterDisabled": false,
+        "drillthroughDisabled": false,
+        "crossFilter": [],
+        "drillthrough": [],
+        "table__renderLinks": [],
+        "selectedDataOnLoad": {
+          "all": true,
+          "limit": 10
+        },
+        "dataPointsTooltip": {
+          "all": false,
+          "limit": 1
+        }
+      }
+    },
+    {
+      "queryRef": {
+        "kind": "query",
+        "queryId": "31d4c84f-526f-4558-ac6b-82edb5424ba0"
+      },
+      "id": "1b23b6bd-b3db-4671-9c4f-658fad652c9e",
+      "title": "Schema",
+      "visualType": "table",
+      "pageId": "3419d839-e60f-41fe-824a-20c0cecee47c",
+      "layout": {
+        "x": 0,
+        "y": 16,
+        "width": 5,
+        "height": 10
+      },
+      "description": "",
+      "visualOptions": {
+        "table_enableRenderLinks": true,
+        "colorRules": [],
+        "colorRulesDisabled": true,
+        "colorStyle": "light",
+        "crossFilterDisabled": false,
+        "drillthroughDisabled": false,
+        "crossFilter": [
+          {
+            "interaction": "column",
+            "property": "ColumnName",
+            "parameterId": "481c5290-d834-444c-a05e-72b82054f1ab",
+            "disabled": false
+          }
+        ],
+        "drillthrough": [],
+        "table__renderLinks": []
+      }
+    },
+    {
+      "queryRef": {
+        "kind": "query",
+        "queryId": "f69c7481-4a21-460b-8dbf-daaa211e2e69"
+      },
+      "id": "dc8a7809-346b-47a4-a1a9-57370feaf992",
+      "title": "Sample",
+      "visualType": "table",
+      "pageId": "3419d839-e60f-41fe-824a-20c0cecee47c",
+      "layout": {
+        "x": 0,
+        "y": 5,
+        "width": 23,
+        "height": 8
+      },
+      "description": "",
+      "visualOptions": {
+        "table_enableRenderLinks": true,
+        "colorRules": [],
+        "colorRulesDisabled": true,
+        "colorStyle": "light",
+        "crossFilterDisabled": false,
+        "drillthroughDisabled": false,
+        "crossFilter": [],
+        "drillthrough": [],
+        "table__renderLinks": []
+      }
+    },
+    {
+      "queryRef": {
+        "kind": "query",
+        "queryId": "b65d6d1e-0031-495a-8451-3bc773d414ce"
+      },
+      "id": "221c9ad4-a2f9-4408-ba30-4b563cb3df66",
+      "title": "Lowest-Highest",
+      "visualType": "table",
+      "pageId": "3419d839-e60f-41fe-824a-20c0cecee47c",
+      "layout": {
+        "x": 5,
+        "y": 16,
+        "width": 5,
+        "height": 10
+      },
+      "description": "",
+      "visualOptions": {
+        "table_enableRenderLinks": true,
+        "colorRules": [],
+        "colorRulesDisabled": true,
+        "colorStyle": "light",
+        "crossFilterDisabled": false,
+        "drillthroughDisabled": false,
+        "crossFilter": [],
+        "drillthrough": [],
+        "table__renderLinks": []
+      }
+    },
+    {
+      "queryRef": {
+        "kind": "query",
+        "queryId": "1422de8a-f28f-4d53-8caf-21c020042678"
+      },
+      "id": "213f5945-40d1-4bcf-a796-80df2b7049a7",
+      "title": "Unique Values",
+      "visualType": "table",
+      "pageId": "3419d839-e60f-41fe-824a-20c0cecee47c",
+      "layout": {
+        "x": 10,
+        "y": 16,
+        "width": 4,
+        "height": 10
+      },
+      "description": "",
+      "visualOptions": {
+        "table_enableRenderLinks": true,
+        "colorRules": [],
+        "colorRulesDisabled": true,
+        "colorStyle": "light",
+        "crossFilterDisabled": false,
+        "drillthroughDisabled": false,
+        "crossFilter": [],
+        "drillthrough": [],
+        "table__renderLinks": []
+      }
+    },
+    {
+      "queryRef": {
+        "kind": "query",
+        "queryId": "46c813c3-4487-4cef-8d77-befab2c27d15"
+      },
+      "id": "43a7f61e-0871-4b13-b854-5b48a8e36425",
+      "title": "Sample Values",
+      "visualType": "pie",
+      "pageId": "3419d839-e60f-41fe-824a-20c0cecee47c",
+      "layout": {
+        "x": 14,
+        "y": 16,
+        "width": 9,
+        "height": 10
+      },
+      "description": "",
+      "visualOptions": {
+        "table_enableRenderLinks": true,
+        "colorRules": [],
+        "colorRulesDisabled": true,
+        "colorStyle": "light",
+        "crossFilterDisabled": false,
+        "drillthroughDisabled": false,
+        "crossFilter": [],
+        "drillthrough": [],
+        "table__renderLinks": []
+      }
+    },
+    {
+      "markdownText": "---\r\n### 🛠️Use cross-filters to filter data across the following tiles. Select a column from the schema tile below, then right-click and select cross-filter. ###\r\n---",
+      "id": "c64762a2-d5eb-4e54-af3c-20ccdeb84b48",
+      "title": "",
+      "visualType": "markdownCard",
+      "pageId": "3419d839-e60f-41fe-824a-20c0cecee47c",
+      "layout": {
+        "x": 0,
+        "y": 13,
+        "width": 23,
+        "height": 3
+      },
+      "description": "",
+      "visualOptions": {
+        "table_enableRenderLinks": true,
+        "colorRules": [],
+        "colorRulesDisabled": true,
+        "colorStyle": "light",
+        "crossFilterDisabled": false,
+        "drillthroughDisabled": false,
+        "crossFilter": [],
+        "drillthrough": [],
+        "table__renderLinks": []
+      }
+    }
+  ],
+  "baseQueries": [
+    {
+      "id": "0cd5d32b-a95f-40d4-80aa-0ca5f99cad22",
+      "queryId": "c6aa0fc7-a166-4a98-a618-b6f63c89a775",
+      "variableName": "_BaseTable"
+    },
+    {
+      "id": "e3a9db18-ce42-4cbc-9481-e4c5ea3ef16e",
+      "queryId": "ad894dc9-e333-47ff-b181-ae301455a649",
+      "variableName": "_Base"
+    },
+    {
+      "id": "7f335ee0-7ba5-4734-8110-76c478d2cfd6",
+      "queryId": "ee792c6b-9e3d-4d9a-8e10-3a31dc9b2d12",
+      "variableName": "_Dates"
+    },
+    {
+      "id": "481b671d-c95e-47ff-a814-7cd3351989d1",
+      "queryId": "0620f3fd-9b44-4fc0-ab65-eca661871f55",
+      "variableName": "_schema"
+    }
+  ],
+  "dataSources": [
+    {
+      "id": "8a80dee7-82ba-4c3d-bf64-476c83dc4ec4",
+      "name": "https://trd-vfb1bp4dqgv3g2ut1b.z4.kusto.fabric.microsoft.com:1493d59e-8671-4205-9f56-c5ea2933769c",
+      "clusterUri": "",
+      "database": "65b7d44b-5613-9ca8-461d-3c61b63bb141",
+      "kind": "kusto-trident",
+      "scopeId": "kusto-trident",
+      "workspace": "00000000-0000-0000-0000-000000000000"
+    }
+  ],
+  "parameters": [
+    {
+      "beginVariableName": "_startTime",
+      "endVariableName": "_endTime",
+      "kind": "duration",
+      "id": "42fa4be8-ef1c-4956-9e40-59d3f3cb8dd3",
+      "displayName": "Time range",
+      "description": "",
+      "showOnPages": {
+        "kind": "selection",
+        "pageIds": [
+          "5584209f-793d-45e2-acb1-32e596eaed12",
+          "3419d839-e60f-41fe-824a-20c0cecee47c"
+        ]
+      },
+      "defaultValue": {
+        "count": 30,
+        "unit": "days",
+        "kind": "dynamic"
+      }
+    },
+    {
+      "variableName": "_Date",
+      "selectionType": "scalar",
+      "includeAllOption": false,
+      "dataSource": {
+        "kind": "query",
+        "columns": {
+          "value": "ColumnName"
+        },
+        "queryRef": {
+          "kind": "query",
+          "queryId": "89cf2f58-93bb-4e0d-8cd9-1752284b8316"
+        }
+      },
+      "kind": "string",
+      "id": "c497aa82-9ad1-410e-a0ca-fded145e129f",
+      "displayName": "By date",
+      "description": "",
+      "showOnPages": {
+        "kind": "selection",
+        "pageIds": [
+          "5584209f-793d-45e2-acb1-32e596eaed12",
+          "3419d839-e60f-41fe-824a-20c0cecee47c"
+        ]
+      },
+      "defaultValue": {
+        "kind": "query-result"
+      }
+    },
+    {
+      "variableName": "_Column",
+      "selectionType": "scalar",
+      "includeAllOption": false,
+      "dataSource": {
+        "kind": "query",
+        "columns": {
+          "value": "ColumnName"
+        },
+        "queryRef": {
+          "kind": "query",
+          "queryId": "e33308f1-dee0-472d-98be-b503e38890f0"
+        }
+      },
+      "kind": "string",
+      "id": "481c5290-d834-444c-a05e-72b82054f1ab",
+      "displayName": "Columns",
+      "description": "",
+      "showOnPages": {
+        "kind": "selection",
+        "pageIds": []
+      },
+      "defaultValue": {
+        "kind": "query-result"
+      }
+    }
+  ],
+  "pages": [
+    {
+      "name": "Copilot Insights",
+      "id": "5584209f-793d-45e2-acb1-32e596eaed12"
+    },
+    {
+      "name": "Profile",
+      "id": "3419d839-e60f-41fe-824a-20c0cecee47c"
+    }
+  ],
+  "queries": [
+    {
+      "dataSource": {
+        "kind": "inline",
+        "dataSourceId": "8a80dee7-82ba-4c3d-bf64-476c83dc4ec4"
+      },
+      "text": "_Base\n| summarize avgLastSalePrice=avg(todouble(lastSalePrice)) by sector\n| project sector, avgLastSalePrice\n| render columnchart",
+      "id": "0954c7a1-f0ad-41eb-b5a1-f09ea0099a4d",
+      "usedVariables": [
+        "_Base",
+        "_Date"
+      ]
+    },
+    {
+      "dataSource": {
+        "kind": "inline",
+        "dataSourceId": "8a80dee7-82ba-4c3d-bf64-476c83dc4ec4"
+      },
+      "text": "_Base\n| summarize totalVolume=sum(tolong(volume)) by symbol\n| top 10 by totalVolume desc\n| project symbol, totalVolume\n| render table",
+      "id": "12c30356-ccf1-420b-9748-b200ae7c53b1",
+      "usedVariables": [
+        "_Base",
+        "_Date"
+      ]
+    },
+    {
+      "dataSource": {
+        "kind": "inline",
+        "dataSourceId": "8a80dee7-82ba-4c3d-bf64-476c83dc4ec4"
+      },
+      "text": "_Base\n| extend eventTime = todatetime(['time'])\n| summarize avgBidPrice=avg(todouble(bidPrice)) by eventTime\n| project eventTime, avgBidPrice\n| sort by eventTime asc\n| render linechart",
+      "id": "50e8f90a-9c97-46d1-bf43-8d13a2241424",
+      "usedVariables": [
+        "_Base",
+        "_Date"
+      ]
+    },
+    {
+      "dataSource": {
+        "kind": "inline",
+        "dataSourceId": "8a80dee7-82ba-4c3d-bf64-476c83dc4ec4"
+      },
+      "text": "_Base\n| summarize countBySecurityType=count() by securityType\n| project securityType, countBySecurityType\n| render table",
+      "id": "e39c664f-b601-47a8-979e-6505a5d88fce",
+      "usedVariables": [
+        "_Base",
+        "_Date"
+      ]
+    },
+    {
+      "dataSource": {
+        "kind": "inline",
+        "dataSourceId": "8a80dee7-82ba-4c3d-bf64-476c83dc4ec4"
+      },
+      "text": "StockMarket",
+      "id": "c6aa0fc7-a166-4a98-a618-b6f63c89a775",
+      "usedVariables": []
+    },
+    {
+      "dataSource": {
+        "kind": "inline",
+        "dataSourceId": "8a80dee7-82ba-4c3d-bf64-476c83dc4ec4"
+      },
+      "text": "table('StockMarket','hotcache')| where column_ifexists( _Date,ingestion_time()) between(_startTime.._endTime)",
+      "id": "ad894dc9-e333-47ff-b181-ae301455a649",
+      "usedVariables": [
+        "_Date",
+        "_endTime",
+        "_startTime"
+      ]
+    },
+    {
+      "dataSource": {
+        "kind": "inline",
+        "dataSourceId": "8a80dee7-82ba-4c3d-bf64-476c83dc4ec4"
+      },
+      "text": "_schema| union (print ColumnName='ingestion_time()',ColumnType='datetime')| where ColumnType =='datetime'| project ColumnName",
+      "id": "ee792c6b-9e3d-4d9a-8e10-3a31dc9b2d12",
+      "usedVariables": [
+        "_schema"
+      ]
+    },
+    {
+      "dataSource": {
+        "kind": "inline",
+        "dataSourceId": "8a80dee7-82ba-4c3d-bf64-476c83dc4ec4"
+      },
+      "text": "_BaseTable| getschema",
+      "id": "0620f3fd-9b44-4fc0-ab65-eca661871f55",
+      "usedVariables": [
+        "_BaseTable"
+      ]
+    },
+    {
+      "dataSource": {
+        "kind": "inline",
+        "dataSourceId": "8a80dee7-82ba-4c3d-bf64-476c83dc4ec4"
+      },
+      "text": "let TimeRange=toscalar(_Base | summarize Start=min(column_ifexists(_Date,ingestion_time())),End=max(column_ifexists(_Date,ingestion_time()))| project totimespan(End - Start));let Bin=case(TimeRange > 7d,1d,TimeRange> 1d,1h,TimeRange>6h,10m,1m);_Base| summarize Rows=count() by bin(column_ifexists(_Date,ingestion_time()),Bin)",
+      "id": "711c3605-067c-4333-a4ad-cc1fa140dfe6",
+      "usedVariables": [
+        "_Base",
+        "_Date"
+      ]
+    },
+    {
+      "dataSource": {
+        "kind": "inline",
+        "dataSourceId": "8a80dee7-82ba-4c3d-bf64-476c83dc4ec4"
+      },
+      "text": "_schema| project ColumnName,ColumnType",
+      "id": "31d4c84f-526f-4558-ac6b-82edb5424ba0",
+      "usedVariables": [
+        "_schema"
+      ]
+    },
+    {
+      "dataSource": {
+        "kind": "inline",
+        "dataSourceId": "8a80dee7-82ba-4c3d-bf64-476c83dc4ec4"
+      },
+      "text": "_Base| take 100",
+      "id": "f69c7481-4a21-460b-8dbf-daaa211e2e69",
+      "usedVariables": [
+        "_Base"
+      ]
+    },
+    {
+      "dataSource": {
+        "kind": "inline",
+        "dataSourceId": "8a80dee7-82ba-4c3d-bf64-476c83dc4ec4"
+      },
+      "text": "_Base| summarize Lowest=min(column_ifexists(_Column,ingestion_time())),Highest=max(column_ifexists(_Column,ingestion_time()))",
+      "id": "b65d6d1e-0031-495a-8451-3bc773d414ce",
+      "usedVariables": [
+        "_Base",
+        "_Column"
+      ]
+    },
+    {
+      "dataSource": {
+        "kind": "inline",
+        "dataSourceId": "8a80dee7-82ba-4c3d-bf64-476c83dc4ec4"
+      },
+      "text": "_Base| summarize UniqueVales=dcount(column_ifexists(_Column,ingestion_time()))",
+      "id": "1422de8a-f28f-4d53-8caf-21c020042678",
+      "usedVariables": [
+        "_Base",
+        "_Column"
+      ]
+    },
+    {
+      "dataSource": {
+        "kind": "inline",
+        "dataSourceId": "8a80dee7-82ba-4c3d-bf64-476c83dc4ec4"
+      },
+      "text": "_Base| take 1000000 | summarize ['Appears in 1M sample rows']=count() by  tostring(column_ifexists(_Column,0))| take 10| order by ['Appears in 1M sample rows']",
+      "id": "46c813c3-4487-4cef-8d77-befab2c27d15",
+      "usedVariables": [
+        "_Base",
+        "_Column"
+      ]
+    },
+    {
+      "dataSource": {
+        "kind": "inline",
+        "dataSourceId": "8a80dee7-82ba-4c3d-bf64-476c83dc4ec4"
+      },
+      "text": "_Dates",
+      "id": "89cf2f58-93bb-4e0d-8cd9-1752284b8316",
+      "usedVariables": [
+        "_Dates"
+      ]
+    },
+    {
+      "dataSource": {
+        "kind": "inline",
+        "dataSourceId": "8a80dee7-82ba-4c3d-bf64-476c83dc4ec4"
+      },
+      "text": "_schema| project ColumnName",
+      "id": "e33308f1-dee0-472d-98be-b503e38890f0",
+      "usedVariables": [
+        "_schema"
+      ]
+    }
+  ]
+}

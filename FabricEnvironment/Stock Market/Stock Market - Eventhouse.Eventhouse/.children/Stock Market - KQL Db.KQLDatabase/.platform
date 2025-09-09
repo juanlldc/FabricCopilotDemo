@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "KQLDatabase",
+    "displayName": "Stock Market - KQL Db",
+    "description": "Eventhouse001"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "65b7d44b-5613-9ca8-461d-3c61b63bb141"
+  }
+}

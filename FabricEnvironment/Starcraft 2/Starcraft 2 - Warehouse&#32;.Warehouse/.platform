@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Warehouse",
+    "displayName": "Starcraft 2 - Warehouse "
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "d1f36d9c-3979-9510-43ee-095150144622"
+  }
+}

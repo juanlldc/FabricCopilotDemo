@@ -1,0 +1,31 @@
+{
+  "formatVersion": "202502",
+  "computeEngineSettings": {},
+  "name": "Dataflow001",
+  "queryGroups": [],
+  "documentLocale": "en-US",
+  "queriesMetadata": {
+    "starcraft2gamedata": {
+      "queryId": "172ab240-a312-4b54-a685-ede145e7136b",
+      "queryName": "starcraft2gamedata"
+    },
+    "starcraft2gamedata_DataDestination": {
+      "queryId": "b7e9e5f2-1f96-4198-b209-ecbd0a50ecb7",
+      "queryName": "starcraft2gamedata_DataDestination",
+      "isHidden": true,
+      "loadEnabled": false
+    }
+  },
+  "connections": [
+    {
+      "path": "Lakehouse",
+      "kind": "Lakehouse",
+      "connectionId": "{\"ClusterId\":\"868f3b82-610d-4307-aab7-8710c6ec6740\",\"DatasourceId\":\"839aa342-7096-4211-bfe4-7f04be6962c5\"}"
+    },
+    {
+      "path": "Warehouse",
+      "kind": "Warehouse",
+      "connectionId": "{\"ClusterId\":\"868f3b82-610d-4307-aab7-8710c6ec6740\",\"DatasourceId\":\"7e09044e-127d-41f9-8eee-34c43a988e9b\"}"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Regional Sales Sample (POST AI Prep)"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "ccb51f8e-8b6e-ab5e-469b-e0403ed928d9"
+  }
+}
