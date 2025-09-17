@@ -43,7 +43,7 @@ Ensure you have the `Regional Sales Sample` report in the workspace. When you ge
 ## Standalone CoPilot
 1. Find items in Power BI
     - `Find reports that will show me lost opportunities` This should bring up the `Regional Sales Sample`.
-2. Attaching the AI prepped report, then ask `What opportunities made the most money?`
+2. Attaching the AI prepped report, then ask `What opportunities by industry made the most money?`
 3. Attaching the AI prepped report, then ask `Product line revenue?` This should bring up the verified answer.
 
 4. Attack the NON prepped for AI report and ask any question. It will give an answer but also a warning saying the answers are not prepped for AI and may be unreliable.
