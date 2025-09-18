@@ -6,7 +6,7 @@ This demo cover an end to end data science demo with the assistance of Copilot. 
 ## Fabric Resources
 In your Fabric Workspace, browse to the Heart Failure folder. The following Fabric resources are available for this demo:
 - Heart Failure - Notebook (complete): All the prompts required for the demo have been executed and you can see the results.
-- Heart Failure - Notebook (prompts): This is an empty notebook where the prompts are listed but not executed. You may use this notebook to demo or use it as a sample and run the demo in an empty notebook.
+- Heart Failure - Notebook (steps): This is an empty notebook where the prompts are listed but not executed. You may use this notebook to demo or use it as a sample and run the demo in an empty notebook.
 
 
 ## Disclaimer and tips
