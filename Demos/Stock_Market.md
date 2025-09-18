@@ -6,8 +6,10 @@ This data uses the `StockMarket` fake streaming data from the Eventstream. Setup
 
 ## KQL Queryset
 *  Natural Language to KQL Examples
-    - `for each stock, get the average price over the past hour`
+    - `for each stock, get the average price over the past hour, round to two decimal places`
     - `sum of all stock sales for the past 30 minutes`
+    - `calculate the increase for each stock over the past half hour`
+    - `show in a tumbling window 1 minute long, for the past half hour, total sales for the HOOJ stock round to two decimal places`
 
 ## Real Time Dashboard
 * Go to the `Real Time Hub` on the left hand navigation pane. Select the `StockMarket` streaming data and select the settings for it. Select the `Create Real-time Dashboard (Preview)` option. This create a RT Dashboard using CoPilot to auitomatically generate a report.
