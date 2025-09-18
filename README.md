@@ -12,7 +12,7 @@ Each different dataset allows you to demo one or more workloads. Please click on
 1. [Starcraft 2 - Data Pipeline, Dataflows, Data Warehouse, Notebooks](/Demos/Starcraft_2.md)
 2. [Stock Market - KQL Queryset, Real Time Dashboard](/Demos/Stock_Market.md)
 3. [Regional Sales Sample - Power BI](Demos/Regional_Sales.md)
-4. [Heart Failure - End to End Data Science]()
+4. [Heart Failure - End to End Data Science](Demos/Heart_Failure.md)
 
 ## Installation Instructions
 This repository contains all required Fabric artifacts and data. Follow these instructions to set up your demo in your own Fabric environment.
