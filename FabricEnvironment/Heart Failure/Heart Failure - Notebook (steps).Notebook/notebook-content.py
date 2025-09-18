@@ -34,61 +34,10 @@
 # 1. **Code Expected** Load data - **Use the example prompt shown in the chat pane**
 #    - `Load the heartdata table into a DataFrame `
 
-# CELL ********************
-
-#### ATTENTION: AI-generated code can include errors or operations you didn't intend. Review the code in this cell carefully before running it.
-
-# Load the heartdata table into a DataFrame
-heartdata_df = spark.read.table("heartdata")
-
-# Display the DataFrame to verify it is loaded correctly
-display(heartdata_df)
-
-# METADATA ********************
-
-# META {
-# META   "language": "python",
-# META   "language_group": "synapse_pyspark"
-# META }
-
 # MARKDOWN ********************
 
 # 2. **Code Expected** Analyze the dataset - **Use the example prompt shown in the chat pane**
 #    - `Analyze heartdata_df and provide insights about the data`
-
-# CELL ********************
-
-#### ATTENTION: AI-generated code can include errors or operations you didn't intend. Review the code in this cell carefully before running it.
-
-# Show the schema to understand columns and data types
-heartdata_df.printSchema()
-
-# Show the first 5 rows for a sample of the contents
-heartdata_df.show(5)
-
-# Get basic summary statistics for numerical columns
-heartdata_df.describe().show()
-
-# Count of target variable (HeartDisease), to see prevalence
-heartdata_df.groupBy("HeartDisease").count().show()
-
-# Count of each category in 'ChestPainType'
-heartdata_df.groupBy("ChestPainType").count().show()
-
-# Count missing values in each column
-from pyspark.sql.functions import col, isnan, when, count
-
-missing_vals = heartdata_df.select([
-    count(when(col(c).isNull() | isnan(c), c)).alias(c + "_missing") for c in heartdata_df.columns
-])
-missing_vals.show()
-
-# METADATA ********************
-
-# META {
-# META   "language": "python",
-# META   "language_group": "synapse_pyspark"
-# META }
 
 # MARKDOWN ********************
 
@@ -117,83 +66,12 @@ missing_vals.show()
 # 4. **Code Expected** Generate a visualization of interest
 #    - `Show me a histogram for the distribution of age`
 
-# CELL ********************
-
-#### ATTENTION: AI-generated code can include errors or operations you didn't intend. Review the code in this cell carefully before running it.
-
-# Show a histogram of the distribution of age in heartdata_df
-
-import matplotlib.pyplot as plt
-
-# Convert 'Age' column to a pandas series for plotting
-age_pd = heartdata_df.select("Age").toPandas()
-
-plt.figure(figsize=(8,5))
-plt.hist(age_pd["Age"], bins=20, color='skyblue', edgecolor='black')
-plt.title("Age Distribution in heartdata_df")
-plt.xlabel("Age")
-plt.ylabel("Frequency")
-plt.grid(axis='y', alpha=0.75)
-plt.show()
-
-# METADATA ********************
-
-# META {
-# META   "language": "python",
-# META   "language_group": "synapse_pyspark"
-# META }
-
 # MARKDOWN ********************
 
 # 5. Further data exploration and visualization guided by Copilot
 #    - `What more data exploration and visualization can I do?`
 # 6. **Code Expected** Generating code from the visualizations offered
 #    - **If Copilot lists a series of visualizations instead of generating a code cell, pick some from the list and ask Copilot to generate the code**
-
-# CELL ********************
-
-#### ATTENTION: AI-generated code can include errors or operations you didn't intend. Review the code in this cell carefully before running it.
-
-import matplotlib.pyplot as plt
-
-# Convert relevant columns to pandas
-df_pd = heartdata_df.select("Sex", "HeartDisease", "ChestPainType").toPandas()
-
-# 2. Boxplot: Age distribution by HeartDisease diagnosis
-age_hd_pd = heartdata_df.select("Age", "HeartDisease").toPandas()
-plt.figure(figsize=(7, 5))
-age_hd_pd.boxplot(column="Age", by="HeartDisease", grid=False)
-plt.title("Age Distribution by Heart Disease Status")
-plt.xlabel("Heart Disease (0=No, 1=Yes)")
-plt.ylabel("Age")
-plt.suptitle("")
-plt.show()
-
-# 3. Bar chart: Frequency of Sex
-plt.figure(figsize=(5, 4))
-df_pd['Sex'].value_counts().plot(kind='bar', color=['skyblue', 'salmon'], edgecolor='black')
-plt.title("Frequency of Sex")
-plt.xlabel("Sex")
-plt.ylabel("Count")
-plt.grid(axis='y', alpha=0.3)
-plt.show()
-
-# 4. Stacked bar chart: ChestPainType by HeartDisease
-cp_hd_counts = df_pd.groupby(['ChestPainType','HeartDisease']).size().unstack(fill_value=0)
-cp_hd_counts.plot(kind='bar', stacked=True, colormap='tab20', figsize=(7,5))
-plt.title("Chest Pain Type by Heart Disease Status")
-plt.xlabel("Chest Pain Type")
-plt.ylabel("Count")
-plt.legend(title="Heart Disease")
-plt.grid(axis='y', alpha=0.3)
-plt.show()
-
-# METADATA ********************
-
-# META {
-# META   "language": "python",
-# META   "language_group": "synapse_pyspark"
-# META }
 
 # MARKDOWN ********************
 
@@ -231,21 +109,6 @@ plt.show()
 # META   "language_group": "synapse_pyspark"
 # META }
 
-# CELL ********************
-
-#### ATTENTION: AI-generated code can include errors or operations you didn't intend. Review the code in this cell carefully before running it.
-
-# Drop all rows with any missing values from heartdata_df
-heartdata_df_clean = heartdata_df.dropna()
-display(heartdata_df_clean)
-
-# METADATA ********************
-
-# META {
-# META   "language": "python",
-# META   "language_group": "synapse_pyspark"
-# META }
-
 # MARKDOWN ********************
 
 # ### Modyfing existing cells
@@ -263,15 +126,12 @@ display(heartdata_df_clean)
 
 import pandas as pd
 from sklearn.preprocessing import LabelEncoder
-
 lab = LabelEncoder()
 data_df1 = heartdata_df_clean.toPandas()
-obj = data_df1.select_dtypes(include='object')  # Fixed typo: added a dot before 'select_dtypes'
+obj = data_df1select_dtypes(include='object')  
 not_obj = data_df1.select_dtypes(exclude='object')
-
 for i in range(0, obj.shape[1]):
-    obj.iloc[:, i] = lab.fit_transform(obj.iloc[:, i])
-
+  obj.iloc[:,i] = lab.fit_transform(obj.iloc[:,i])
 df_ready = pd.concat([obj, not_obj], axis=1)
 df_ready.head(10)
 
@@ -326,54 +186,6 @@ df_ready.head(10)
 
 # MAGIC %%code
 # MAGIC Generate the code for splitting the data, training the model and evaluating the model
-
-# METADATA ********************
-
-# META {
-# META   "language": "python",
-# META   "language_group": "synapse_pyspark"
-# META }
-
-# CELL ********************
-
-#### ATTENTION: AI-generated code can include errors or operations you didn't intend. Review the code in this cell carefully before running it.
-
-from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LogisticRegression
-from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, roc_auc_score
-
-# Convert categorical columns to numerical
-from sklearn.preprocessing import LabelEncoder
-
-# Assuming 'df_new' is your prepared DataFrame with features and target variable
-X = df_ready.drop(columns=['HeartDisease'])  # Features
-y = df_ready['HeartDisease']                # Target variable
-
-# Split the data into training and testing sets
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
-
-# Initialize the Logistic Regression model
-model = LogisticRegression()
-
-# Train the model
-model.fit(X_train, y_train)
-
-# Make predictions on the test data
-y_pred = model.predict(X_test)
-
-# Evaluate the model
-accuracy = accuracy_score(y_test, y_pred)
-precision = precision_score(y_test, y_pred)
-recall = recall_score(y_test, y_pred)
-f1 = f1_score(y_test, y_pred)
-roc_auc = roc_auc_score(y_test, y_pred)
-
-# Print performance metrics
-print(f"Accuracy: {accuracy}")
-print(f"Precision: {precision}")
-print(f"Recall: {recall}")
-print(f"F1 Score: {f1}")
-print(f"ROC-AUC Score: {roc_auc}")
 
 # METADATA ********************
 
