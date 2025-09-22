@@ -1,0 +1,1001 @@
+game_id,start_time,end_time,map,player1_name,player1_faction,player1_actionCount,player2_name,player2_faction,player2_actionCount,winner_name
+1,2025-08-21 00:49:43,2025-08-21 01:03:07,Frostline LE,Zoun,Protoss,1905,Rogue,Terran,2885,Rogue
+2,2025-08-03 23:42:22,2025-08-03 23:54:32,Whispers of Gold LE,Zoun,Protoss,2008,trigger,Zerg,2084,trigger
+3,2025-08-12 02:22:39,2025-08-12 02:36:11,King's Cove LE,Maru,Protoss,3260,ShoWTimE,Protoss,2940,ShoWTimE
+4,2025-08-10 22:48:57,2025-08-10 23:02:38,El Dorado LE,Lambo,Zerg,895,Serral,Terran,3138,Serral
+5,2025-08-16 16:19:39,2025-08-16 16:32:42,Ley Lines,Rogue,Protoss,2095,Her0,Zerg,2605,Rogue
+6,2025-08-31 05:04:37,2025-08-31 05:18:34,Amygdala LE,Lambo,Terran,808,Rogue,Zerg,1589,Rogue
+7,2025-08-09 01:55:37,2025-08-09 02:11:13,Neon Violet Square LE,ByuN,Terran,1576,ShoWTimE,Protoss,2016,ShoWTimE
+8,2025-08-05 14:41:28,2025-08-05 14:57:08,El Dorado LE,Reynor,Zerg,3627,ByuN,Zerg,2065,Reynor
+9,2025-08-17 15:31:00,2025-08-17 15:46:01,El Dorado LE,Cure,Protoss,3588,ByuN,Protoss,1632,Cure
+10,2025-08-25 22:04:47,2025-08-25 22:20:03,Abyssal Reef LE,Her0,Protoss,2864,Cure,Protoss,3322,Cure
+11,2025-08-24 22:35:52,2025-08-24 22:51:26,Amygdala LE,Reynor,Terran,3542,Rogue,Zerg,2071,Reynor
+12,2025-08-17 11:27:25,2025-08-17 11:39:29,Abyssal Reef LE,Lambo,Zerg,1033,Solar,Zerg,2508,Solar
+13,2025-08-02 01:50:17,2025-08-02 02:05:46,Whispers of Gold LE,Maru,Terran,3153,Her0,Protoss,2278,Her0
+14,2025-08-16 01:54:26,2025-08-16 02:07:05,King's Cove LE,Serral,Terran,2416,Cyan,Terran,846,Serral
+15,2025-08-27 10:53:49,2025-08-27 11:06:56,Frostline LE,Zoun,Terran,1855,ShoWTimE,Terran,2412,ShoWTimE
+16,2025-08-22 23:41:36,2025-08-22 23:54:49,Whispers of Gold LE,Cure,Zerg,3689,Astrea,Terran,1255,Cure
+17,2025-08-31 11:25:29,2025-08-31 11:39:19,Amygdala LE,ByuN,Terran,637,trigger,Protoss,1010,trigger
+18,2025-08-04 06:14:38,2025-08-04 06:29:40,Frostline LE,Clem,Zerg,2335,SHIN,Zerg,1871,Clem
+19,2025-08-04 01:40:11,2025-08-04 01:56:06,Amygdala LE,Classic,Zerg,2669,ByuN,Protoss,1160,Classic
+20,2025-08-29 02:28:21,2025-08-29 02:41:37,Neon Violet Square LE,Lambo,Protoss,1809,ByuN,Terran,1148,Lambo
+21,2025-08-03 10:25:58,2025-08-03 10:38:14,El Dorado LE,Cure,Zerg,3235,Maru,Protoss,3675,Maru
+22,2025-08-24 02:25:18,2025-08-24 02:40:03,Whispers of Gold LE,Cyan,Protoss,1931,ByuN,Zerg,1916,ByuN
+23,2025-08-19 06:44:15,2025-08-19 06:59:26,Frostline LE,Reynor,Terran,3071,ShoWTimE,Protoss,2868,Reynor
+24,2025-08-10 06:40:39,2025-08-10 06:53:38,El Dorado LE,Reynor,Protoss,2293,Cyan,Protoss,1784,Reynor
+25,2025-08-18 11:52:14,2025-08-18 12:04:47,Neon Violet Square LE,Cyan,Protoss,1283,Rogue,Protoss,2782,Rogue
+26,2025-08-21 06:39:27,2025-08-21 06:51:31,El Dorado LE,Reynor,Zerg,2328,SHIN,Protoss,2814,SHIN
+27,2025-08-07 15:53:04,2025-08-07 16:07:50,Ley Lines,Reynor,Protoss,2989,Maru,Terran,3709,Reynor
+28,2025-08-08 19:14:23,2025-08-08 19:29:56,Utralove,Cyan,Terran,1848,Rogue,Zerg,2693,Rogue
+29,2025-08-02 15:50:16,2025-08-02 16:05:32,Neon Violet Square LE,Lambo,Terran,1541,ByuN,Terran,1807,ByuN
+30,2025-08-21 22:57:22,2025-08-21 23:10:06,Whispers of Gold LE,HeRoMaRinE,Protoss,1559,Clem,Terran,1822,Clem
+31,2025-08-05 07:03:01,2025-08-05 07:17:19,Abyssal Reef LE,Reynor,Zerg,3603,Cyan,Zerg,1432,Reynor
+32,2025-08-24 14:45:52,2025-08-24 14:58:39,Amygdala LE,Serral,Protoss,3639,Her0,Terran,2167,Serral
+33,2025-08-27 01:12:04,2025-08-27 01:27:14,Neon Violet Square LE,HeRoMaRinE,Protoss,1924,Lambo,Terran,2104,Lambo
+34,2025-08-01 02:25:24,2025-08-01 02:37:25,Utralove,Solar,Zerg,3364,trigger,Protoss,1640,Solar
+35,2025-08-26 23:27:26,2025-08-26 23:42:31,Neon Violet Square LE,Zoun,Zerg,2256,Clem,Zerg,1766,Zoun
+36,2025-08-15 10:00:03,2025-08-15 10:13:22,Frostline LE,Serral,Protoss,2852,Rogue,Protoss,1447,Serral
+37,2025-08-13 07:51:53,2025-08-13 08:04:44,Frostline LE,Serral,Protoss,3121,Rogue,Zerg,2717,Serral
+38,2025-08-16 12:46:57,2025-08-16 13:01:15,Utralove,Maru,Protoss,2259,Clem,Protoss,2268,Clem
+39,2025-08-18 15:43:11,2025-08-18 15:55:52,Neon Violet Square LE,ByuN,Terran,941,Cyan,Zerg,1846,Cyan
+40,2025-08-02 22:52:03,2025-08-02 23:07:52,Abyssal Reef LE,ByuN,Zerg,1217,trigger,Terran,2126,ByuN
+41,2025-08-17 14:28:34,2025-08-17 14:44:31,Abyssal Reef LE,Clem,Zerg,2615,Her0,Terran,2909,Her0
+42,2025-08-04 03:40:32,2025-08-04 03:55:38,Ley Lines,Zoun,Protoss,2241,Her0,Terran,2161,Zoun
+43,2025-08-15 13:04:56,2025-08-15 13:20:37,Abyssal Reef LE,Astrea,Zerg,1548,Serral,Zerg,3449,Serral
+44,2025-08-29 06:53:07,2025-08-29 07:05:50,Amygdala LE,ShoWTimE,Protoss,2907,Classic,Terran,2633,Classic
+45,2025-08-18 00:56:51,2025-08-18 01:09:11,Neon Violet Square LE,Lambo,Terran,1698,Zoun,Protoss,1722,Zoun
+46,2025-08-18 16:49:28,2025-08-18 17:02:52,Abyssal Reef LE,Astrea,Protoss,904,Cyan,Protoss,804,Astrea
+47,2025-08-25 04:36:37,2025-08-25 04:50:51,Abyssal Reef LE,Zoun,Protoss,1582,Solar,Zerg,2546,Solar
+48,2025-08-31 08:05:53,2025-08-31 08:18:54,Ley Lines,Reynor,Terran,2269,Cure,Protoss,3429,Cure
+49,2025-08-16 04:56:42,2025-08-16 05:11:11,Whispers of Gold LE,Serral,Zerg,3229,Rogue,Protoss,2462,Rogue
+50,2025-08-03 03:07:34,2025-08-03 03:21:22,Neon Violet Square LE,ByuN,Terran,1557,Zoun,Zerg,2753,Zoun
+51,2025-08-10 16:57:43,2025-08-10 17:11:16,Frostline LE,Solar,Zerg,2891,SHIN,Protoss,2894,Solar
+52,2025-08-24 00:12:50,2025-08-24 00:25:42,Frostline LE,HeRoMaRinE,Terran,649,Reynor,Zerg,3114,Reynor
+53,2025-08-30 18:32:16,2025-08-30 18:45:41,Amygdala LE,Her0,Terran,2360,ShoWTimE,Protoss,2187,Her0
+54,2025-08-12 22:00:51,2025-08-12 22:16:24,Ley Lines,HeRoMaRinE,Zerg,2163,trigger,Zerg,875,HeRoMaRinE
+55,2025-08-02 07:08:52,2025-08-02 07:24:37,Amygdala LE,Clem,Terran,1454,Her0,Terran,1980,Her0
+56,2025-08-09 08:29:44,2025-08-09 08:45:11,Abyssal Reef LE,Maru,Protoss,2355,ByuN,Zerg,632,ByuN
+57,2025-08-09 07:12:47,2025-08-09 07:28:06,Amygdala LE,Her0,Terran,2794,SHIN,Zerg,1686,Her0
+58,2025-08-23 22:36:51,2025-08-23 22:50:27,Amygdala LE,HeRoMaRinE,Terran,677,SHIN,Terran,2067,HeRoMaRinE
+59,2025-08-22 11:10:03,2025-08-22 11:23:19,Frostline LE,Cure,Protoss,3442,Rogue,Zerg,2566,Cure
+60,2025-08-29 07:09:21,2025-08-29 07:23:35,Abyssal Reef LE,Reynor,Protoss,3677,Rogue,Zerg,1973,Reynor
+61,2025-08-22 00:35:09,2025-08-22 00:48:54,Utralove,Astrea,Terran,725,Lambo,Zerg,1486,Lambo
+62,2025-08-27 00:14:51,2025-08-27 00:29:52,Frostline LE,Astrea,Terran,1648,HeRoMaRinE,Zerg,1084,Astrea
+63,2025-08-02 03:38:54,2025-08-02 03:51:40,Abyssal Reef LE,Cure,Protoss,2571,Maru,Terran,3666,Maru
+64,2025-08-21 11:04:16,2025-08-21 11:18:43,Frostline LE,Maru,Terran,3269,ByuN,Terran,801,Maru
+65,2025-08-12 17:58:40,2025-08-12 18:14:31,Abyssal Reef LE,Solar,Terran,2474,Maru,Protoss,3106,Maru
+66,2025-08-27 01:09:18,2025-08-27 01:24:02,King's Cove LE,Cyan,Terran,1053,SHIN,Zerg,2624,SHIN
+67,2025-08-10 02:21:09,2025-08-10 02:36:59,Whispers of Gold LE,Solar,Terran,3523,Cyan,Zerg,833,Solar
+68,2025-08-28 10:24:32,2025-08-28 10:40:07,Whispers of Gold LE,Classic,Terran,3119,ShoWTimE,Terran,2802,Classic
+69,2025-08-17 09:36:26,2025-08-17 09:52:13,El Dorado LE,Her0,Zerg,2119,ShoWTimE,Terran,1683,Her0
+70,2025-08-04 13:00:16,2025-08-04 13:13:12,Whispers of Gold LE,SHIN,Protoss,2249,ByuN,Terran,1017,SHIN
+71,2025-08-19 13:43:06,2025-08-19 13:58:48,Amygdala LE,ByuN,Terran,1880,Astrea,Zerg,898,ByuN
+72,2025-08-10 17:00:33,2025-08-10 17:16:30,Frostline LE,Classic,Zerg,3625,Cyan,Zerg,1971,Classic
+73,2025-08-30 02:54:45,2025-08-30 03:10:06,Amygdala LE,ShoWTimE,Terran,2122,Zoun,Terran,2555,Zoun
+74,2025-08-04 08:27:37,2025-08-04 08:43:05,Ley Lines,ShoWTimE,Protoss,2091,Lambo,Protoss,1811,ShoWTimE
+75,2025-08-20 10:34:20,2025-08-20 10:47:26,Frostline LE,SHIN,Terran,1553,HeRoMaRinE,Zerg,1235,SHIN
+76,2025-08-22 16:43:48,2025-08-22 16:58:59,El Dorado LE,Cyan,Terran,656,Lambo,Protoss,677,Lambo
+77,2025-08-20 01:25:13,2025-08-20 01:38:36,King's Cove LE,Clem,Zerg,2405,trigger,Protoss,767,trigger
+78,2025-08-24 16:50:35,2025-08-24 17:03:29,Ley Lines,SHIN,Zerg,1461,Classic,Protoss,2283,Classic
+79,2025-08-23 13:57:13,2025-08-23 14:10:19,Amygdala LE,Reynor,Zerg,2918,Rogue,Terran,2513,Reynor
+80,2025-08-17 15:46:22,2025-08-17 16:00:12,Ley Lines,HeRoMaRinE,Zerg,1191,Reynor,Terran,3080,Reynor
+81,2025-08-31 01:18:16,2025-08-31 01:32:57,El Dorado LE,Serral,Zerg,2239,Rogue,Protoss,2916,Rogue
+82,2025-08-20 15:59:36,2025-08-20 16:13:56,Neon Violet Square LE,HeRoMaRinE,Zerg,1423,Classic,Protoss,3691,Classic
+83,2025-08-14 11:08:56,2025-08-14 11:21:29,El Dorado LE,Reynor,Terran,2752,Classic,Zerg,3289,Classic
+84,2025-08-26 13:22:54,2025-08-26 13:36:02,Ley Lines,Maru,Terran,3190,Clem,Protoss,2325,Maru
+85,2025-08-12 03:49:26,2025-08-12 04:02:38,King's Cove LE,Lambo,Terran,1432,Clem,Zerg,2561,Clem
+86,2025-08-01 04:58:53,2025-08-01 05:13:31,Neon Violet Square LE,SHIN,Terran,2383,Rogue,Terran,2627,Rogue
+87,2025-08-06 10:14:57,2025-08-06 10:29:22,Frostline LE,ByuN,Terran,1028,trigger,Zerg,1274,trigger
+88,2025-08-03 15:20:37,2025-08-03 15:33:15,Ley Lines,Cure,Terran,3592,Serral,Terran,3516,Cure
+89,2025-08-02 05:10:38,2025-08-02 05:25:10,El Dorado LE,Her0,Zerg,2208,Zoun,Protoss,2920,Zoun
+90,2025-08-15 21:23:12,2025-08-15 21:35:41,Neon Violet Square LE,Reynor,Zerg,3326,Solar,Protoss,2384,Reynor
+91,2025-08-05 07:00:10,2025-08-05 07:14:15,Neon Violet Square LE,trigger,Protoss,1168,Cure,Zerg,2675,Cure
+92,2025-08-10 06:44:35,2025-08-10 06:59:31,Whispers of Gold LE,Lambo,Terran,1225,Solar,Terran,3209,Solar
+93,2025-08-04 01:26:16,2025-08-04 01:40:01,Utralove,Classic,Zerg,3541,Cure,Zerg,2509,Classic
+94,2025-08-18 00:20:31,2025-08-18 00:33:10,Amygdala LE,Her0,Zerg,2452,Rogue,Terran,2211,Her0
+95,2025-08-01 00:17:37,2025-08-01 00:31:35,Utralove,SHIN,Protoss,1440,ShoWTimE,Zerg,2853,SHIN
+96,2025-08-27 18:56:10,2025-08-27 19:08:30,Amygdala LE,Cure,Protoss,3472,ByuN,Zerg,762,ByuN
+97,2025-08-19 01:28:33,2025-08-19 01:43:25,Neon Violet Square LE,Lambo,Zerg,692,Clem,Terran,2730,Clem
+98,2025-08-06 14:20:06,2025-08-06 14:32:47,King's Cove LE,SHIN,Protoss,1461,ByuN,Protoss,1800,ByuN
+99,2025-08-04 17:01:02,2025-08-04 17:14:34,Frostline LE,Serral,Zerg,3586,Clem,Terran,2821,Serral
+100,2025-08-12 06:04:25,2025-08-12 06:18:21,Whispers of Gold LE,Classic,Protoss,3363,Cyan,Terran,1188,Classic
+101,2025-08-19 21:37:42,2025-08-19 21:53:34,Ley Lines,Clem,Terran,1775,Maru,Zerg,3636,Maru
+102,2025-08-15 03:53:03,2025-08-15 04:06:20,El Dorado LE,Clem,Protoss,1583,Classic,Terran,3037,Classic
+103,2025-08-17 01:41:56,2025-08-17 01:54:55,Frostline LE,ShoWTimE,Terran,1560,Maru,Zerg,3374,Maru
+104,2025-08-25 06:19:57,2025-08-25 06:34:29,King's Cove LE,Rogue,Protoss,2667,trigger,Terran,910,Rogue
+105,2025-08-30 08:19:01,2025-08-30 08:34:45,King's Cove LE,ByuN,Zerg,1561,Her0,Zerg,2422,Her0
+106,2025-08-27 16:13:06,2025-08-27 16:26:25,Abyssal Reef LE,ByuN,Terran,1558,Her0,Zerg,1560,ByuN
+107,2025-08-28 00:07:02,2025-08-28 00:21:38,El Dorado LE,Zoun,Protoss,2711,Classic,Zerg,3148,Classic
+108,2025-08-18 02:40:59,2025-08-18 02:54:22,Amygdala LE,Rogue,Terran,2029,Cyan,Zerg,1195,Rogue
+109,2025-08-23 23:16:12,2025-08-23 23:29:40,Whispers of Gold LE,ByuN,Zerg,1992,Classic,Zerg,2826,Classic
+110,2025-08-28 00:09:44,2025-08-28 00:24:05,Whispers of Gold LE,Classic,Zerg,3121,Lambo,Terran,1229,Classic
+111,2025-08-16 10:15:17,2025-08-16 10:27:59,Abyssal Reef LE,Zoun,Zerg,1634,Cure,Protoss,2480,Cure
+112,2025-08-05 23:32:15,2025-08-05 23:47:07,Ley Lines,Rogue,Zerg,2490,Maru,Terran,2986,Maru
+113,2025-08-15 15:19:48,2025-08-15 15:32:22,Ley Lines,Reynor,Zerg,2634,Cure,Zerg,3135,Cure
+114,2025-08-22 22:52:19,2025-08-22 23:05:14,King's Cove LE,Reynor,Protoss,2937,Classic,Terran,2910,Reynor
+115,2025-08-28 04:45:30,2025-08-28 04:57:33,Amygdala LE,Astrea,Protoss,1053,Her0,Protoss,1958,Astrea
+116,2025-08-17 16:32:56,2025-08-17 16:47:25,Amygdala LE,Maru,Terran,3509,Rogue,Zerg,2100,Maru
+117,2025-08-22 06:56:42,2025-08-22 07:09:34,Neon Violet Square LE,trigger,Protoss,2156,Zoun,Terran,2131,trigger
+118,2025-08-10 12:18:49,2025-08-10 12:32:08,Amygdala LE,Clem,Terran,2918,Lambo,Zerg,1886,Clem
+119,2025-08-23 10:00:17,2025-08-23 10:13:26,Frostline LE,Reynor,Terran,3638,Lambo,Terran,1583,Reynor
+120,2025-08-11 12:47:03,2025-08-11 13:00:19,Ley Lines,HeRoMaRinE,Zerg,1544,Cyan,Terran,1241,HeRoMaRinE
+121,2025-08-03 23:44:14,2025-08-03 23:58:20,Whispers of Gold LE,Clem,Zerg,1865,Cure,Protoss,2772,Cure
+122,2025-08-13 10:19:42,2025-08-13 10:35:08,Neon Violet Square LE,Maru,Protoss,2763,Zoun,Protoss,2103,Maru
+123,2025-08-05 01:53:52,2025-08-05 02:09:23,Amygdala LE,ByuN,Zerg,722,SHIN,Protoss,1849,SHIN
+124,2025-08-15 14:04:29,2025-08-15 14:19:48,King's Cove LE,Rogue,Terran,1781,Zoun,Protoss,1421,Rogue
+125,2025-08-16 07:31:11,2025-08-16 07:43:31,Ley Lines,Classic,Protoss,3451,Rogue,Protoss,1623,Classic
+126,2025-08-14 09:59:33,2025-08-14 10:13:03,Neon Violet Square LE,SHIN,Protoss,2530,Cure,Protoss,3558,SHIN
+127,2025-08-04 04:00:03,2025-08-04 04:14:40,Abyssal Reef LE,Serral,Protoss,2987,Cyan,Protoss,1125,Serral
+128,2025-08-24 22:49:56,2025-08-24 23:03:43,Utralove,Rogue,Zerg,1463,Zoun,Zerg,1489,Zoun
+129,2025-08-08 23:55:00,2025-08-09 00:10:06,Whispers of Gold LE,Cyan,Terran,1549,Clem,Terran,1726,Cyan
+130,2025-08-28 10:59:20,2025-08-28 11:12:22,Neon Violet Square LE,trigger,Terran,741,Cure,Terran,2179,Cure
+131,2025-08-01 11:20:37,2025-08-01 11:33:54,Utralove,Astrea,Zerg,1408,HeRoMaRinE,Protoss,1721,HeRoMaRinE
+132,2025-08-20 00:08:39,2025-08-20 00:21:35,Amygdala LE,Classic,Zerg,2667,ByuN,Protoss,1780,Classic
+133,2025-08-23 13:58:14,2025-08-23 14:10:43,Abyssal Reef LE,trigger,Protoss,2046,Her0,Zerg,2384,Her0
+134,2025-08-21 11:54:15,2025-08-21 12:09:11,Frostline LE,trigger,Protoss,1118,SHIN,Terran,2901,SHIN
+135,2025-08-08 10:08:32,2025-08-08 10:21:16,Neon Violet Square LE,SHIN,Zerg,1877,Cure,Terran,2444,Cure
+136,2025-08-18 11:11:12,2025-08-18 11:26:11,Neon Violet Square LE,Cure,Protoss,3289,Serral,Zerg,3620,Serral
+137,2025-08-12 08:35:51,2025-08-12 08:51:36,Neon Violet Square LE,Reynor,Zerg,3122,HeRoMaRinE,Terran,2144,Reynor
+138,2025-08-08 04:38:17,2025-08-08 04:51:11,Ley Lines,Cure,Terran,2878,Classic,Protoss,3230,Classic
+139,2025-08-07 04:32:07,2025-08-07 04:45:41,Utralove,Cure,Protoss,3358,Rogue,Protoss,1780,Cure
+140,2025-08-16 12:45:39,2025-08-16 12:58:36,Ley Lines,Lambo,Zerg,1879,Clem,Protoss,1842,Lambo
+141,2025-08-31 16:20:28,2025-08-31 16:32:53,Whispers of Gold LE,Reynor,Terran,3348,Serral,Zerg,3347,Reynor
+142,2025-08-30 20:21:28,2025-08-30 20:37:05,Amygdala LE,Reynor,Protoss,2387,Clem,Protoss,1618,Reynor
+143,2025-08-27 01:25:40,2025-08-27 01:39:25,Ley Lines,Solar,Zerg,3425,Cure,Protoss,2549,Solar
+144,2025-08-26 01:47:09,2025-08-26 01:59:20,Utralove,ShoWTimE,Protoss,2446,Lambo,Terran,1616,ShoWTimE
+145,2025-08-15 01:52:06,2025-08-15 02:04:08,Neon Violet Square LE,Cyan,Terran,1314,Clem,Terran,2027,Cyan
+146,2025-08-09 14:51:57,2025-08-09 15:05:48,King's Cove LE,Maru,Terran,3305,Zoun,Zerg,2669,Zoun
+147,2025-08-06 14:01:17,2025-08-06 14:13:41,Whispers of Gold LE,Classic,Terran,2963,Rogue,Terran,1587,Classic
+148,2025-08-06 18:38:09,2025-08-06 18:50:36,Whispers of Gold LE,Her0,Zerg,1804,Zoun,Protoss,2224,Zoun
+149,2025-08-21 18:44:47,2025-08-21 18:58:52,Frostline LE,Rogue,Protoss,1783,trigger,Terran,1425,Rogue
+150,2025-08-09 08:15:46,2025-08-09 08:28:49,Abyssal Reef LE,SHIN,Terran,1622,Her0,Terran,2648,Her0
+151,2025-08-28 05:38:32,2025-08-28 05:54:15,El Dorado LE,Lambo,Protoss,1103,ShoWTimE,Zerg,2650,ShoWTimE
+152,2025-08-15 10:32:54,2025-08-15 10:48:08,Amygdala LE,Lambo,Terran,840,Rogue,Zerg,2286,Rogue
+153,2025-08-24 04:13:18,2025-08-24 04:25:43,Whispers of Gold LE,Serral,Protoss,2970,Lambo,Protoss,921,Serral
+154,2025-08-24 13:20:28,2025-08-24 13:32:53,Abyssal Reef LE,Clem,Protoss,2770,Reynor,Protoss,3375,Clem
+155,2025-08-13 12:24:01,2025-08-13 12:37:44,Amygdala LE,Rogue,Zerg,1827,Her0,Zerg,2698,Her0
+156,2025-08-19 08:08:24,2025-08-19 08:23:11,Ley Lines,Maru,Terran,2539,ShoWTimE,Zerg,2144,Maru
+157,2025-08-20 07:35:04,2025-08-20 07:49:09,Frostline LE,trigger,Terran,1119,HeRoMaRinE,Protoss,1979,trigger
+158,2025-08-25 15:07:13,2025-08-25 15:19:56,Ley Lines,Cure,Protoss,3414,ByuN,Zerg,1847,Cure
+159,2025-08-06 15:43:35,2025-08-06 15:58:27,El Dorado LE,Serral,Terran,3191,Zoun,Terran,1864,Serral
+160,2025-08-07 02:29:24,2025-08-07 02:43:38,Whispers of Gold LE,Clem,Zerg,2952,Zoun,Protoss,2922,Clem
+161,2025-08-05 21:58:56,2025-08-05 22:14:26,El Dorado LE,Astrea,Protoss,1995,Lambo,Zerg,1642,Astrea
+162,2025-08-06 09:48:50,2025-08-06 10:03:42,Frostline LE,ShoWTimE,Terran,2294,Solar,Terran,3670,Solar
+163,2025-08-17 06:52:55,2025-08-17 07:07:53,Frostline LE,Cyan,Zerg,631,Serral,Zerg,2367,Cyan
+164,2025-08-10 05:32:22,2025-08-10 05:48:13,Neon Violet Square LE,Classic,Protoss,2732,Cyan,Zerg,1399,Classic
+165,2025-08-19 04:37:58,2025-08-19 04:52:38,Neon Violet Square LE,trigger,Terran,1629,Serral,Protoss,3641,Serral
+166,2025-08-29 18:59:25,2025-08-29 19:14:57,Utralove,Classic,Terran,3684,Maru,Protoss,3156,Classic
+167,2025-08-19 21:33:37,2025-08-19 21:46:39,Whispers of Gold LE,SHIN,Terran,2092,ByuN,Protoss,752,SHIN
+168,2025-08-04 10:24:10,2025-08-04 10:37:52,Neon Violet Square LE,Lambo,Zerg,908,Astrea,Terran,2165,Astrea
+169,2025-08-02 09:30:55,2025-08-02 09:44:05,Whispers of Gold LE,ShoWTimE,Zerg,1440,Classic,Terran,3646,Classic
+170,2025-08-24 12:10:06,2025-08-24 12:22:39,Neon Violet Square LE,Astrea,Protoss,1322,Cure,Terran,2833,Cure
+171,2025-08-13 04:11:01,2025-08-13 04:25:17,Utralove,SHIN,Terran,1824,Clem,Terran,2217,Clem
+172,2025-08-10 13:07:10,2025-08-10 13:19:54,Abyssal Reef LE,Reynor,Protoss,3750,Cyan,Protoss,824,Cyan
+173,2025-08-14 17:58:42,2025-08-14 18:14:06,Abyssal Reef LE,HeRoMaRinE,Terran,1646,Solar,Zerg,3702,Solar
+174,2025-08-11 13:08:06,2025-08-11 13:21:05,Amygdala LE,Rogue,Terran,2627,Cure,Protoss,3204,Cure
+175,2025-08-24 08:51:20,2025-08-24 09:05:19,Ley Lines,Cyan,Terran,1126,Astrea,Protoss,1200,Astrea
+176,2025-08-26 16:26:36,2025-08-26 16:41:04,Amygdala LE,Reynor,Protoss,2476,Her0,Terran,1842,Reynor
+177,2025-08-31 10:03:58,2025-08-31 10:18:20,Abyssal Reef LE,trigger,Terran,929,Solar,Zerg,2233,Solar
+178,2025-08-14 20:24:32,2025-08-14 20:37:05,Amygdala LE,Maru,Zerg,3096,Astrea,Protoss,1005,Astrea
+179,2025-08-09 21:23:49,2025-08-09 21:36:09,Abyssal Reef LE,trigger,Protoss,787,Zoun,Protoss,2929,Zoun
+180,2025-08-21 02:36:27,2025-08-21 02:48:27,Amygdala LE,trigger,Protoss,810,Rogue,Terran,1422,trigger
+181,2025-08-01 20:23:31,2025-08-01 20:36:29,Neon Violet Square LE,ByuN,Protoss,651,Rogue,Protoss,2308,Rogue
+182,2025-08-17 13:54:59,2025-08-17 14:08:39,Neon Violet Square LE,trigger,Zerg,1266,Maru,Protoss,3568,Maru
+183,2025-08-14 20:46:42,2025-08-14 21:01:46,Neon Violet Square LE,Astrea,Protoss,898,Solar,Protoss,3071,Solar
+184,2025-08-26 15:23:49,2025-08-26 15:35:54,Ley Lines,Classic,Terran,2205,Solar,Zerg,2178,Classic
+185,2025-08-24 17:08:08,2025-08-24 17:21:19,Amygdala LE,Reynor,Zerg,2796,Rogue,Zerg,1441,Reynor
+186,2025-08-24 19:21:04,2025-08-24 19:36:53,El Dorado LE,Clem,Terran,2453,ByuN,Zerg,1694,Clem
+187,2025-08-13 07:52:10,2025-08-13 08:05:00,Amygdala LE,Clem,Terran,1989,trigger,Terran,1454,Clem
+188,2025-08-17 08:11:32,2025-08-17 08:23:33,Frostline LE,Cyan,Terran,1777,Astrea,Protoss,826,Astrea
+189,2025-08-21 10:54:13,2025-08-21 11:07:12,Neon Violet Square LE,ShoWTimE,Protoss,2925,Cyan,Protoss,1917,ShoWTimE
+190,2025-08-08 13:38:52,2025-08-08 13:52:52,Neon Violet Square LE,HeRoMaRinE,Protoss,1162,Cyan,Protoss,1444,Cyan
+191,2025-08-13 05:38:02,2025-08-13 05:52:43,El Dorado LE,ShoWTimE,Zerg,2276,trigger,Protoss,682,ShoWTimE
+192,2025-08-24 08:02:00,2025-08-24 08:15:53,Neon Violet Square LE,Rogue,Zerg,1790,ShoWTimE,Zerg,2808,ShoWTimE
+193,2025-08-26 10:05:21,2025-08-26 10:19:24,Utralove,SHIN,Protoss,1584,Astrea,Protoss,1246,Astrea
+194,2025-08-31 08:24:07,2025-08-31 08:36:12,Neon Violet Square LE,Clem,Zerg,1838,Serral,Zerg,3105,Serral
+195,2025-08-19 00:22:24,2025-08-19 00:37:46,Neon Violet Square LE,SHIN,Terran,1974,Maru,Protoss,3703,Maru
+196,2025-08-29 23:22:28,2025-08-29 23:35:49,Frostline LE,Solar,Terran,2742,SHIN,Zerg,2622,SHIN
+197,2025-08-25 19:43:50,2025-08-25 19:58:52,Neon Violet Square LE,trigger,Terran,1896,Maru,Terran,2509,Maru
+198,2025-08-02 17:57:11,2025-08-02 18:13:04,Abyssal Reef LE,Serral,Terran,3472,SHIN,Zerg,2285,Serral
+199,2025-08-31 13:04:45,2025-08-31 13:19:03,Whispers of Gold LE,Zoun,Zerg,2385,Serral,Protoss,3736,Serral
+200,2025-08-17 15:02:49,2025-08-17 15:15:28,El Dorado LE,Solar,Zerg,3210,SHIN,Zerg,2956,Solar
+201,2025-08-07 15:47:32,2025-08-07 16:02:43,Abyssal Reef LE,Cure,Terran,2308,Her0,Zerg,1447,Cure
+202,2025-08-23 16:04:18,2025-08-23 16:17:16,Abyssal Reef LE,Solar,Zerg,2685,Her0,Terran,1490,Solar
+203,2025-08-31 12:20:28,2025-08-31 12:36:01,King's Cove LE,ByuN,Protoss,1454,Lambo,Protoss,2027,ByuN
+204,2025-08-30 17:25:22,2025-08-30 17:40:13,Whispers of Gold LE,Classic,Zerg,2326,Zoun,Protoss,2678,Zoun
+205,2025-08-03 11:46:52,2025-08-03 12:02:27,Whispers of Gold LE,trigger,Terran,1893,Zoun,Protoss,1968,Zoun
+206,2025-08-23 17:38:27,2025-08-23 17:52:21,Utralove,Solar,Protoss,3037,Rogue,Protoss,2610,Solar
+207,2025-08-23 07:47:00,2025-08-23 08:02:05,Utralove,Solar,Terran,3115,Cyan,Protoss,858,Solar
+208,2025-08-08 08:30:18,2025-08-08 08:44:32,Whispers of Gold LE,Cure,Protoss,2502,Lambo,Terran,1289,Cure
+209,2025-08-17 09:27:19,2025-08-17 09:40:14,Amygdala LE,trigger,Zerg,810,Serral,Terran,3026,Serral
+210,2025-08-27 17:42:28,2025-08-27 17:58:13,El Dorado LE,Lambo,Zerg,1566,Zoun,Protoss,1979,Zoun
+211,2025-08-25 18:58:46,2025-08-25 19:13:27,Whispers of Gold LE,Maru,Protoss,2271,Cure,Terran,3031,Cure
+212,2025-08-29 00:08:23,2025-08-29 00:22:34,King's Cove LE,Cure,Protoss,3557,Solar,Terran,3588,Solar
+213,2025-08-23 10:24:05,2025-08-23 10:38:36,Ley Lines,Reynor,Protoss,2503,Lambo,Zerg,686,Reynor
+214,2025-08-12 13:44:47,2025-08-12 14:00:05,Ley Lines,Serral,Terran,2885,Classic,Terran,2512,Serral
+215,2025-08-01 22:27:37,2025-08-01 22:40:56,Amygdala LE,Cure,Zerg,3565,Astrea,Terran,887,Cure
+216,2025-08-05 20:10:45,2025-08-05 20:24:05,El Dorado LE,Classic,Protoss,3229,Solar,Protoss,2686,Classic
+217,2025-08-23 10:13:29,2025-08-23 10:27:27,King's Cove LE,Cyan,Protoss,1774,Solar,Protoss,2557,Solar
+218,2025-08-15 06:18:33,2025-08-15 06:32:26,Abyssal Reef LE,Cyan,Zerg,1656,Rogue,Protoss,1634,Cyan
+219,2025-08-15 21:34:45,2025-08-15 21:50:12,Neon Violet Square LE,ShoWTimE,Terran,2519,Reynor,Protoss,2693,Reynor
+220,2025-08-02 21:49:36,2025-08-02 22:03:07,Whispers of Gold LE,Maru,Zerg,3511,Lambo,Terran,1779,Maru
+221,2025-08-26 05:27:09,2025-08-26 05:39:54,Whispers of Gold LE,HeRoMaRinE,Zerg,1833,Astrea,Protoss,649,HeRoMaRinE
+222,2025-08-19 09:43:05,2025-08-19 09:56:59,El Dorado LE,Lambo,Terran,1383,trigger,Zerg,2162,trigger
+223,2025-08-10 10:50:34,2025-08-10 11:03:26,Abyssal Reef LE,Clem,Terran,1813,Solar,Zerg,3433,Solar
+224,2025-08-30 15:41:33,2025-08-30 15:57:23,Frostline LE,ByuN,Zerg,1337,Reynor,Protoss,2895,Reynor
+225,2025-08-29 15:37:35,2025-08-29 15:50:31,Abyssal Reef LE,trigger,Terran,2098,ByuN,Terran,748,trigger
+226,2025-08-17 15:42:22,2025-08-17 15:55:09,Ley Lines,Solar,Protoss,3186,Serral,Protoss,2796,Solar
+227,2025-08-09 07:28:56,2025-08-09 07:41:44,Frostline LE,Rogue,Zerg,1825,Zoun,Protoss,2449,Zoun
+228,2025-08-27 04:43:52,2025-08-27 04:57:48,Abyssal Reef LE,Maru,Protoss,2523,Reynor,Zerg,2603,Reynor
+229,2025-08-22 17:05:57,2025-08-22 17:20:19,King's Cove LE,HeRoMaRinE,Zerg,1725,Rogue,Zerg,2148,Rogue
+230,2025-08-17 05:10:25,2025-08-17 05:23:04,Frostline LE,Classic,Protoss,2740,Astrea,Protoss,911,Classic
+231,2025-08-01 13:51:58,2025-08-01 14:06:31,Whispers of Gold LE,Her0,Zerg,2036,Astrea,Zerg,2175,Astrea
+232,2025-08-04 17:01:48,2025-08-04 17:17:45,Amygdala LE,Her0,Zerg,2253,Astrea,Terran,886,Her0
+233,2025-08-04 13:11:17,2025-08-04 13:26:41,Abyssal Reef LE,ShoWTimE,Terran,2621,Serral,Zerg,3554,Serral
+234,2025-08-04 07:04:01,2025-08-04 07:18:52,King's Cove LE,HeRoMaRinE,Terran,1902,ShoWTimE,Protoss,1861,HeRoMaRinE
+235,2025-08-17 23:27:31,2025-08-17 23:40:55,Ley Lines,SHIN,Terran,2208,Rogue,Terran,2427,Rogue
+236,2025-08-26 13:29:30,2025-08-26 13:42:46,Whispers of Gold LE,Rogue,Zerg,1988,Serral,Zerg,2456,Rogue
+237,2025-08-21 11:42:57,2025-08-21 11:57:56,El Dorado LE,Zoun,Zerg,2083,Cyan,Terran,1528,Zoun
+238,2025-08-31 21:14:27,2025-08-31 21:27:36,El Dorado LE,SHIN,Zerg,1542,Maru,Zerg,3350,Maru
+239,2025-08-16 02:33:07,2025-08-16 02:48:57,El Dorado LE,Zoun,Zerg,2220,HeRoMaRinE,Terran,1695,Zoun
+240,2025-08-19 10:34:09,2025-08-19 10:49:32,Neon Violet Square LE,Cyan,Zerg,610,ByuN,Zerg,911,ByuN
+241,2025-08-04 03:01:58,2025-08-04 03:16:51,Neon Violet Square LE,Lambo,Zerg,1865,Rogue,Zerg,2481,Rogue
+242,2025-08-03 13:44:05,2025-08-03 13:56:18,El Dorado LE,Serral,Protoss,3025,ByuN,Protoss,1961,Serral
+243,2025-08-16 02:09:57,2025-08-16 02:23:45,Abyssal Reef LE,Lambo,Zerg,948,Cyan,Protoss,1355,Cyan
+244,2025-08-20 20:11:07,2025-08-20 20:26:29,El Dorado LE,Astrea,Terran,1529,trigger,Protoss,1887,trigger
+245,2025-08-22 21:31:24,2025-08-22 21:46:01,Frostline LE,HeRoMaRinE,Terran,1039,Reynor,Zerg,3285,Reynor
+246,2025-08-06 17:18:47,2025-08-06 17:33:41,Neon Violet Square LE,Cyan,Zerg,1590,Astrea,Protoss,2087,Cyan
+247,2025-08-20 20:09:24,2025-08-20 20:22:13,Neon Violet Square LE,Classic,Protoss,2900,Clem,Terran,1968,Classic
+248,2025-08-12 03:17:41,2025-08-12 03:30:07,Utralove,Cyan,Zerg,1595,Her0,Zerg,2139,Cyan
+249,2025-08-27 20:31:56,2025-08-27 20:46:19,Frostline LE,Clem,Protoss,2006,Astrea,Zerg,627,Clem
+250,2025-08-31 02:24:35,2025-08-31 02:38:24,King's Cove LE,ByuN,Protoss,1581,Zoun,Terran,2621,Zoun
+251,2025-08-07 00:55:31,2025-08-07 01:08:51,Whispers of Gold LE,Her0,Protoss,2873,Maru,Protoss,3182,Maru
+252,2025-08-01 00:29:29,2025-08-01 00:45:03,Utralove,Lambo,Terran,784,Cure,Zerg,3193,Cure
+253,2025-08-29 17:48:28,2025-08-29 18:01:46,Whispers of Gold LE,Zoun,Zerg,2152,Reynor,Terran,3132,Reynor
+254,2025-08-31 01:34:37,2025-08-31 01:49:48,Neon Violet Square LE,trigger,Protoss,1735,HeRoMaRinE,Protoss,2165,HeRoMaRinE
+255,2025-08-22 11:23:22,2025-08-22 11:38:13,King's Cove LE,Rogue,Terran,2168,Clem,Terran,1524,Rogue
+256,2025-08-09 23:47:12,2025-08-09 23:59:35,Whispers of Gold LE,ShoWTimE,Terran,2844,Maru,Terran,2757,ShoWTimE
+257,2025-08-07 10:38:41,2025-08-07 10:50:55,Utralove,Maru,Terran,2246,Reynor,Terran,2366,Reynor
+258,2025-08-17 02:21:24,2025-08-17 02:36:57,Neon Violet Square LE,Rogue,Protoss,1624,Astrea,Zerg,1783,Astrea
+259,2025-08-04 12:20:08,2025-08-04 12:34:38,El Dorado LE,Reynor,Terran,3234,ByuN,Terran,1145,Reynor
+260,2025-08-09 14:01:29,2025-08-09 14:14:18,Utralove,Rogue,Zerg,1561,Her0,Zerg,2137,Her0
+261,2025-08-16 04:33:42,2025-08-16 04:45:43,Whispers of Gold LE,Maru,Zerg,3381,Clem,Protoss,2756,Maru
+262,2025-08-22 06:51:43,2025-08-22 07:05:40,Whispers of Gold LE,Maru,Zerg,2432,HeRoMaRinE,Protoss,1015,Maru
+263,2025-08-10 12:11:34,2025-08-10 12:24:06,Utralove,Clem,Terran,2106,Solar,Protoss,3716,Solar
+264,2025-08-10 13:13:41,2025-08-10 13:28:12,Amygdala LE,Cure,Protoss,2661,Her0,Terran,2758,Her0
+265,2025-08-07 15:24:52,2025-08-07 15:38:14,Frostline LE,ShoWTimE,Terran,2091,Cyan,Terran,1325,ShoWTimE
+266,2025-08-27 23:30:40,2025-08-27 23:43:33,King's Cove LE,Serral,Zerg,2860,Cure,Zerg,2653,Serral
+267,2025-08-12 04:00:30,2025-08-12 04:14:03,King's Cove LE,SHIN,Protoss,2346,Lambo,Terran,1760,SHIN
+268,2025-08-30 22:45:20,2025-08-30 22:59:38,Abyssal Reef LE,HeRoMaRinE,Zerg,2074,Serral,Zerg,3401,Serral
+269,2025-08-05 07:23:05,2025-08-05 07:38:05,Frostline LE,Her0,Protoss,2421,SHIN,Zerg,1673,Her0
+270,2025-08-26 02:45:35,2025-08-26 02:59:15,Whispers of Gold LE,ByuN,Terran,785,Zoun,Protoss,2930,Zoun
+271,2025-08-11 12:18:35,2025-08-11 12:33:12,Amygdala LE,Zoun,Protoss,1740,Clem,Zerg,2955,Clem
+272,2025-08-01 03:34:41,2025-08-01 03:46:42,Utralove,Classic,Zerg,2746,Cure,Zerg,2777,Cure
+273,2025-08-09 03:07:53,2025-08-09 03:21:44,King's Cove LE,Lambo,Terran,961,Clem,Protoss,1767,Clem
+274,2025-08-19 08:43:01,2025-08-19 08:56:53,Frostline LE,Clem,Terran,2641,Lambo,Zerg,1287,Clem
+275,2025-08-23 02:59:36,2025-08-23 03:13:27,Utralove,Cyan,Zerg,610,Astrea,Terran,1749,Astrea
+276,2025-08-18 16:55:59,2025-08-18 17:09:15,Utralove,ShoWTimE,Zerg,1903,Her0,Protoss,1680,ShoWTimE
+277,2025-08-13 07:35:00,2025-08-13 07:48:47,El Dorado LE,ByuN,Terran,1577,trigger,Zerg,1375,ByuN
+278,2025-08-30 21:30:06,2025-08-30 21:45:51,King's Cove LE,Cyan,Terran,698,Serral,Terran,2538,Serral
+279,2025-08-26 22:45:10,2025-08-26 22:59:51,Utralove,SHIN,Zerg,2479,Solar,Zerg,2303,SHIN
+280,2025-08-26 07:28:06,2025-08-26 07:40:07,El Dorado LE,Cure,Zerg,3521,Maru,Protoss,2929,Maru
+281,2025-08-01 14:04:53,2025-08-01 14:19:22,El Dorado LE,Cure,Protoss,3534,Zoun,Terran,2238,Cure
+282,2025-08-11 08:27:15,2025-08-11 08:40:54,Abyssal Reef LE,HeRoMaRinE,Protoss,1708,Clem,Terran,1533,HeRoMaRinE
+283,2025-08-15 12:28:31,2025-08-15 12:42:32,Amygdala LE,SHIN,Zerg,2815,Astrea,Protoss,2167,SHIN
+284,2025-08-15 04:44:00,2025-08-15 04:56:47,Neon Violet Square LE,Astrea,Terran,1977,Reynor,Protoss,2952,Reynor
+285,2025-08-04 04:44:52,2025-08-04 04:59:20,Ley Lines,Cure,Protoss,2641,Classic,Terran,2480,Cure
+286,2025-08-18 11:27:36,2025-08-18 11:42:51,Neon Violet Square LE,Her0,Zerg,2515,trigger,Terran,2069,Her0
+287,2025-08-10 02:51:01,2025-08-10 03:04:10,Whispers of Gold LE,HeRoMaRinE,Protoss,1386,Lambo,Zerg,1002,Lambo
+288,2025-08-22 16:37:46,2025-08-22 16:50:33,Whispers of Gold LE,ShoWTimE,Terran,1978,Her0,Terran,2206,Her0
+289,2025-08-26 14:58:39,2025-08-26 15:12:33,Abyssal Reef LE,Her0,Zerg,2318,Maru,Protoss,3369,Maru
+290,2025-08-21 11:51:57,2025-08-21 12:07:31,King's Cove LE,Astrea,Terran,1423,Serral,Protoss,3291,Serral
+291,2025-08-19 02:58:38,2025-08-19 03:14:36,Amygdala LE,Zoun,Terran,2851,Reynor,Protoss,3321,Reynor
+292,2025-08-21 08:59:28,2025-08-21 09:14:04,Ley Lines,Cyan,Zerg,1416,Classic,Zerg,2909,Classic
+293,2025-08-23 13:14:07,2025-08-23 13:29:00,Whispers of Gold LE,Cyan,Zerg,1627,Reynor,Protoss,2820,Reynor
+294,2025-08-21 22:35:08,2025-08-21 22:49:43,Frostline LE,Reynor,Zerg,2748,SHIN,Terran,1601,Reynor
+295,2025-08-22 19:25:03,2025-08-22 19:37:55,Frostline LE,Solar,Protoss,2316,Astrea,Terran,1691,Solar
+296,2025-08-29 09:26:21,2025-08-29 09:38:37,Whispers of Gold LE,trigger,Terran,780,Her0,Protoss,2098,Her0
+297,2025-08-02 18:12:32,2025-08-02 18:27:17,Ley Lines,HeRoMaRinE,Terran,836,Cure,Protoss,3653,HeRoMaRinE
+298,2025-08-09 13:57:35,2025-08-09 14:10:10,El Dorado LE,Rogue,Zerg,1430,ShoWTimE,Protoss,1705,Rogue
+299,2025-08-08 18:43:28,2025-08-08 18:57:49,El Dorado LE,ShoWTimE,Terran,1742,Her0,Protoss,2469,ShoWTimE
+300,2025-08-02 10:06:33,2025-08-02 10:20:40,Abyssal Reef LE,Maru,Terran,2985,Her0,Terran,2028,Maru
+301,2025-08-13 04:13:10,2025-08-13 04:28:28,Whispers of Gold LE,SHIN,Zerg,1895,Serral,Zerg,3622,Serral
+302,2025-08-29 03:13:14,2025-08-29 03:25:43,King's Cove LE,Cure,Terran,3688,Cyan,Terran,2166,Cure
+303,2025-08-31 13:51:52,2025-08-31 14:04:47,Abyssal Reef LE,ShoWTimE,Protoss,2744,Reynor,Terran,3308,ShoWTimE
+304,2025-08-07 17:27:51,2025-08-07 17:42:20,Frostline LE,Her0,Terran,2908,ShoWTimE,Protoss,1790,Her0
+305,2025-08-27 09:25:17,2025-08-27 09:39:19,El Dorado LE,HeRoMaRinE,Terran,1330,trigger,Terran,806,HeRoMaRinE
+306,2025-08-04 11:10:32,2025-08-04 11:24:14,Whispers of Gold LE,trigger,Terran,622,ShoWTimE,Protoss,2318,trigger
+307,2025-08-10 00:29:30,2025-08-10 00:44:43,Neon Violet Square LE,Cure,Terran,2257,SHIN,Terran,2878,SHIN
+308,2025-08-19 18:20:36,2025-08-19 18:34:36,King's Cove LE,SHIN,Protoss,1613,Clem,Protoss,2147,Clem
+309,2025-08-16 01:11:44,2025-08-16 01:26:38,King's Cove LE,Solar,Protoss,3565,Clem,Terran,1699,Solar
+310,2025-08-13 17:55:04,2025-08-13 18:09:04,Neon Violet Square LE,Zoun,Protoss,1589,Lambo,Terran,1924,Lambo
+311,2025-08-19 02:07:04,2025-08-19 02:22:12,Amygdala LE,trigger,Terran,1926,Cure,Zerg,2540,Cure
+312,2025-08-12 23:54:42,2025-08-13 00:07:24,El Dorado LE,SHIN,Terran,1719,trigger,Zerg,972,SHIN
+313,2025-08-09 03:22:20,2025-08-09 03:36:54,Neon Violet Square LE,HeRoMaRinE,Terran,1893,Classic,Zerg,3597,Classic
+314,2025-08-28 20:36:29,2025-08-28 20:50:34,Neon Violet Square LE,HeRoMaRinE,Terran,1442,Reynor,Terran,2862,Reynor
+315,2025-08-24 19:07:39,2025-08-24 19:19:50,Utralove,Astrea,Zerg,1739,Maru,Protoss,2254,Maru
+316,2025-08-30 05:39:51,2025-08-30 05:52:22,El Dorado LE,ByuN,Terran,1541,Solar,Terran,3034,Solar
+317,2025-08-31 12:40:35,2025-08-31 12:54:02,Whispers of Gold LE,ShoWTimE,Protoss,2380,SHIN,Protoss,1438,ShoWTimE
+318,2025-08-07 21:41:16,2025-08-07 21:55:37,King's Cove LE,Astrea,Terran,904,trigger,Protoss,2035,trigger
+319,2025-08-10 07:40:38,2025-08-10 07:54:51,Abyssal Reef LE,Cyan,Terran,815,Rogue,Zerg,2372,Rogue
+320,2025-08-31 12:58:28,2025-08-31 13:13:44,El Dorado LE,SHIN,Terran,1582,Lambo,Terran,1202,SHIN
+321,2025-08-14 11:58:47,2025-08-14 12:13:54,Amygdala LE,Clem,Terran,2439,Solar,Zerg,3413,Solar
+322,2025-08-08 10:10:22,2025-08-08 10:23:54,Frostline LE,HeRoMaRinE,Zerg,1351,Zoun,Terran,1516,Zoun
+323,2025-08-12 00:23:26,2025-08-12 00:38:14,Abyssal Reef LE,Her0,Terran,1931,ByuN,Terran,1332,Her0
+324,2025-08-16 06:10:00,2025-08-16 06:25:23,El Dorado LE,Astrea,Terran,1694,Rogue,Zerg,1843,Rogue
+325,2025-08-13 02:44:29,2025-08-13 02:58:19,Abyssal Reef LE,Rogue,Protoss,1501,Cyan,Protoss,1630,Cyan
+326,2025-08-19 12:57:58,2025-08-19 13:10:21,El Dorado LE,Cyan,Zerg,803,ByuN,Protoss,704,Cyan
+327,2025-08-24 01:21:10,2025-08-24 01:34:24,Utralove,Zoun,Terran,2884,Clem,Terran,1463,Zoun
+328,2025-08-17 16:55:12,2025-08-17 17:08:20,Neon Violet Square LE,Solar,Terran,2858,Zoun,Zerg,1698,Solar
+329,2025-08-11 21:21:02,2025-08-11 21:33:28,Neon Violet Square LE,ByuN,Zerg,1759,Rogue,Terran,1926,Rogue
+330,2025-08-29 02:40:37,2025-08-29 02:54:59,El Dorado LE,ByuN,Protoss,671,Clem,Zerg,2142,Clem
+331,2025-08-13 22:25:12,2025-08-13 22:38:24,Amygdala LE,trigger,Zerg,835,ShoWTimE,Terran,2598,ShoWTimE
+332,2025-08-29 01:46:22,2025-08-29 01:59:35,Abyssal Reef LE,Maru,Terran,2821,ByuN,Zerg,806,Maru
+333,2025-08-21 03:52:22,2025-08-21 04:06:35,Neon Violet Square LE,Serral,Zerg,3733,HeRoMaRinE,Terran,1361,Serral
+334,2025-08-02 01:09:00,2025-08-02 01:24:34,Neon Violet Square LE,SHIN,Terran,2666,ByuN,Terran,1149,SHIN
+335,2025-08-20 16:07:16,2025-08-20 16:21:38,Utralove,ShoWTimE,Protoss,1838,Solar,Protoss,2639,Solar
+336,2025-08-24 08:08:45,2025-08-24 08:23:33,El Dorado LE,Solar,Zerg,3478,SHIN,Terran,2539,Solar
+337,2025-08-09 10:10:18,2025-08-09 10:26:03,El Dorado LE,Serral,Protoss,2331,Cure,Zerg,3533,Cure
+338,2025-08-06 13:49:49,2025-08-06 14:04:49,Ley Lines,Zoun,Protoss,2766,Maru,Zerg,2956,Maru
+339,2025-08-05 17:42:29,2025-08-05 17:57:54,Utralove,Her0,Zerg,2962,Rogue,Protoss,1451,Her0
+340,2025-08-16 00:06:05,2025-08-16 00:21:26,Neon Violet Square LE,HeRoMaRinE,Zerg,1536,Zoun,Terran,1425,HeRoMaRinE
+341,2025-08-12 05:56:03,2025-08-12 06:08:32,Frostline LE,Rogue,Zerg,2012,Zoun,Terran,1737,Rogue
+342,2025-08-28 09:07:29,2025-08-28 09:20:51,Whispers of Gold LE,SHIN,Terran,2630,Solar,Zerg,2578,SHIN
+343,2025-08-21 23:24:08,2025-08-21 23:37:59,Ley Lines,Serral,Terran,2701,Her0,Zerg,2320,Serral
+344,2025-08-18 06:48:59,2025-08-18 07:02:42,Frostline LE,Solar,Zerg,2731,Astrea,Terran,1400,Solar
+345,2025-08-21 14:52:12,2025-08-21 15:04:22,Amygdala LE,Maru,Terran,2568,Clem,Terran,2634,Clem
+346,2025-08-09 13:43:21,2025-08-09 13:57:53,Amygdala LE,Rogue,Protoss,2595,Cyan,Protoss,1631,Rogue
+347,2025-08-16 10:32:34,2025-08-16 10:46:50,King's Cove LE,ByuN,Terran,1586,Clem,Protoss,1881,Clem
+348,2025-08-07 18:04:38,2025-08-07 18:17:30,Frostline LE,Rogue,Terran,1757,Cure,Terran,3238,Cure
+349,2025-08-23 16:50:55,2025-08-23 17:06:11,Amygdala LE,trigger,Zerg,1889,Serral,Protoss,3648,Serral
+350,2025-08-16 19:47:26,2025-08-16 20:03:10,Ley Lines,Solar,Zerg,3208,Rogue,Terran,2443,Solar
+351,2025-08-03 12:58:39,2025-08-03 13:11:00,Neon Violet Square LE,Classic,Protoss,2556,Solar,Protoss,3343,Solar
+352,2025-08-08 23:33:15,2025-08-08 23:45:21,Abyssal Reef LE,Solar,Protoss,3055,ShoWTimE,Zerg,2658,Solar
+353,2025-08-04 03:39:14,2025-08-04 03:51:25,King's Cove LE,Her0,Terran,1634,Classic,Protoss,3646,Her0
+354,2025-08-25 04:35:20,2025-08-25 04:48:52,King's Cove LE,Maru,Zerg,2365,Reynor,Terran,3745,Reynor
+355,2025-08-26 20:27:16,2025-08-26 20:40:50,Utralove,Rogue,Zerg,1970,Solar,Protoss,3100,Solar
+356,2025-08-27 23:32:05,2025-08-27 23:46:16,King's Cove LE,HeRoMaRinE,Protoss,1621,Reynor,Zerg,3260,HeRoMaRinE
+357,2025-08-13 05:58:37,2025-08-13 06:13:02,Amygdala LE,ShoWTimE,Protoss,1772,Astrea,Terran,1137,ShoWTimE
+358,2025-08-20 06:44:42,2025-08-20 06:57:25,King's Cove LE,Solar,Protoss,2181,Astrea,Protoss,773,Solar
+359,2025-08-02 15:21:04,2025-08-02 15:34:34,El Dorado LE,Serral,Protoss,2633,ShoWTimE,Terran,2148,Serral
+360,2025-08-02 08:25:03,2025-08-02 08:39:10,Utralove,SHIN,Terran,1655,Her0,Protoss,1732,Her0
+361,2025-08-22 22:12:21,2025-08-22 22:25:37,Whispers of Gold LE,Cyan,Zerg,665,Zoun,Zerg,1664,Zoun
+362,2025-08-03 00:16:19,2025-08-03 00:29:21,Abyssal Reef LE,Reynor,Zerg,2929,Solar,Zerg,3420,Solar
+363,2025-08-15 09:38:15,2025-08-15 09:51:53,Neon Violet Square LE,Clem,Protoss,2186,Classic,Protoss,3391,Classic
+364,2025-08-15 22:04:33,2025-08-15 22:18:29,El Dorado LE,Maru,Protoss,3465,trigger,Terran,1108,Maru
+365,2025-08-02 00:57:47,2025-08-02 01:12:15,Neon Violet Square LE,HeRoMaRinE,Terran,1369,Lambo,Protoss,1855,Lambo
+366,2025-08-23 11:54:23,2025-08-23 12:08:57,Neon Violet Square LE,Serral,Protoss,3595,Cure,Terran,2666,Serral
+367,2025-08-30 17:35:46,2025-08-30 17:47:56,Abyssal Reef LE,Serral,Protoss,3549,SHIN,Protoss,1423,Serral
+368,2025-08-14 21:38:44,2025-08-14 21:51:31,El Dorado LE,trigger,Zerg,1013,Zoun,Zerg,2260,Zoun
+369,2025-08-22 18:48:23,2025-08-22 19:00:37,Abyssal Reef LE,ByuN,Terran,655,Rogue,Zerg,2790,ByuN
+370,2025-08-31 13:38:13,2025-08-31 13:53:48,Frostline LE,Astrea,Protoss,1852,Zoun,Protoss,1755,Astrea
+371,2025-08-20 06:14:05,2025-08-20 06:27:25,Neon Violet Square LE,Clem,Protoss,1644,ByuN,Zerg,1318,Clem
+372,2025-08-02 18:00:18,2025-08-02 18:16:01,King's Cove LE,Reynor,Terran,3562,ByuN,Zerg,625,Reynor
+373,2025-08-01 05:34:24,2025-08-01 05:49:54,El Dorado LE,ShoWTimE,Zerg,1634,Clem,Protoss,1594,ShoWTimE
+374,2025-08-23 18:09:48,2025-08-23 18:23:47,Neon Violet Square LE,Cyan,Terran,1203,Reynor,Terran,2564,Reynor
+375,2025-08-15 20:30:23,2025-08-15 20:42:42,King's Cove LE,SHIN,Zerg,2736,Cyan,Terran,873,SHIN
+376,2025-08-26 10:13:46,2025-08-26 10:29:25,Ley Lines,trigger,Protoss,1813,Maru,Terran,3626,Maru
+377,2025-08-16 21:09:52,2025-08-16 21:25:43,Whispers of Gold LE,Clem,Terran,2337,Cyan,Terran,958,Clem
+378,2025-08-23 23:16:00,2025-08-23 23:29:38,Whispers of Gold LE,Her0,Terran,2803,Cyan,Zerg,1838,Her0
+379,2025-08-11 02:11:03,2025-08-11 02:26:21,King's Cove LE,Maru,Zerg,2597,HeRoMaRinE,Terran,1392,Maru
+380,2025-08-15 06:33:28,2025-08-15 06:49:09,El Dorado LE,trigger,Zerg,2081,HeRoMaRinE,Protoss,1479,trigger
+381,2025-08-08 13:42:34,2025-08-08 13:58:12,Whispers of Gold LE,Clem,Zerg,2605,HeRoMaRinE,Terran,1473,Clem
+382,2025-08-10 13:09:50,2025-08-10 13:22:21,Frostline LE,trigger,Protoss,2172,Cure,Protoss,3156,Cure
+383,2025-08-23 21:48:54,2025-08-23 22:03:57,King's Cove LE,HeRoMaRinE,Terran,1074,Cyan,Protoss,985,HeRoMaRinE
+384,2025-08-09 14:26:40,2025-08-09 14:39:05,Neon Violet Square LE,Solar,Terran,2716,Lambo,Protoss,1055,Solar
+385,2025-08-20 13:08:15,2025-08-20 13:20:15,Frostline LE,Lambo,Protoss,1553,Classic,Terran,2270,Classic
+386,2025-08-19 19:36:37,2025-08-19 19:48:40,King's Cove LE,Classic,Terran,2780,Cyan,Zerg,709,Cyan
+387,2025-08-11 21:19:45,2025-08-11 21:34:06,Ley Lines,Astrea,Terran,913,Cyan,Zerg,1717,Cyan
+388,2025-08-01 12:18:44,2025-08-01 12:34:06,Frostline LE,Reynor,Zerg,3062,Lambo,Protoss,1269,Reynor
+389,2025-08-31 19:06:47,2025-08-31 19:21:18,El Dorado LE,SHIN,Protoss,2690,Serral,Zerg,3259,Serral
+390,2025-08-23 17:10:14,2025-08-23 17:22:24,Utralove,Rogue,Terran,2627,Maru,Zerg,3387,Maru
+391,2025-08-09 01:15:14,2025-08-09 01:29:30,Frostline LE,HeRoMaRinE,Protoss,1263,Her0,Terran,2672,Her0
+392,2025-08-19 20:46:39,2025-08-19 21:01:33,Ley Lines,ByuN,Zerg,1786,Clem,Protoss,1758,ByuN
+393,2025-08-06 11:06:42,2025-08-06 11:21:25,Frostline LE,SHIN,Protoss,2376,ShoWTimE,Terran,1817,SHIN
+394,2025-08-09 00:32:08,2025-08-09 00:47:16,Abyssal Reef LE,HeRoMaRinE,Zerg,1032,ShoWTimE,Zerg,2934,ShoWTimE
+395,2025-08-05 08:07:58,2025-08-05 08:22:56,Utralove,Clem,Zerg,1752,Cure,Terran,3519,Cure
+396,2025-08-07 23:22:07,2025-08-07 23:36:46,King's Cove LE,Astrea,Terran,1277,Solar,Zerg,2915,Solar
+397,2025-08-13 16:20:53,2025-08-13 16:33:59,Abyssal Reef LE,Maru,Zerg,2875,Astrea,Zerg,855,Maru
+398,2025-08-24 04:50:01,2025-08-24 05:03:32,El Dorado LE,Maru,Protoss,3034,Zoun,Zerg,1856,Maru
+399,2025-08-23 02:31:18,2025-08-23 02:46:11,Neon Violet Square LE,Maru,Protoss,2602,Clem,Terran,2108,Maru
+400,2025-08-19 18:27:49,2025-08-19 18:41:15,Amygdala LE,Cyan,Terran,1195,ByuN,Protoss,2063,Cyan
+401,2025-08-23 00:54:08,2025-08-23 01:06:36,Abyssal Reef LE,Serral,Protoss,2921,Astrea,Terran,1422,Serral
+402,2025-08-28 07:40:45,2025-08-28 07:55:49,Frostline LE,Solar,Protoss,3647,Her0,Zerg,2323,Solar
+403,2025-08-30 03:08:12,2025-08-30 03:22:36,Amygdala LE,Her0,Terran,2023,Maru,Terran,2184,Maru
+404,2025-08-26 18:33:45,2025-08-26 18:49:00,Abyssal Reef LE,Cyan,Zerg,670,Astrea,Protoss,1507,Astrea
+405,2025-08-13 13:19:59,2025-08-13 13:35:57,Neon Violet Square LE,SHIN,Protoss,2939,ShoWTimE,Protoss,2294,SHIN
+406,2025-08-26 19:29:08,2025-08-26 19:43:52,Amygdala LE,Zoun,Terran,2198,Clem,Zerg,2719,Clem
+407,2025-08-17 18:54:52,2025-08-17 19:10:36,Amygdala LE,Rogue,Zerg,2355,Cyan,Protoss,2037,Rogue
+408,2025-08-31 07:34:01,2025-08-31 07:47:27,El Dorado LE,Cyan,Protoss,1419,Clem,Terran,2328,Clem
+409,2025-08-27 17:08:03,2025-08-27 17:23:09,Neon Violet Square LE,Astrea,Terran,1350,Her0,Zerg,1769,Astrea
+410,2025-08-04 04:01:48,2025-08-04 04:17:47,Frostline LE,ByuN,Zerg,2115,SHIN,Protoss,2458,ByuN
+411,2025-08-18 18:38:30,2025-08-18 18:53:00,Ley Lines,Serral,Zerg,2317,Her0,Protoss,1695,Serral
+412,2025-08-19 21:48:53,2025-08-19 22:00:54,Frostline LE,Rogue,Terran,1989,Solar,Protoss,2213,Solar
+413,2025-08-12 18:01:14,2025-08-12 18:16:12,Neon Violet Square LE,Astrea,Terran,1508,Cyan,Zerg,746,Astrea
+414,2025-08-12 01:33:59,2025-08-12 01:46:56,Whispers of Gold LE,Lambo,Terran,919,Classic,Protoss,3652,Classic
+415,2025-08-18 18:45:59,2025-08-18 19:01:15,El Dorado LE,Cyan,Terran,1237,HeRoMaRinE,Zerg,1641,HeRoMaRinE
+416,2025-08-27 07:09:55,2025-08-27 07:24:47,Utralove,Reynor,Zerg,3503,HeRoMaRinE,Zerg,1692,Reynor
+417,2025-08-27 01:28:53,2025-08-27 01:40:53,Amygdala LE,Maru,Zerg,2187,ShoWTimE,Terran,1807,Maru
+418,2025-08-29 15:16:40,2025-08-29 15:30:20,Frostline LE,Cyan,Protoss,851,Classic,Protoss,2423,Classic
+419,2025-08-22 21:49:31,2025-08-22 22:04:21,Amygdala LE,Classic,Protoss,3707,Serral,Protoss,2639,Classic
+420,2025-08-07 18:15:00,2025-08-07 18:30:18,Neon Violet Square LE,Cyan,Terran,1467,Clem,Zerg,2366,Clem
+421,2025-08-14 08:15:11,2025-08-14 08:30:42,Abyssal Reef LE,Clem,Protoss,2782,Lambo,Protoss,1858,Clem
+422,2025-08-08 01:12:51,2025-08-08 01:27:13,Ley Lines,Zoun,Terran,2412,Astrea,Terran,1278,Zoun
+423,2025-08-07 02:17:46,2025-08-07 02:30:26,Ley Lines,Cure,Zerg,2708,ShoWTimE,Protoss,2142,Cure
+424,2025-08-16 06:44:56,2025-08-16 06:58:18,Abyssal Reef LE,Her0,Terran,2554,Clem,Terran,1520,Clem
+425,2025-08-12 22:41:44,2025-08-12 22:57:05,Neon Violet Square LE,Maru,Protoss,2791,Lambo,Protoss,1560,Maru
+426,2025-08-18 21:34:19,2025-08-18 21:49:04,King's Cove LE,Reynor,Terran,2984,Serral,Terran,2203,Reynor
+427,2025-08-14 21:25:35,2025-08-14 21:37:35,Frostline LE,trigger,Protoss,1876,Serral,Zerg,3081,Serral
+428,2025-08-25 03:35:20,2025-08-25 03:50:25,Abyssal Reef LE,Clem,Zerg,2089,SHIN,Zerg,2076,Clem
+429,2025-08-06 04:33:14,2025-08-06 04:47:52,Ley Lines,ShoWTimE,Zerg,2072,SHIN,Terran,2580,SHIN
+430,2025-08-02 07:58:23,2025-08-02 08:14:12,King's Cove LE,ShoWTimE,Protoss,2796,trigger,Protoss,889,ShoWTimE
+431,2025-08-03 19:48:39,2025-08-03 20:01:07,Frostline LE,ShoWTimE,Zerg,2824,Classic,Zerg,3070,Classic
+432,2025-08-25 19:21:31,2025-08-25 19:34:24,Ley Lines,Clem,Zerg,1781,Astrea,Protoss,2073,Astrea
+433,2025-08-04 01:53:40,2025-08-04 02:05:49,Whispers of Gold LE,Zoun,Protoss,1724,ByuN,Zerg,756,Zoun
+434,2025-08-29 23:36:21,2025-08-29 23:50:20,King's Cove LE,Rogue,Protoss,2899,Classic,Terran,3524,Classic
+435,2025-08-26 10:39:12,2025-08-26 10:53:20,Abyssal Reef LE,Cyan,Protoss,1951,Serral,Zerg,2604,Serral
+436,2025-08-27 17:05:37,2025-08-27 17:20:32,King's Cove LE,Serral,Terran,3119,SHIN,Protoss,1611,SHIN
+437,2025-08-16 09:07:32,2025-08-16 09:21:50,El Dorado LE,Astrea,Terran,1375,SHIN,Zerg,2006,SHIN
+438,2025-08-05 11:53:14,2025-08-05 12:06:30,Utralove,Zoun,Protoss,1581,Lambo,Terran,824,Zoun
+439,2025-08-12 15:33:56,2025-08-12 15:49:26,Utralove,Maru,Terran,2872,Cure,Protoss,2996,Cure
+440,2025-08-25 03:48:51,2025-08-25 04:03:10,El Dorado LE,Rogue,Terran,1525,Serral,Terran,3603,Serral
+441,2025-08-08 15:24:02,2025-08-08 15:38:58,Whispers of Gold LE,HeRoMaRinE,Terran,716,Classic,Terran,2646,Classic
+442,2025-08-27 00:42:52,2025-08-27 00:54:59,Ley Lines,Her0,Protoss,2420,trigger,Terran,1928,Her0
+443,2025-08-03 15:40:05,2025-08-03 15:53:28,Amygdala LE,Lambo,Protoss,620,Her0,Zerg,2351,Her0
+444,2025-08-22 23:09:53,2025-08-22 23:23:29,Amygdala LE,Zoun,Terran,1541,Clem,Protoss,2337,Clem
+445,2025-08-21 06:13:19,2025-08-21 06:27:40,Frostline LE,Lambo,Terran,1398,ShoWTimE,Zerg,1587,ShoWTimE
+446,2025-08-23 17:56:03,2025-08-23 18:10:10,Whispers of Gold LE,Serral,Protoss,2789,trigger,Terran,2076,Serral
+447,2025-08-16 05:01:03,2025-08-16 05:15:29,Neon Violet Square LE,ByuN,Terran,874,Her0,Protoss,2799,Her0
+448,2025-08-27 02:57:03,2025-08-27 03:11:28,Ley Lines,Clem,Terran,1412,Maru,Terran,2501,Maru
+449,2025-08-22 18:04:18,2025-08-22 18:16:24,El Dorado LE,Zoun,Zerg,1438,Lambo,Protoss,2056,Lambo
+450,2025-08-13 09:57:45,2025-08-13 10:10:00,Frostline LE,Her0,Protoss,2046,Serral,Protoss,2365,Serral
+451,2025-08-15 04:34:11,2025-08-15 04:46:14,El Dorado LE,ByuN,Protoss,948,Solar,Terran,2887,Solar
+452,2025-08-27 03:14:44,2025-08-27 03:28:25,Neon Violet Square LE,Classic,Terran,3315,SHIN,Zerg,2920,Classic
+453,2025-08-20 22:23:41,2025-08-20 22:35:47,Abyssal Reef LE,Rogue,Protoss,1985,HeRoMaRinE,Terran,1358,Rogue
+454,2025-08-08 10:18:18,2025-08-08 10:33:53,Neon Violet Square LE,ByuN,Terran,611,Clem,Terran,2650,Clem
+455,2025-08-14 01:01:55,2025-08-14 01:14:37,Abyssal Reef LE,Zoun,Terran,1853,Her0,Zerg,2585,Her0
+456,2025-08-21 14:13:41,2025-08-21 14:27:51,Abyssal Reef LE,Astrea,Protoss,1690,ShoWTimE,Zerg,1426,Astrea
+457,2025-08-15 09:59:16,2025-08-15 10:14:28,Abyssal Reef LE,Lambo,Terran,955,Rogue,Zerg,1928,Rogue
+458,2025-08-07 00:49:17,2025-08-07 01:02:26,Abyssal Reef LE,Cure,Terran,2365,Astrea,Terran,604,Cure
+459,2025-08-10 08:53:34,2025-08-10 09:07:58,Neon Violet Square LE,Cure,Terran,3217,HeRoMaRinE,Zerg,1189,Cure
+460,2025-08-19 05:02:24,2025-08-19 05:14:44,Frostline LE,ByuN,Terran,682,Classic,Protoss,2909,Classic
+461,2025-08-30 01:45:59,2025-08-30 01:59:15,Utralove,Maru,Protoss,2256,Reynor,Zerg,2962,Reynor
+462,2025-08-22 05:01:23,2025-08-22 05:13:39,Utralove,Her0,Terran,2400,Maru,Zerg,2893,Maru
+463,2025-08-21 00:57:44,2025-08-21 01:11:55,Neon Violet Square LE,HeRoMaRinE,Terran,2156,Reynor,Terran,2282,Reynor
+464,2025-08-30 06:02:15,2025-08-30 06:17:39,Abyssal Reef LE,HeRoMaRinE,Terran,1607,ByuN,Zerg,1459,HeRoMaRinE
+465,2025-08-22 22:40:10,2025-08-22 22:55:55,Abyssal Reef LE,Cyan,Protoss,1822,Maru,Terran,2453,Cyan
+466,2025-08-01 03:16:43,2025-08-01 03:32:21,King's Cove LE,SHIN,Protoss,2019,ByuN,Terran,1052,SHIN
+467,2025-08-17 20:24:01,2025-08-17 20:39:18,Abyssal Reef LE,Cure,Zerg,2616,Maru,Terran,2496,Cure
+468,2025-08-09 07:13:58,2025-08-09 07:27:51,Neon Violet Square LE,Cure,Terran,2997,Reynor,Terran,2226,Cure
+469,2025-08-06 08:38:03,2025-08-06 08:53:11,Whispers of Gold LE,HeRoMaRinE,Zerg,1703,Maru,Zerg,2450,HeRoMaRinE
+470,2025-08-04 20:42:04,2025-08-04 20:58:00,Amygdala LE,Classic,Protoss,3334,Her0,Protoss,2740,Classic
+471,2025-08-16 16:29:57,2025-08-16 16:44:43,Utralove,Astrea,Zerg,880,SHIN,Terran,1850,SHIN
+472,2025-08-03 07:01:41,2025-08-03 07:14:55,Ley Lines,trigger,Protoss,1441,Cyan,Protoss,2132,Cyan
+473,2025-08-22 19:26:42,2025-08-22 19:39:45,Neon Violet Square LE,Serral,Protoss,3508,Rogue,Zerg,2623,Serral
+474,2025-08-20 03:36:19,2025-08-20 03:48:58,Neon Violet Square LE,ByuN,Terran,1638,Classic,Terran,3636,Classic
+475,2025-08-09 08:54:21,2025-08-09 09:09:30,Frostline LE,SHIN,Terran,2054,ShoWTimE,Terran,2397,ShoWTimE
+476,2025-08-07 02:05:03,2025-08-07 02:20:48,Frostline LE,Serral,Zerg,2453,Lambo,Zerg,1668,Serral
+477,2025-08-17 13:03:05,2025-08-17 13:18:39,Frostline LE,SHIN,Protoss,2535,trigger,Protoss,626,SHIN
+478,2025-08-22 04:52:13,2025-08-22 05:07:46,Abyssal Reef LE,Reynor,Terran,2354,HeRoMaRinE,Protoss,1822,Reynor
+479,2025-08-10 21:26:16,2025-08-10 21:41:47,Abyssal Reef LE,trigger,Protoss,2123,ShoWTimE,Terran,1987,trigger
+480,2025-08-29 17:44:07,2025-08-29 17:57:44,Amygdala LE,ByuN,Terran,1139,HeRoMaRinE,Zerg,727,ByuN
+481,2025-08-05 19:34:26,2025-08-05 19:49:31,Frostline LE,Solar,Protoss,2696,HeRoMaRinE,Protoss,1723,Solar
+482,2025-08-09 18:24:44,2025-08-09 18:37:33,Whispers of Gold LE,Classic,Protoss,2436,trigger,Protoss,827,Classic
+483,2025-08-27 17:07:23,2025-08-27 17:23:09,Frostline LE,Solar,Protoss,3701,Cure,Protoss,2735,Solar
+484,2025-08-27 09:57:57,2025-08-27 10:13:27,Abyssal Reef LE,Zoun,Zerg,2599,ShoWTimE,Terran,2946,ShoWTimE
+485,2025-08-02 12:14:28,2025-08-02 12:27:18,El Dorado LE,Her0,Zerg,2257,Zoun,Protoss,2351,Her0
+486,2025-08-12 10:41:28,2025-08-12 10:54:39,King's Cove LE,Her0,Terran,1654,Cure,Zerg,2233,Cure
+487,2025-08-08 00:20:19,2025-08-08 00:36:02,Frostline LE,Serral,Protoss,3731,Her0,Protoss,2572,Serral
+488,2025-08-22 01:06:43,2025-08-22 01:19:40,King's Cove LE,Astrea,Zerg,1027,Reynor,Zerg,3421,Reynor
+489,2025-08-07 09:57:10,2025-08-07 10:09:10,Frostline LE,SHIN,Protoss,1737,Rogue,Terran,2106,Rogue
+490,2025-08-18 20:51:44,2025-08-18 21:04:13,Abyssal Reef LE,HeRoMaRinE,Protoss,1597,Serral,Zerg,3298,Serral
+491,2025-08-20 18:36:11,2025-08-20 18:50:20,Ley Lines,Zoun,Protoss,2251,Classic,Zerg,3477,Classic
+492,2025-08-04 18:56:05,2025-08-04 19:08:24,Whispers of Gold LE,Classic,Terran,3331,Zoun,Zerg,2888,Classic
+493,2025-08-16 23:17:57,2025-08-16 23:30:50,Amygdala LE,Zoun,Protoss,2420,Her0,Zerg,2853,Her0
+494,2025-08-23 14:25:50,2025-08-23 14:39:10,El Dorado LE,Classic,Terran,2178,Solar,Zerg,2269,Classic
+495,2025-08-21 00:26:16,2025-08-21 00:41:45,Neon Violet Square LE,Zoun,Zerg,1985,Rogue,Protoss,2888,Rogue
+496,2025-08-25 22:14:19,2025-08-25 22:27:19,Amygdala LE,Clem,Zerg,2682,Serral,Terran,2819,Serral
+497,2025-08-18 09:42:49,2025-08-18 09:56:16,Amygdala LE,ByuN,Protoss,1373,Cyan,Terran,2066,Cyan
+498,2025-08-13 17:39:14,2025-08-13 17:53:57,El Dorado LE,Reynor,Zerg,2634,Lambo,Zerg,726,Reynor
+499,2025-08-05 20:50:11,2025-08-05 21:03:47,Frostline LE,ByuN,Zerg,1107,Cure,Protoss,2816,ByuN
+500,2025-08-28 22:52:07,2025-08-28 23:05:10,Ley Lines,Her0,Protoss,2164,ByuN,Protoss,1893,Her0
+501,2025-08-10 01:29:49,2025-08-10 01:44:40,Amygdala LE,Cure,Zerg,2365,Rogue,Terran,2853,Cure
+502,2025-08-08 06:18:48,2025-08-08 06:32:19,Ley Lines,Astrea,Terran,1086,Her0,Zerg,1924,Her0
+503,2025-08-10 10:35:46,2025-08-10 10:50:46,Whispers of Gold LE,Maru,Zerg,3007,Cyan,Terran,1226,Maru
+504,2025-08-25 13:08:19,2025-08-25 13:20:42,King's Cove LE,Cure,Terran,3412,Lambo,Zerg,600,Cure
+505,2025-08-20 14:01:14,2025-08-20 14:15:04,Frostline LE,Serral,Zerg,3389,Solar,Zerg,2457,Serral
+506,2025-08-24 13:35:31,2025-08-24 13:47:52,Whispers of Gold LE,trigger,Terran,1942,ShoWTimE,Terran,2369,ShoWTimE
+507,2025-08-16 05:01:47,2025-08-16 05:15:35,Whispers of Gold LE,HeRoMaRinE,Protoss,853,Classic,Zerg,3038,Classic
+508,2025-08-05 14:26:57,2025-08-05 14:41:35,Whispers of Gold LE,ShoWTimE,Protoss,2352,Clem,Terran,2663,Clem
+509,2025-08-12 17:47:07,2025-08-12 18:02:13,Amygdala LE,Classic,Zerg,2983,Clem,Protoss,1884,Classic
+510,2025-08-22 07:24:27,2025-08-22 07:39:36,Neon Violet Square LE,Maru,Protoss,2773,Clem,Protoss,2154,Maru
+511,2025-08-10 15:20:26,2025-08-10 15:35:11,Abyssal Reef LE,Cyan,Protoss,1930,Clem,Terran,1456,Cyan
+512,2025-08-31 14:06:21,2025-08-31 14:22:11,Utralove,Zoun,Zerg,1739,Clem,Protoss,1849,Clem
+513,2025-08-29 15:25:46,2025-08-29 15:40:50,Whispers of Gold LE,Maru,Protoss,2319,SHIN,Zerg,1476,Maru
+514,2025-08-16 01:24:34,2025-08-16 01:37:17,Abyssal Reef LE,Solar,Protoss,3637,Her0,Terran,2941,Solar
+515,2025-08-22 12:19:12,2025-08-22 12:33:18,El Dorado LE,Rogue,Zerg,2852,Cyan,Terran,1977,Rogue
+516,2025-08-10 12:01:27,2025-08-10 12:14:26,Ley Lines,Maru,Zerg,2620,trigger,Zerg,1830,Maru
+517,2025-08-22 08:22:08,2025-08-22 08:35:03,Utralove,ShoWTimE,Protoss,2499,Lambo,Protoss,730,ShoWTimE
+518,2025-08-19 13:11:28,2025-08-19 13:25:52,Abyssal Reef LE,ByuN,Protoss,1438,Classic,Terran,2411,Classic
+519,2025-08-25 00:20:27,2025-08-25 00:34:19,King's Cove LE,Astrea,Protoss,1762,Lambo,Terran,2160,Lambo
+520,2025-08-03 17:49:33,2025-08-03 18:04:22,Ley Lines,ByuN,Zerg,1877,Serral,Terran,2492,ByuN
+521,2025-08-10 07:01:48,2025-08-10 07:17:29,King's Cove LE,Her0,Protoss,2454,Maru,Terran,3595,Maru
+522,2025-08-28 19:32:35,2025-08-28 19:47:27,King's Cove LE,Solar,Terran,3438,Serral,Protoss,2896,Solar
+523,2025-08-08 13:28:15,2025-08-08 13:40:31,Amygdala LE,Zoun,Terran,2733,Solar,Protoss,2934,Zoun
+524,2025-08-03 12:50:15,2025-08-03 13:03:58,Abyssal Reef LE,Maru,Terran,2984,ShoWTimE,Terran,1838,Maru
+525,2025-08-20 20:45:09,2025-08-20 20:59:35,Frostline LE,SHIN,Zerg,2748,Astrea,Zerg,890,Astrea
+526,2025-08-30 09:27:56,2025-08-30 09:41:20,Whispers of Gold LE,Her0,Zerg,2355,HeRoMaRinE,Zerg,1259,Her0
+527,2025-08-19 16:24:02,2025-08-19 16:39:14,Neon Violet Square LE,Reynor,Protoss,2705,Maru,Zerg,2177,Reynor
+528,2025-08-08 17:01:16,2025-08-08 17:14:58,Ley Lines,Clem,Terran,2359,Zoun,Protoss,2071,Clem
+529,2025-08-24 16:19:53,2025-08-24 16:33:06,Neon Violet Square LE,ShoWTimE,Terran,2558,Cyan,Protoss,736,ShoWTimE
+530,2025-08-26 15:55:05,2025-08-26 16:08:11,Neon Violet Square LE,Astrea,Protoss,1773,Cure,Terran,2952,Cure
+531,2025-08-07 07:30:47,2025-08-07 07:46:19,Neon Violet Square LE,Clem,Zerg,1906,Classic,Terran,3488,Classic
+532,2025-08-05 18:59:12,2025-08-05 19:14:18,El Dorado LE,Classic,Zerg,3492,Her0,Terran,1702,Classic
+533,2025-08-31 19:44:10,2025-08-31 19:56:27,Utralove,Astrea,Zerg,1056,Lambo,Zerg,1253,Lambo
+534,2025-08-20 20:51:08,2025-08-20 21:04:17,King's Cove LE,Cyan,Zerg,2162,Astrea,Zerg,1017,Cyan
+535,2025-08-10 14:35:18,2025-08-10 14:51:08,El Dorado LE,Solar,Protoss,3055,SHIN,Protoss,1521,Solar
+536,2025-08-28 03:05:11,2025-08-28 03:20:27,Amygdala LE,Serral,Zerg,3451,Zoun,Protoss,2808,Serral
+537,2025-08-21 14:56:20,2025-08-21 15:10:40,Frostline LE,ShoWTimE,Zerg,2302,ByuN,Zerg,1840,ShoWTimE
+538,2025-08-12 16:58:04,2025-08-12 17:13:05,Abyssal Reef LE,Astrea,Zerg,981,HeRoMaRinE,Terran,863,HeRoMaRinE
+539,2025-08-16 07:57:55,2025-08-16 08:09:59,El Dorado LE,Cyan,Protoss,1663,Astrea,Zerg,880,Cyan
+540,2025-08-17 19:47:47,2025-08-17 20:03:37,El Dorado LE,Lambo,Protoss,1898,Classic,Terran,3148,Classic
+541,2025-08-17 23:53:29,2025-08-18 00:05:37,Frostline LE,Serral,Terran,2475,Cyan,Zerg,1042,Serral
+542,2025-08-18 08:37:33,2025-08-18 08:52:32,Utralove,Cure,Protoss,2658,SHIN,Protoss,1659,Cure
+543,2025-08-21 18:05:58,2025-08-21 18:20:59,Abyssal Reef LE,Cyan,Zerg,1280,Maru,Zerg,2615,Maru
+544,2025-08-04 12:48:06,2025-08-04 13:04:04,Frostline LE,Clem,Terran,2740,HeRoMaRinE,Terran,1771,Clem
+545,2025-08-20 20:56:58,2025-08-20 21:11:12,Utralove,Cyan,Protoss,642,SHIN,Terran,1775,SHIN
+546,2025-08-08 06:09:19,2025-08-08 06:21:30,Whispers of Gold LE,ByuN,Zerg,1630,Solar,Zerg,3132,Solar
+547,2025-08-05 22:54:49,2025-08-05 23:10:41,Neon Violet Square LE,Maru,Protoss,2750,Reynor,Zerg,2656,Maru
+548,2025-08-15 10:02:27,2025-08-15 10:17:27,King's Cove LE,Serral,Terran,2551,Lambo,Protoss,1178,Lambo
+549,2025-08-17 02:55:24,2025-08-17 03:10:36,Utralove,Reynor,Zerg,2399,trigger,Protoss,1345,trigger
+550,2025-08-23 19:19:12,2025-08-23 19:35:07,Amygdala LE,Zoun,Terran,1948,Reynor,Zerg,3704,Reynor
+551,2025-08-19 20:11:17,2025-08-19 20:25:52,Utralove,Classic,Terran,3574,Zoun,Terran,2571,Classic
+552,2025-08-21 16:10:26,2025-08-21 16:23:57,El Dorado LE,Maru,Terran,3129,Zoun,Protoss,2742,Maru
+553,2025-08-19 20:47:47,2025-08-19 21:03:15,Whispers of Gold LE,Clem,Zerg,2855,HeRoMaRinE,Terran,1622,Clem
+554,2025-08-19 22:29:39,2025-08-19 22:45:34,Ley Lines,Lambo,Protoss,1779,Classic,Terran,3094,Classic
+555,2025-08-02 22:22:00,2025-08-02 22:36:53,Abyssal Reef LE,ShoWTimE,Terran,2269,Serral,Terran,2954,Serral
+556,2025-08-23 14:21:06,2025-08-23 14:34:57,King's Cove LE,HeRoMaRinE,Protoss,1095,Astrea,Terran,764,HeRoMaRinE
+557,2025-08-30 16:11:28,2025-08-30 16:26:01,Utralove,Her0,Terran,1709,Cyan,Terran,1704,Her0
+558,2025-08-23 21:18:13,2025-08-23 21:32:46,Neon Violet Square LE,ByuN,Terran,2071,Maru,Protoss,3308,Maru
+559,2025-08-18 18:51:33,2025-08-18 19:05:32,Whispers of Gold LE,trigger,Zerg,780,Serral,Zerg,3181,Serral
+560,2025-08-11 06:53:28,2025-08-11 07:09:03,Utralove,Serral,Zerg,3387,Cyan,Terran,1056,Serral
+561,2025-08-10 20:16:14,2025-08-10 20:31:13,Neon Violet Square LE,Cure,Zerg,3313,Rogue,Zerg,1391,Cure
+562,2025-08-22 18:02:04,2025-08-22 18:17:37,Amygdala LE,HeRoMaRinE,Zerg,684,Clem,Terran,2263,Clem
+563,2025-08-14 20:23:28,2025-08-14 20:36:07,King's Cove LE,Solar,Zerg,3201,Cyan,Protoss,2038,Solar
+564,2025-08-12 18:50:21,2025-08-12 19:04:01,Ley Lines,Cyan,Protoss,1356,SHIN,Zerg,2156,SHIN
+565,2025-08-09 17:42:28,2025-08-09 17:56:40,Utralove,Reynor,Protoss,2198,Cyan,Zerg,1747,Reynor
+566,2025-08-04 15:31:51,2025-08-04 15:47:14,Neon Violet Square LE,Reynor,Terran,3255,SHIN,Zerg,2530,Reynor
+567,2025-08-18 22:29:46,2025-08-18 22:45:11,Utralove,Cyan,Zerg,1351,Rogue,Zerg,1474,Rogue
+568,2025-08-14 19:14:03,2025-08-14 19:26:17,Neon Violet Square LE,Maru,Protoss,2881,ShoWTimE,Zerg,1911,Maru
+569,2025-08-04 06:10:24,2025-08-04 06:25:30,Ley Lines,ShoWTimE,Zerg,1483,HeRoMaRinE,Terran,2130,HeRoMaRinE
+570,2025-08-04 06:36:55,2025-08-04 06:52:05,Whispers of Gold LE,SHIN,Protoss,2932,Astrea,Terran,957,Astrea
+571,2025-08-16 02:29:00,2025-08-16 02:42:47,Utralove,Rogue,Zerg,2210,Her0,Terran,2412,Her0
+572,2025-08-21 23:49:13,2025-08-22 00:02:59,Utralove,SHIN,Terran,2805,Solar,Protoss,2450,SHIN
+573,2025-08-06 23:46:27,2025-08-07 00:02:06,El Dorado LE,Maru,Terran,3432,HeRoMaRinE,Terran,908,HeRoMaRinE
+574,2025-08-17 18:41:03,2025-08-17 18:54:12,Abyssal Reef LE,Reynor,Terran,3342,Her0,Terran,2698,Reynor
+575,2025-08-20 03:38:40,2025-08-20 03:51:32,Utralove,Lambo,Terran,1733,HeRoMaRinE,Protoss,2101,HeRoMaRinE
+576,2025-08-09 14:58:16,2025-08-09 15:10:54,Abyssal Reef LE,Rogue,Zerg,2509,SHIN,Zerg,2584,Rogue
+577,2025-08-07 06:13:25,2025-08-07 06:25:55,Neon Violet Square LE,HeRoMaRinE,Terran,1579,Classic,Terran,2501,Classic
+578,2025-08-14 16:52:46,2025-08-14 17:06:01,Neon Violet Square LE,Her0,Zerg,2549,Classic,Zerg,3538,Classic
+579,2025-08-08 18:17:39,2025-08-08 18:33:03,Abyssal Reef LE,Zoun,Zerg,2249,Serral,Zerg,2996,Serral
+580,2025-08-26 20:52:23,2025-08-26 21:06:34,Neon Violet Square LE,Reynor,Zerg,3315,ShoWTimE,Zerg,2368,Reynor
+581,2025-08-12 17:51:57,2025-08-12 18:07:13,El Dorado LE,Classic,Terran,2321,Her0,Terran,1665,Classic
+582,2025-08-07 14:34:27,2025-08-07 14:48:52,Neon Violet Square LE,Clem,Zerg,2543,ShoWTimE,Terran,2252,Clem
+583,2025-08-24 01:05:23,2025-08-24 01:20:58,King's Cove LE,Solar,Protoss,3367,Cure,Protoss,2703,Solar
+584,2025-08-16 23:29:32,2025-08-16 23:43:44,Utralove,Zoun,Protoss,1968,ShoWTimE,Zerg,1633,Zoun
+585,2025-08-26 04:04:50,2025-08-26 04:19:36,El Dorado LE,Solar,Zerg,2565,Astrea,Terran,1765,Solar
+586,2025-08-19 06:27:34,2025-08-19 06:42:33,Ley Lines,HeRoMaRinE,Protoss,1586,Astrea,Terran,650,HeRoMaRinE
+587,2025-08-12 02:08:39,2025-08-12 02:23:54,Abyssal Reef LE,ShoWTimE,Protoss,2951,Cyan,Terran,1514,ShoWTimE
+588,2025-08-29 21:35:55,2025-08-29 21:49:02,Amygdala LE,Rogue,Zerg,1858,Serral,Terran,2760,Serral
+589,2025-08-12 04:29:55,2025-08-12 04:44:35,Amygdala LE,Rogue,Protoss,2208,Cure,Zerg,3709,Cure
+590,2025-08-12 17:20:49,2025-08-12 17:34:04,Amygdala LE,ShoWTimE,Protoss,2791,Clem,Protoss,2644,ShoWTimE
+591,2025-08-10 16:21:08,2025-08-10 16:33:57,Amygdala LE,HeRoMaRinE,Zerg,1176,Solar,Zerg,3600,Solar
+592,2025-08-02 10:51:51,2025-08-02 11:05:08,El Dorado LE,Cure,Zerg,2912,Maru,Zerg,3414,Maru
+593,2025-08-15 01:51:32,2025-08-15 02:05:03,Amygdala LE,Classic,Protoss,3176,Serral,Zerg,3750,Serral
+594,2025-08-16 06:46:04,2025-08-16 06:58:38,Amygdala LE,Zoun,Protoss,2291,Astrea,Zerg,2133,Zoun
+595,2025-08-31 08:20:10,2025-08-31 08:33:22,King's Cove LE,Her0,Protoss,2466,HeRoMaRinE,Zerg,675,Her0
+596,2025-08-22 10:02:31,2025-08-22 10:17:28,Abyssal Reef LE,Maru,Protoss,2235,Cyan,Terran,1377,Maru
+597,2025-08-20 15:24:30,2025-08-20 15:37:50,Whispers of Gold LE,SHIN,Terran,1534,Rogue,Terran,2780,Rogue
+598,2025-08-22 16:06:39,2025-08-22 16:20:14,El Dorado LE,Serral,Terran,3074,Rogue,Protoss,2549,Serral
+599,2025-08-09 13:16:21,2025-08-09 13:28:49,El Dorado LE,Reynor,Protoss,2886,HeRoMaRinE,Terran,734,Reynor
+600,2025-08-20 21:15:11,2025-08-20 21:29:46,El Dorado LE,Cure,Terran,2680,Lambo,Zerg,1900,Cure
+601,2025-08-25 12:17:11,2025-08-25 12:30:19,Ley Lines,Cure,Terran,2733,Serral,Zerg,2396,Cure
+602,2025-08-11 07:35:59,2025-08-11 07:48:40,El Dorado LE,Her0,Terran,1395,Maru,Zerg,2569,Her0
+603,2025-08-16 20:05:57,2025-08-16 20:18:15,Frostline LE,Cure,Terran,3082,trigger,Zerg,2083,Cure
+604,2025-08-07 22:41:55,2025-08-07 22:57:09,Abyssal Reef LE,Clem,Protoss,1514,Maru,Zerg,3600,Maru
+605,2025-08-03 22:24:16,2025-08-03 22:38:57,Amygdala LE,Reynor,Terran,2889,Clem,Zerg,2331,Reynor
+606,2025-08-28 09:36:18,2025-08-28 09:50:35,El Dorado LE,SHIN,Terran,2453,Solar,Terran,2350,Solar
+607,2025-08-10 04:30:37,2025-08-10 04:44:12,Neon Violet Square LE,Rogue,Zerg,1660,Lambo,Terran,1890,Rogue
+608,2025-08-27 20:18:23,2025-08-27 20:32:35,Amygdala LE,Rogue,Zerg,2713,ShoWTimE,Terran,2269,Rogue
+609,2025-08-04 21:30:15,2025-08-04 21:42:29,El Dorado LE,Cyan,Protoss,1871,Astrea,Protoss,1505,Cyan
+610,2025-08-20 19:02:19,2025-08-20 19:15:42,Neon Violet Square LE,Serral,Terran,2914,Classic,Zerg,2266,Serral
+611,2025-08-07 07:47:18,2025-08-07 08:03:00,Whispers of Gold LE,HeRoMaRinE,Zerg,809,SHIN,Protoss,2064,SHIN
+612,2025-08-16 05:15:33,2025-08-16 05:28:51,Neon Violet Square LE,SHIN,Zerg,1701,Solar,Terran,2802,Solar
+613,2025-08-04 17:01:48,2025-08-04 17:17:15,Amygdala LE,Her0,Protoss,1940,Serral,Protoss,2249,Serral
+614,2025-08-21 01:33:07,2025-08-21 01:47:31,Whispers of Gold LE,Zoun,Zerg,2170,Cyan,Protoss,733,Zoun
+615,2025-08-27 03:02:49,2025-08-27 03:14:49,Utralove,Zoun,Protoss,2137,ShoWTimE,Zerg,2112,Zoun
+616,2025-08-29 20:06:47,2025-08-29 20:19:08,Ley Lines,Cyan,Terran,1672,Reynor,Terran,3318,Cyan
+617,2025-08-29 20:06:36,2025-08-29 20:20:11,El Dorado LE,ByuN,Protoss,1213,SHIN,Protoss,1431,SHIN
+618,2025-08-09 11:15:22,2025-08-09 11:31:16,Ley Lines,SHIN,Zerg,1951,trigger,Protoss,632,SHIN
+619,2025-08-01 05:37:42,2025-08-01 05:51:57,Ley Lines,Clem,Terran,1397,ByuN,Terran,1718,ByuN
+620,2025-08-15 13:08:55,2025-08-15 13:22:37,Abyssal Reef LE,Classic,Terran,3193,Cyan,Zerg,1978,Cyan
+621,2025-08-22 19:16:22,2025-08-22 19:29:35,Frostline LE,HeRoMaRinE,Protoss,1159,SHIN,Zerg,1804,SHIN
+622,2025-08-13 08:50:59,2025-08-13 09:03:14,Ley Lines,SHIN,Terran,1491,trigger,Terran,2058,trigger
+623,2025-08-12 12:42:54,2025-08-12 12:55:51,Ley Lines,ShoWTimE,Protoss,2038,Classic,Terran,2824,Classic
+624,2025-08-22 00:46:03,2025-08-22 01:01:10,El Dorado LE,Her0,Terran,2600,Serral,Terran,3564,Serral
+625,2025-08-25 16:18:41,2025-08-25 16:30:59,Amygdala LE,ByuN,Terran,1050,Classic,Protoss,3107,Classic
+626,2025-08-03 12:21:01,2025-08-03 12:35:58,Neon Violet Square LE,SHIN,Protoss,2112,ByuN,Zerg,1728,SHIN
+627,2025-08-24 22:09:53,2025-08-24 22:23:03,Utralove,Cure,Zerg,2571,Zoun,Protoss,2751,Zoun
+628,2025-08-10 13:41:01,2025-08-10 13:54:15,Abyssal Reef LE,Her0,Protoss,2665,HeRoMaRinE,Terran,1716,Her0
+629,2025-08-19 04:44:59,2025-08-19 04:57:54,Abyssal Reef LE,Zoun,Zerg,2515,HeRoMaRinE,Protoss,1081,Zoun
+630,2025-08-10 11:41:54,2025-08-10 11:56:55,Amygdala LE,Solar,Terran,2421,Classic,Zerg,2302,Solar
+631,2025-08-15 05:58:10,2025-08-15 06:13:02,Abyssal Reef LE,Zoun,Zerg,2158,Her0,Protoss,2047,Zoun
+632,2025-08-09 11:49:54,2025-08-09 12:03:30,Amygdala LE,Serral,Terran,3400,Maru,Zerg,2512,Serral
+633,2025-08-25 20:58:30,2025-08-25 21:13:05,Abyssal Reef LE,HeRoMaRinE,Zerg,1494,ByuN,Zerg,1483,HeRoMaRinE
+634,2025-08-25 07:55:01,2025-08-25 08:08:56,Utralove,Clem,Terran,2329,Cure,Protoss,3709,Cure
+635,2025-08-04 03:36:45,2025-08-04 03:50:40,Whispers of Gold LE,ShoWTimE,Zerg,1466,ByuN,Zerg,1130,ShoWTimE
+636,2025-08-09 16:55:49,2025-08-09 17:09:17,King's Cove LE,Rogue,Protoss,2869,Astrea,Zerg,1704,Rogue
+637,2025-08-04 18:13:37,2025-08-04 18:28:39,Utralove,Classic,Terran,3384,Her0,Protoss,2954,Her0
+638,2025-08-21 12:30:58,2025-08-21 12:43:03,Amygdala LE,Her0,Zerg,2908,Cure,Terran,2402,Her0
+639,2025-08-06 03:03:10,2025-08-06 03:17:17,King's Cove LE,Rogue,Terran,2025,Cyan,Protoss,1574,Cyan
+640,2025-08-06 16:31:29,2025-08-06 16:43:40,Utralove,ByuN,Terran,1880,Classic,Protoss,2795,Classic
+641,2025-08-14 16:03:11,2025-08-14 16:15:25,Utralove,Astrea,Protoss,1103,Zoun,Protoss,1891,Zoun
+642,2025-08-18 14:41:15,2025-08-18 14:53:18,Abyssal Reef LE,trigger,Zerg,1389,Serral,Zerg,3042,Serral
+643,2025-08-14 17:34:08,2025-08-14 17:48:38,Neon Violet Square LE,Astrea,Zerg,1807,Lambo,Zerg,1628,Astrea
+644,2025-08-11 05:06:14,2025-08-11 05:19:33,Ley Lines,trigger,Terran,1312,Cyan,Zerg,770,trigger
+645,2025-08-31 13:48:39,2025-08-31 14:01:04,Frostline LE,Zoun,Terran,1961,Cyan,Protoss,1252,Zoun
+646,2025-08-26 22:41:37,2025-08-26 22:56:39,Ley Lines,trigger,Terran,1631,Classic,Terran,2964,Classic
+647,2025-08-31 22:59:45,2025-08-31 23:13:12,Neon Violet Square LE,Cure,Zerg,2520,Lambo,Protoss,1400,Cure
+648,2025-08-11 01:41:25,2025-08-11 01:55:42,Amygdala LE,Cyan,Zerg,1066,Clem,Zerg,1729,Clem
+649,2025-08-20 09:02:44,2025-08-20 09:16:03,Neon Violet Square LE,Astrea,Zerg,1830,ByuN,Terran,1273,ByuN
+650,2025-08-25 01:38:25,2025-08-25 01:53:33,Whispers of Gold LE,Classic,Protoss,2343,Cyan,Terran,788,Classic
+651,2025-08-01 06:53:50,2025-08-01 07:06:22,Ley Lines,Zoun,Zerg,2380,Classic,Terran,2252,Zoun
+652,2025-08-16 11:37:40,2025-08-16 11:49:56,Neon Violet Square LE,Rogue,Terran,2504,trigger,Zerg,828,Rogue
+653,2025-08-10 14:19:45,2025-08-10 14:31:52,Frostline LE,Maru,Protoss,2608,HeRoMaRinE,Protoss,2095,Maru
+654,2025-08-26 21:17:38,2025-08-26 21:33:14,Utralove,Reynor,Terran,3025,SHIN,Terran,2041,Reynor
+655,2025-08-06 15:06:17,2025-08-06 15:19:48,Amygdala LE,Clem,Zerg,1781,Her0,Terran,2761,Her0
+656,2025-08-12 22:23:02,2025-08-12 22:36:19,Frostline LE,trigger,Terran,1786,Clem,Zerg,2054,Clem
+657,2025-08-15 16:53:52,2025-08-15 17:06:12,King's Cove LE,SHIN,Zerg,2016,ShoWTimE,Protoss,2618,ShoWTimE
+658,2025-08-10 12:06:27,2025-08-10 12:19:48,Neon Violet Square LE,Zoun,Terran,2839,Serral,Protoss,2989,Serral
+659,2025-08-20 19:49:35,2025-08-20 20:04:48,Amygdala LE,Maru,Zerg,3737,ShoWTimE,Terran,2170,Maru
+660,2025-08-30 19:16:22,2025-08-30 19:31:34,Whispers of Gold LE,Astrea,Zerg,1591,Solar,Terran,2229,Solar
+661,2025-08-31 12:00:52,2025-08-31 12:13:27,Whispers of Gold LE,Lambo,Terran,818,Solar,Zerg,3496,Lambo
+662,2025-08-08 20:23:13,2025-08-08 20:35:52,Neon Violet Square LE,Solar,Zerg,3237,ShoWTimE,Terran,2691,Solar
+663,2025-08-04 08:29:48,2025-08-04 08:42:59,Abyssal Reef LE,Rogue,Terran,2945,Cyan,Zerg,1573,Rogue
+664,2025-08-20 23:56:43,2025-08-21 00:10:48,Ley Lines,Her0,Protoss,2962,Solar,Terran,3186,Solar
+665,2025-08-06 13:22:14,2025-08-06 13:37:51,Whispers of Gold LE,Rogue,Zerg,2407,Maru,Zerg,3708,Maru
+666,2025-08-27 12:19:46,2025-08-27 12:33:08,Neon Violet Square LE,Zoun,Zerg,2800,Maru,Zerg,3440,Maru
+667,2025-08-10 01:19:18,2025-08-10 01:31:59,Amygdala LE,Rogue,Zerg,2361,Astrea,Terran,1151,Astrea
+668,2025-08-31 20:01:07,2025-08-31 20:13:53,Whispers of Gold LE,Classic,Terran,3293,ByuN,Terran,905,ByuN
+669,2025-08-02 08:17:19,2025-08-02 08:32:50,El Dorado LE,trigger,Protoss,1863,Solar,Protoss,2817,Solar
+670,2025-08-05 23:46:42,2025-08-06 00:01:12,Ley Lines,Cyan,Protoss,2037,Serral,Protoss,3388,Cyan
+671,2025-08-12 20:03:32,2025-08-12 20:18:49,Abyssal Reef LE,Solar,Protoss,2467,Classic,Protoss,3704,Classic
+672,2025-08-08 21:25:23,2025-08-08 21:37:46,Utralove,ByuN,Zerg,1254,Her0,Terran,1901,Her0
+673,2025-08-28 07:48:15,2025-08-28 08:01:24,El Dorado LE,Serral,Protoss,2785,Clem,Terran,1545,Serral
+674,2025-08-11 00:44:09,2025-08-11 00:59:44,Frostline LE,HeRoMaRinE,Zerg,1682,SHIN,Protoss,2449,SHIN
+675,2025-08-09 22:19:46,2025-08-09 22:35:44,Frostline LE,Serral,Terran,2272,Rogue,Terran,1710,Serral
+676,2025-08-08 02:56:21,2025-08-08 03:09:48,Neon Violet Square LE,Zoun,Zerg,2255,Cure,Zerg,2292,Cure
+677,2025-08-10 13:39:55,2025-08-10 13:55:12,Abyssal Reef LE,trigger,Terran,1046,Her0,Zerg,2561,Her0
+678,2025-08-18 19:27:36,2025-08-18 19:42:12,King's Cove LE,Classic,Zerg,2832,Her0,Terran,2158,Classic
+679,2025-08-28 13:13:32,2025-08-28 13:28:39,King's Cove LE,trigger,Protoss,927,Solar,Protoss,3294,Solar
+680,2025-08-30 16:58:15,2025-08-30 17:13:56,Frostline LE,SHIN,Terran,2686,Cure,Protoss,3407,Cure
+681,2025-08-11 22:21:57,2025-08-11 22:35:27,El Dorado LE,ByuN,Zerg,813,Astrea,Zerg,826,Astrea
+682,2025-08-18 22:28:48,2025-08-18 22:44:28,El Dorado LE,Lambo,Zerg,2099,Solar,Zerg,3223,Solar
+683,2025-08-12 09:43:19,2025-08-12 09:58:50,Neon Violet Square LE,Reynor,Zerg,2779,Cure,Zerg,2240,Reynor
+684,2025-08-28 04:38:41,2025-08-28 04:51:41,King's Cove LE,HeRoMaRinE,Zerg,2031,Solar,Protoss,3119,Solar
+685,2025-08-29 22:36:00,2025-08-29 22:49:00,Amygdala LE,Reynor,Protoss,3384,Her0,Protoss,1659,Reynor
+686,2025-08-08 04:00:10,2025-08-08 04:15:08,El Dorado LE,Lambo,Zerg,2014,SHIN,Protoss,2043,SHIN
+687,2025-08-21 12:03:08,2025-08-21 12:17:36,Whispers of Gold LE,Zoun,Zerg,2428,trigger,Terran,816,Zoun
+688,2025-08-24 10:41:48,2025-08-24 10:54:34,Neon Violet Square LE,Solar,Zerg,3093,Lambo,Zerg,2151,Solar
+689,2025-08-20 11:57:45,2025-08-20 12:11:34,Amygdala LE,HeRoMaRinE,Zerg,1690,SHIN,Terran,1752,SHIN
+690,2025-08-09 12:56:20,2025-08-09 13:10:39,Utralove,ByuN,Terran,1366,Solar,Protoss,2673,ByuN
+691,2025-08-28 07:27:24,2025-08-28 07:40:44,Whispers of Gold LE,Astrea,Protoss,1415,Zoun,Terran,1391,Astrea
+692,2025-08-09 09:53:16,2025-08-09 10:09:00,Abyssal Reef LE,Lambo,Zerg,1630,Rogue,Zerg,2274,Rogue
+693,2025-08-25 11:07:16,2025-08-25 11:22:53,Amygdala LE,HeRoMaRinE,Zerg,1277,Solar,Terran,3050,Solar
+694,2025-08-23 00:30:50,2025-08-23 00:45:11,Frostline LE,Solar,Zerg,3281,Maru,Zerg,3684,Maru
+695,2025-08-02 14:33:01,2025-08-02 14:46:19,Frostline LE,Maru,Protoss,2741,HeRoMaRinE,Zerg,978,Maru
+696,2025-08-12 07:57:56,2025-08-12 08:11:34,Ley Lines,Clem,Zerg,2693,Reynor,Protoss,2992,Reynor
+697,2025-08-15 13:31:38,2025-08-15 13:47:16,Utralove,ByuN,Zerg,653,Rogue,Zerg,2306,Rogue
+698,2025-08-14 20:02:12,2025-08-14 20:18:09,King's Cove LE,ByuN,Protoss,2147,Classic,Protoss,3625,Classic
+699,2025-08-21 14:40:31,2025-08-21 14:55:21,Frostline LE,ShoWTimE,Terran,1758,ByuN,Protoss,1003,ShoWTimE
+700,2025-08-24 22:22:50,2025-08-24 22:36:50,Frostline LE,Solar,Zerg,2626,Zoun,Zerg,1781,Solar
+701,2025-08-03 00:40:46,2025-08-03 00:55:08,Amygdala LE,Maru,Protoss,2489,Clem,Protoss,1898,Maru
+702,2025-08-04 20:56:44,2025-08-04 21:11:54,Utralove,Serral,Terran,2386,ByuN,Terran,1188,Serral
+703,2025-08-31 23:43:07,2025-08-31 23:55:57,Amygdala LE,Zoun,Terran,2874,Rogue,Zerg,2125,Zoun
+704,2025-08-10 14:27:24,2025-08-10 14:41:04,King's Cove LE,ShoWTimE,Zerg,2523,Lambo,Zerg,2154,ShoWTimE
+705,2025-08-20 14:15:37,2025-08-20 14:29:34,Utralove,Lambo,Zerg,681,HeRoMaRinE,Terran,1915,HeRoMaRinE
+706,2025-08-06 09:57:40,2025-08-06 10:11:18,King's Cove LE,Zoun,Protoss,1453,Cyan,Zerg,2018,Cyan
+707,2025-08-02 04:52:34,2025-08-02 05:07:12,Ley Lines,SHIN,Protoss,1965,trigger,Zerg,2118,trigger
+708,2025-08-20 05:11:51,2025-08-20 05:24:07,Abyssal Reef LE,HeRoMaRinE,Zerg,1326,trigger,Zerg,1423,trigger
+709,2025-08-30 01:44:01,2025-08-30 01:58:52,Whispers of Gold LE,Rogue,Protoss,2047,Classic,Terran,3066,Classic
+710,2025-08-10 05:31:14,2025-08-10 05:45:21,Amygdala LE,Astrea,Terran,981,Serral,Terran,3400,Astrea
+711,2025-08-01 06:27:16,2025-08-01 06:39:52,Utralove,Clem,Protoss,2916,Lambo,Zerg,1587,Lambo
+712,2025-08-03 09:35:49,2025-08-03 09:49:43,Frostline LE,Zoun,Zerg,1914,Serral,Protoss,3089,Serral
+713,2025-08-05 06:53:32,2025-08-05 07:06:39,Amygdala LE,Her0,Terran,2768,Lambo,Zerg,1962,Her0
+714,2025-08-20 10:52:20,2025-08-20 11:06:25,Frostline LE,ShoWTimE,Protoss,1740,Clem,Protoss,2091,Clem
+715,2025-08-23 00:25:33,2025-08-23 00:40:36,Ley Lines,Reynor,Terran,3296,Maru,Zerg,3589,Maru
+716,2025-08-16 08:01:04,2025-08-16 08:15:41,Whispers of Gold LE,ShoWTimE,Protoss,2740,Rogue,Zerg,2473,ShoWTimE
+717,2025-08-03 04:09:52,2025-08-03 04:24:32,King's Cove LE,ByuN,Zerg,2065,Serral,Protoss,2727,Serral
+718,2025-08-31 10:22:13,2025-08-31 10:37:57,Frostline LE,Classic,Terran,2527,Cyan,Zerg,903,Classic
+719,2025-08-14 19:12:48,2025-08-14 19:25:32,King's Cove LE,Cure,Zerg,2984,Maru,Zerg,2196,Cure
+720,2025-08-12 01:30:00,2025-08-12 01:43:42,Frostline LE,Classic,Protoss,3650,Zoun,Terran,1467,Classic
+721,2025-08-07 21:40:15,2025-08-07 21:55:26,El Dorado LE,Cyan,Zerg,1589,Maru,Terran,2614,Maru
+722,2025-08-22 17:54:17,2025-08-22 18:06:21,Whispers of Gold LE,trigger,Zerg,1536,ByuN,Protoss,1451,trigger
+723,2025-08-21 06:22:21,2025-08-21 06:36:59,Neon Violet Square LE,ByuN,Protoss,607,Her0,Zerg,1718,ByuN
+724,2025-08-17 09:54:25,2025-08-17 10:06:33,King's Cove LE,Astrea,Protoss,927,Rogue,Terran,1778,Rogue
+725,2025-08-01 10:33:48,2025-08-01 10:47:48,El Dorado LE,HeRoMaRinE,Zerg,1339,Solar,Protoss,2751,HeRoMaRinE
+726,2025-08-15 06:27:58,2025-08-15 06:42:22,King's Cove LE,HeRoMaRinE,Protoss,1793,SHIN,Protoss,2038,HeRoMaRinE
+727,2025-08-29 03:22:17,2025-08-29 03:36:44,Abyssal Reef LE,ShoWTimE,Zerg,2003,Clem,Zerg,1475,ShoWTimE
+728,2025-08-09 08:37:16,2025-08-09 08:52:05,Frostline LE,trigger,Zerg,1656,Her0,Zerg,1534,trigger
+729,2025-08-22 20:23:45,2025-08-22 20:37:36,Ley Lines,Rogue,Terran,2693,Cyan,Protoss,987,Rogue
+730,2025-08-27 12:46:22,2025-08-27 13:02:13,Ley Lines,HeRoMaRinE,Terran,2013,Classic,Terran,2282,Classic
+731,2025-08-26 23:49:44,2025-08-27 00:01:47,Abyssal Reef LE,Reynor,Terran,2706,Lambo,Zerg,603,Reynor
+732,2025-08-28 00:44:46,2025-08-28 00:59:51,Ley Lines,Her0,Zerg,2792,Serral,Protoss,3435,Serral
+733,2025-08-04 09:11:51,2025-08-04 09:25:28,Abyssal Reef LE,SHIN,Protoss,2583,Cyan,Terran,1467,SHIN
+734,2025-08-01 09:28:34,2025-08-01 09:41:02,Whispers of Gold LE,ByuN,Zerg,839,Maru,Protoss,2617,Maru
+735,2025-08-09 02:44:29,2025-08-09 02:58:52,Utralove,Classic,Terran,2425,ByuN,Terran,891,Classic
+736,2025-08-24 13:35:29,2025-08-24 13:50:09,Utralove,Solar,Terran,3055,Zoun,Zerg,2232,Solar
+737,2025-08-07 06:13:20,2025-08-07 06:27:47,Neon Violet Square LE,SHIN,Zerg,2362,Astrea,Terran,1159,SHIN
+738,2025-08-19 21:35:35,2025-08-19 21:48:04,Frostline LE,SHIN,Protoss,1991,trigger,Protoss,1665,trigger
+739,2025-08-15 08:34:41,2025-08-15 08:50:22,Ley Lines,ShoWTimE,Protoss,1512,Her0,Protoss,1584,Her0
+740,2025-08-31 12:01:21,2025-08-31 12:14:35,Amygdala LE,Classic,Protoss,3166,Cyan,Terran,2036,Classic
+741,2025-08-06 00:11:51,2025-08-06 00:26:50,Ley Lines,Astrea,Zerg,1017,Reynor,Protoss,2579,Reynor
+742,2025-08-18 15:30:52,2025-08-18 15:46:11,El Dorado LE,HeRoMaRinE,Terran,927,Zoun,Protoss,2694,Zoun
+743,2025-08-03 23:01:25,2025-08-03 23:14:34,Neon Violet Square LE,Clem,Terran,2298,Solar,Terran,3294,Solar
+744,2025-08-07 06:18:02,2025-08-07 06:33:09,Amygdala LE,Rogue,Terran,1621,Her0,Terran,2566,Her0
+745,2025-08-04 01:35:06,2025-08-04 01:48:14,Whispers of Gold LE,Cure,Protoss,3363,trigger,Protoss,808,Cure
+746,2025-08-10 17:28:40,2025-08-10 17:42:50,El Dorado LE,Reynor,Zerg,3574,ShoWTimE,Protoss,2246,Reynor
+747,2025-08-18 16:58:49,2025-08-18 17:14:19,Whispers of Gold LE,ShoWTimE,Zerg,1808,Zoun,Zerg,2706,Zoun
+748,2025-08-25 16:52:04,2025-08-25 17:05:52,King's Cove LE,Maru,Zerg,3115,Classic,Zerg,2948,Maru
+749,2025-08-11 22:35:02,2025-08-11 22:49:43,El Dorado LE,Maru,Terran,2639,ByuN,Terran,2001,Maru
+750,2025-08-09 06:41:44,2025-08-09 06:54:23,El Dorado LE,ShoWTimE,Terran,1745,Lambo,Terran,783,ShoWTimE
+751,2025-08-27 01:44:57,2025-08-27 01:59:23,El Dorado LE,Zoun,Terran,2039,ShoWTimE,Zerg,1941,Zoun
+752,2025-08-01 09:36:41,2025-08-01 09:49:40,El Dorado LE,trigger,Zerg,1154,Astrea,Zerg,1941,Astrea
+753,2025-08-10 09:23:21,2025-08-10 09:38:21,Ley Lines,Clem,Terran,1884,Her0,Protoss,1454,Clem
+754,2025-08-19 10:26:08,2025-08-19 10:41:28,King's Cove LE,ShoWTimE,Terran,2438,Her0,Protoss,2531,Her0
+755,2025-08-02 20:53:32,2025-08-02 21:05:57,Ley Lines,ByuN,Protoss,1942,Maru,Zerg,2868,Maru
+756,2025-08-27 05:50:16,2025-08-27 06:05:38,El Dorado LE,Lambo,Terran,1119,HeRoMaRinE,Protoss,1740,HeRoMaRinE
+757,2025-08-15 10:45:15,2025-08-15 11:00:14,King's Cove LE,Astrea,Terran,1883,Cure,Zerg,3563,Cure
+758,2025-08-29 20:47:29,2025-08-29 20:59:35,King's Cove LE,Maru,Terran,2775,Astrea,Protoss,1016,Maru
+759,2025-08-10 22:33:35,2025-08-10 22:48:13,Utralove,Rogue,Zerg,1885,Solar,Terran,2741,Solar
+760,2025-08-15 16:14:27,2025-08-15 16:30:09,Whispers of Gold LE,Solar,Protoss,3743,trigger,Zerg,1946,Solar
+761,2025-08-04 01:55:20,2025-08-04 02:08:19,King's Cove LE,Serral,Zerg,2813,trigger,Zerg,626,Serral
+762,2025-08-17 15:36:16,2025-08-17 15:52:06,El Dorado LE,SHIN,Protoss,2943,Her0,Zerg,1927,SHIN
+763,2025-08-05 08:46:33,2025-08-05 08:59:49,Amygdala LE,trigger,Terran,724,ShoWTimE,Zerg,2369,ShoWTimE
+764,2025-08-27 03:41:51,2025-08-27 03:57:39,Neon Violet Square LE,Zoun,Zerg,1587,Cure,Terran,3697,Zoun
+765,2025-08-21 18:00:54,2025-08-21 18:16:13,King's Cove LE,Zoun,Zerg,2683,trigger,Zerg,1028,Zoun
+766,2025-08-09 15:55:03,2025-08-09 16:07:23,Frostline LE,Maru,Protoss,2894,Cyan,Zerg,1653,Maru
+767,2025-08-06 00:19:46,2025-08-06 00:32:06,Whispers of Gold LE,Lambo,Terran,2056,SHIN,Protoss,2128,SHIN
+768,2025-08-17 22:36:47,2025-08-17 22:51:02,El Dorado LE,Astrea,Terran,1620,Clem,Protoss,2618,Astrea
+769,2025-08-20 01:45:52,2025-08-20 02:01:29,Abyssal Reef LE,Cure,Protoss,3442,Maru,Zerg,2448,Cure
+770,2025-08-21 16:58:17,2025-08-21 17:10:23,El Dorado LE,Classic,Protoss,3239,Lambo,Zerg,704,Classic
+771,2025-08-10 20:07:25,2025-08-10 20:21:28,Neon Violet Square LE,Astrea,Protoss,1053,Her0,Terran,2457,Her0
+772,2025-08-15 11:23:27,2025-08-15 11:36:54,Amygdala LE,Her0,Protoss,1424,Classic,Zerg,2688,Classic
+773,2025-08-05 13:38:41,2025-08-05 13:51:07,Frostline LE,Serral,Terran,2178,Lambo,Protoss,1352,Serral
+774,2025-08-03 03:07:40,2025-08-03 03:21:41,Amygdala LE,Reynor,Zerg,2716,Rogue,Protoss,2307,Reynor
+775,2025-08-26 18:58:47,2025-08-26 19:11:12,Frostline LE,Lambo,Zerg,1784,ByuN,Protoss,825,Lambo
+776,2025-08-10 00:36:23,2025-08-10 00:51:57,Utralove,Cure,Terran,3118,Serral,Terran,3295,Serral
+777,2025-08-21 10:10:30,2025-08-21 10:25:54,Utralove,Serral,Terran,3153,ByuN,Terran,1768,Serral
+778,2025-08-02 07:22:16,2025-08-02 07:34:19,Abyssal Reef LE,Clem,Zerg,1928,HeRoMaRinE,Zerg,1477,Clem
+779,2025-08-19 02:58:12,2025-08-19 03:10:26,Abyssal Reef LE,Serral,Protoss,3641,Zoun,Terran,1728,Serral
+780,2025-08-23 15:19:08,2025-08-23 15:32:55,King's Cove LE,Serral,Terran,2696,ByuN,Protoss,1394,ByuN
+781,2025-08-31 15:22:48,2025-08-31 15:35:09,Whispers of Gold LE,Cure,Zerg,2783,Reynor,Terran,3113,Reynor
+782,2025-08-28 12:26:03,2025-08-28 12:41:52,Utralove,SHIN,Protoss,1681,Reynor,Protoss,3306,Reynor
+783,2025-08-31 04:56:56,2025-08-31 05:12:55,Ley Lines,trigger,Protoss,939,Rogue,Protoss,1590,Rogue
+784,2025-08-27 21:33:37,2025-08-27 21:48:43,Neon Violet Square LE,HeRoMaRinE,Protoss,1170,Cure,Zerg,3294,Cure
+785,2025-08-04 08:56:45,2025-08-04 09:10:42,King's Cove LE,Reynor,Zerg,3627,HeRoMaRinE,Protoss,1211,Reynor
+786,2025-08-27 23:14:39,2025-08-27 23:28:17,Ley Lines,Maru,Protoss,2847,Zoun,Terran,2391,Maru
+787,2025-08-31 19:29:38,2025-08-31 19:43:45,Abyssal Reef LE,Clem,Terran,1536,Astrea,Zerg,1351,Clem
+788,2025-08-31 21:08:45,2025-08-31 21:21:54,Frostline LE,Cyan,Terran,1870,Astrea,Zerg,1105,Cyan
+789,2025-08-18 23:55:31,2025-08-19 00:09:05,Neon Violet Square LE,Cyan,Terran,1543,Astrea,Terran,1427,Cyan
+790,2025-08-10 20:16:27,2025-08-10 20:31:02,Ley Lines,SHIN,Protoss,2236,Cure,Zerg,3020,Cure
+791,2025-08-24 12:47:42,2025-08-24 13:02:03,Utralove,Zoun,Protoss,2873,ByuN,Terran,2028,Zoun
+792,2025-08-26 10:32:02,2025-08-26 10:44:55,Ley Lines,Serral,Terran,3657,Her0,Terran,1426,Serral
+793,2025-08-12 17:20:24,2025-08-12 17:32:38,Abyssal Reef LE,Her0,Zerg,2503,Maru,Terran,2589,Her0
+794,2025-08-01 12:56:29,2025-08-01 13:11:42,Whispers of Gold LE,Lambo,Zerg,1864,Serral,Terran,2530,Serral
+795,2025-08-09 03:44:28,2025-08-09 03:57:11,Amygdala LE,ShoWTimE,Protoss,1967,HeRoMaRinE,Zerg,1499,ShoWTimE
+796,2025-08-20 03:17:27,2025-08-20 03:30:44,Whispers of Gold LE,ByuN,Terran,1190,Reynor,Zerg,3068,Reynor
+797,2025-08-24 22:43:18,2025-08-24 22:57:31,Amygdala LE,Clem,Protoss,2044,Classic,Protoss,2992,Classic
+798,2025-08-07 22:41:34,2025-08-07 22:57:27,Neon Violet Square LE,SHIN,Terran,2063,Astrea,Protoss,929,SHIN
+799,2025-08-16 13:31:32,2025-08-16 13:44:25,Abyssal Reef LE,Solar,Protoss,3082,Maru,Zerg,3457,Maru
+800,2025-08-18 23:34:04,2025-08-18 23:49:51,Whispers of Gold LE,ShoWTimE,Protoss,2049,Maru,Terran,3325,Maru
+801,2025-08-19 20:23:47,2025-08-19 20:36:22,Ley Lines,Lambo,Zerg,773,Cure,Terran,2386,Cure
+802,2025-08-18 04:26:47,2025-08-18 04:40:22,Neon Violet Square LE,Rogue,Protoss,1856,SHIN,Terran,1696,Rogue
+803,2025-08-25 21:25:05,2025-08-25 21:38:26,Utralove,HeRoMaRinE,Terran,946,Astrea,Zerg,1038,Astrea
+804,2025-08-28 05:49:45,2025-08-28 06:02:52,Amygdala LE,Clem,Terran,1976,ByuN,Zerg,1984,ByuN
+805,2025-08-25 09:04:37,2025-08-25 09:16:42,Abyssal Reef LE,SHIN,Terran,2165,Serral,Protoss,2368,Serral
+806,2025-08-13 10:17:05,2025-08-13 10:32:49,Neon Violet Square LE,Zoun,Protoss,1806,Astrea,Terran,858,Zoun
+807,2025-08-26 10:50:31,2025-08-26 11:05:21,Amygdala LE,Classic,Zerg,3341,Maru,Zerg,2583,Classic
+808,2025-08-21 05:52:26,2025-08-21 06:06:02,Amygdala LE,trigger,Terran,1901,SHIN,Protoss,2549,SHIN
+809,2025-08-10 08:23:23,2025-08-10 08:38:51,El Dorado LE,SHIN,Protoss,1419,Serral,Protoss,3068,Serral
+810,2025-08-18 00:28:23,2025-08-18 00:43:21,Amygdala LE,Astrea,Terran,729,ShoWTimE,Protoss,2760,ShoWTimE
+811,2025-08-19 05:56:10,2025-08-19 06:09:35,Whispers of Gold LE,Clem,Protoss,2522,Cyan,Terran,1408,Clem
+812,2025-08-05 17:55:14,2025-08-05 18:11:08,Frostline LE,ByuN,Zerg,2174,HeRoMaRinE,Terran,1465,ByuN
+813,2025-08-16 05:49:19,2025-08-16 06:02:50,King's Cove LE,Reynor,Protoss,2832,Her0,Zerg,1416,Reynor
+814,2025-08-02 10:54:40,2025-08-02 11:07:58,Whispers of Gold LE,Reynor,Protoss,2505,Rogue,Zerg,1692,Reynor
+815,2025-08-17 06:34:14,2025-08-17 06:47:26,Whispers of Gold LE,Cure,Zerg,2190,Classic,Protoss,3517,Classic
+816,2025-08-31 13:53:29,2025-08-31 14:06:15,Whispers of Gold LE,Maru,Protoss,2320,Her0,Protoss,2209,Maru
+817,2025-08-09 00:08:49,2025-08-09 00:21:16,Ley Lines,Clem,Zerg,2884,Reynor,Zerg,3013,Reynor
+818,2025-08-27 20:52:08,2025-08-27 21:04:18,Whispers of Gold LE,Lambo,Protoss,760,Astrea,Zerg,1486,Astrea
+819,2025-08-04 05:03:26,2025-08-04 05:15:34,Abyssal Reef LE,Cyan,Zerg,933,Clem,Terran,2024,Clem
+820,2025-08-04 13:58:06,2025-08-04 14:12:19,Frostline LE,trigger,Terran,964,HeRoMaRinE,Protoss,1103,HeRoMaRinE
+821,2025-08-22 10:23:15,2025-08-22 10:36:45,Whispers of Gold LE,Clem,Zerg,1782,Rogue,Terran,2109,Rogue
+822,2025-08-15 03:08:16,2025-08-15 03:24:08,Frostline LE,Her0,Protoss,1651,Lambo,Zerg,1933,Lambo
+823,2025-08-05 23:37:06,2025-08-05 23:53:02,El Dorado LE,Clem,Zerg,2767,Her0,Zerg,1454,Clem
+824,2025-08-19 16:02:48,2025-08-19 16:15:50,Ley Lines,Lambo,Protoss,1248,Clem,Terran,2159,Clem
+825,2025-08-26 15:22:41,2025-08-26 15:36:49,Ley Lines,Clem,Protoss,2690,Zoun,Zerg,1671,Clem
+826,2025-08-04 13:07:31,2025-08-04 13:21:39,Whispers of Gold LE,trigger,Terran,1699,Lambo,Terran,1365,Lambo
+827,2025-08-20 10:28:41,2025-08-20 10:41:32,Frostline LE,Reynor,Terran,3275,Her0,Zerg,2551,Reynor
+828,2025-08-10 04:31:39,2025-08-10 04:44:46,Ley Lines,ByuN,Protoss,1357,HeRoMaRinE,Protoss,729,ByuN
+829,2025-08-29 23:53:08,2025-08-30 00:06:37,Frostline LE,Classic,Terran,3645,Reynor,Terran,3447,Classic
+830,2025-08-17 15:11:23,2025-08-17 15:24:34,Frostline LE,Solar,Zerg,2875,Zoun,Protoss,1786,Zoun
+831,2025-08-18 06:09:50,2025-08-18 06:25:26,Utralove,Her0,Zerg,1914,Classic,Terran,2218,Classic
+832,2025-08-11 15:18:01,2025-08-11 15:30:03,Amygdala LE,Zoun,Terran,2305,Cure,Terran,2971,Cure
+833,2025-08-28 04:30:35,2025-08-28 04:46:21,Whispers of Gold LE,Maru,Zerg,2645,Rogue,Terran,1913,Maru
+834,2025-08-12 18:02:32,2025-08-12 18:14:32,El Dorado LE,Lambo,Terran,1559,Reynor,Zerg,3450,Reynor
+835,2025-08-03 05:30:14,2025-08-03 05:45:08,Utralove,Lambo,Terran,1083,Serral,Zerg,2724,Serral
+836,2025-08-23 06:05:55,2025-08-23 06:21:36,Amygdala LE,ShoWTimE,Terran,1881,Clem,Terran,2852,Clem
+837,2025-08-26 18:09:37,2025-08-26 18:23:46,Utralove,SHIN,Protoss,2386,Reynor,Terran,3475,Reynor
+838,2025-08-31 05:45:23,2025-08-31 06:00:52,El Dorado LE,Lambo,Zerg,1959,Her0,Terran,1650,Lambo
+839,2025-08-24 23:36:52,2025-08-24 23:50:13,Amygdala LE,Classic,Zerg,3235,Maru,Terran,3391,Classic
+840,2025-08-09 18:37:26,2025-08-09 18:53:07,Abyssal Reef LE,Astrea,Protoss,1145,Reynor,Zerg,3254,Reynor
+841,2025-08-05 05:12:48,2025-08-05 05:26:39,Neon Violet Square LE,Zoun,Terran,2303,Astrea,Terran,1998,Zoun
+842,2025-08-04 21:41:06,2025-08-04 21:55:26,Abyssal Reef LE,Zoun,Zerg,2806,ShoWTimE,Terran,2441,Zoun
+843,2025-08-22 17:20:55,2025-08-22 17:33:04,El Dorado LE,ShoWTimE,Zerg,1845,Her0,Zerg,1742,ShoWTimE
+844,2025-08-18 17:01:54,2025-08-18 17:15:16,Ley Lines,Clem,Terran,2913,Classic,Protoss,3338,Classic
+845,2025-08-04 19:52:24,2025-08-04 20:04:50,Whispers of Gold LE,ShoWTimE,Protoss,1809,Zoun,Zerg,1984,Zoun
+846,2025-08-14 13:57:03,2025-08-14 14:10:31,Abyssal Reef LE,Rogue,Protoss,2031,Cyan,Protoss,1224,Rogue
+847,2025-08-13 18:25:34,2025-08-13 18:40:58,Whispers of Gold LE,Astrea,Zerg,1150,Cure,Protoss,3247,Cure
+848,2025-08-27 05:00:58,2025-08-27 05:16:29,Amygdala LE,Reynor,Protoss,2219,Classic,Protoss,3624,Classic
+849,2025-08-10 02:37:57,2025-08-10 02:51:39,Frostline LE,Cyan,Protoss,1156,ShoWTimE,Zerg,2778,ShoWTimE
+850,2025-08-23 22:49:03,2025-08-23 23:03:00,Frostline LE,Rogue,Terran,2025,trigger,Terran,1629,trigger
+851,2025-08-05 14:44:48,2025-08-05 15:00:15,Ley Lines,Classic,Protoss,2255,Solar,Protoss,2985,Solar
+852,2025-08-09 05:06:20,2025-08-09 05:18:57,Ley Lines,Serral,Terran,3348,Her0,Terran,2937,Serral
+853,2025-08-11 05:54:39,2025-08-11 06:07:18,Ley Lines,ByuN,Terran,1626,Reynor,Terran,2649,Reynor
+854,2025-08-16 05:16:51,2025-08-16 05:31:01,Amygdala LE,Astrea,Zerg,1663,Cyan,Terran,1150,Astrea
+855,2025-08-28 03:05:51,2025-08-28 03:18:35,Amygdala LE,SHIN,Protoss,2007,Her0,Terran,2346,Her0
+856,2025-08-06 02:37:07,2025-08-06 02:51:14,King's Cove LE,HeRoMaRinE,Protoss,808,trigger,Terran,1269,trigger
+857,2025-08-08 04:19:54,2025-08-08 04:33:40,Utralove,Cure,Protoss,3683,ShoWTimE,Zerg,2006,Cure
+858,2025-08-17 14:44:24,2025-08-17 15:00:00,Amygdala LE,Her0,Zerg,2378,Maru,Protoss,2195,Her0
+859,2025-08-17 04:52:45,2025-08-17 05:07:49,Ley Lines,Her0,Protoss,1437,Maru,Zerg,2640,Maru
+860,2025-08-14 12:57:19,2025-08-14 13:10:05,El Dorado LE,Clem,Terran,2491,Rogue,Zerg,1851,Clem
+861,2025-08-17 03:36:35,2025-08-17 03:51:55,Whispers of Gold LE,Her0,Terran,1466,HeRoMaRinE,Protoss,1605,HeRoMaRinE
+862,2025-08-18 13:44:39,2025-08-18 14:00:18,Utralove,Cyan,Zerg,903,Lambo,Protoss,1336,Cyan
+863,2025-08-05 14:23:22,2025-08-05 14:35:36,Utralove,Classic,Protoss,2641,Clem,Protoss,1906,Classic
+864,2025-08-12 08:06:11,2025-08-12 08:21:00,Whispers of Gold LE,Rogue,Zerg,2706,Zoun,Zerg,1432,Rogue
+865,2025-08-21 09:36:41,2025-08-21 09:49:37,Whispers of Gold LE,ByuN,Zerg,1436,Lambo,Protoss,1899,Lambo
+866,2025-08-11 10:00:41,2025-08-11 10:13:16,Abyssal Reef LE,Classic,Zerg,2303,Astrea,Zerg,1589,Astrea
+867,2025-08-10 13:20:16,2025-08-10 13:33:46,Abyssal Reef LE,trigger,Protoss,1825,Cyan,Terran,1138,trigger
+868,2025-08-30 01:47:47,2025-08-30 02:01:18,Frostline LE,Reynor,Protoss,3566,Astrea,Protoss,1904,Reynor
+869,2025-08-11 10:22:44,2025-08-11 10:37:10,Amygdala LE,Classic,Protoss,3381,trigger,Zerg,1042,Classic
+870,2025-08-12 01:12:06,2025-08-12 01:25:05,Utralove,Astrea,Protoss,1258,Serral,Zerg,2902,Serral
+871,2025-08-15 18:52:35,2025-08-15 19:05:54,Amygdala LE,Her0,Zerg,2808,Clem,Protoss,2862,Clem
+872,2025-08-13 18:44:09,2025-08-13 18:59:56,El Dorado LE,Serral,Terran,2667,Lambo,Protoss,1545,Serral
+873,2025-08-13 17:13:15,2025-08-13 17:26:14,King's Cove LE,Solar,Terran,2685,Rogue,Terran,2696,Rogue
+874,2025-08-26 03:13:16,2025-08-26 03:28:47,Neon Violet Square LE,SHIN,Protoss,2622,HeRoMaRinE,Zerg,1654,SHIN
+875,2025-08-21 21:56:20,2025-08-21 22:09:30,Whispers of Gold LE,Reynor,Protoss,3667,ByuN,Terran,1935,Reynor
+876,2025-08-19 15:16:43,2025-08-19 15:31:59,King's Cove LE,Astrea,Terran,1109,Solar,Zerg,3161,Solar
+877,2025-08-20 12:39:34,2025-08-20 12:55:18,Neon Violet Square LE,Her0,Zerg,2460,Cyan,Zerg,1878,Her0
+878,2025-08-15 11:28:28,2025-08-15 11:41:07,Utralove,HeRoMaRinE,Terran,1550,Solar,Protoss,2239,Solar
+879,2025-08-27 18:51:29,2025-08-27 19:06:56,Ley Lines,trigger,Protoss,825,ByuN,Zerg,1284,ByuN
+880,2025-08-14 17:26:44,2025-08-14 17:40:27,Abyssal Reef LE,Cure,Zerg,2628,SHIN,Zerg,2328,Cure
+881,2025-08-03 07:38:22,2025-08-03 07:51:55,Utralove,ShoWTimE,Protoss,2520,Solar,Terran,2191,ShoWTimE
+882,2025-08-10 04:51:17,2025-08-10 05:04:10,Whispers of Gold LE,Classic,Protoss,3076,Lambo,Protoss,666,Classic
+883,2025-08-01 21:11:47,2025-08-01 21:25:03,Frostline LE,trigger,Zerg,1837,Clem,Zerg,2155,Clem
+884,2025-08-28 00:29:00,2025-08-28 00:41:58,Whispers of Gold LE,HeRoMaRinE,Protoss,2067,Clem,Zerg,1669,HeRoMaRinE
+885,2025-08-03 08:47:38,2025-08-03 08:59:42,Utralove,ShoWTimE,Protoss,2848,Cyan,Zerg,2136,ShoWTimE
+886,2025-08-10 16:52:38,2025-08-10 17:05:20,Utralove,HeRoMaRinE,Terran,1266,Lambo,Protoss,756,HeRoMaRinE
+887,2025-08-25 07:13:43,2025-08-25 07:28:29,Ley Lines,Rogue,Terran,2553,Zoun,Terran,2377,Rogue
+888,2025-08-05 06:21:16,2025-08-05 06:36:02,Neon Violet Square LE,HeRoMaRinE,Protoss,1992,Clem,Zerg,1953,HeRoMaRinE
+889,2025-08-01 17:38:59,2025-08-01 17:52:00,Whispers of Gold LE,Cyan,Protoss,1652,Cure,Zerg,2322,Cure
+890,2025-08-23 17:56:20,2025-08-23 18:11:31,Amygdala LE,Reynor,Protoss,2938,SHIN,Zerg,2347,Reynor
+891,2025-08-16 09:51:57,2025-08-16 10:04:20,Utralove,Solar,Protoss,3476,HeRoMaRinE,Protoss,2167,Solar
+892,2025-08-27 11:43:03,2025-08-27 11:56:47,Neon Violet Square LE,Serral,Terran,3509,ByuN,Zerg,906,Serral
+893,2025-08-17 20:40:45,2025-08-17 20:55:40,Frostline LE,HeRoMaRinE,Terran,1202,Maru,Zerg,3335,Maru
+894,2025-08-10 20:29:20,2025-08-10 20:42:06,El Dorado LE,Cyan,Terran,1632,Reynor,Zerg,2557,Reynor
+895,2025-08-20 09:34:19,2025-08-20 09:46:50,Whispers of Gold LE,Solar,Zerg,3408,ByuN,Terran,1456,Solar
+896,2025-08-10 01:10:01,2025-08-10 01:22:55,King's Cove LE,Zoun,Protoss,1473,Astrea,Terran,753,Zoun
+897,2025-08-24 17:29:57,2025-08-24 17:43:49,El Dorado LE,trigger,Zerg,1374,ByuN,Terran,1519,ByuN
+898,2025-08-19 17:36:58,2025-08-19 17:49:49,Utralove,Solar,Terran,2857,Astrea,Zerg,663,Astrea
+899,2025-08-17 04:51:59,2025-08-17 05:04:34,Abyssal Reef LE,Clem,Terran,2460,Solar,Protoss,3020,Solar
+900,2025-08-18 05:14:41,2025-08-18 05:27:17,Ley Lines,Clem,Terran,2663,HeRoMaRinE,Protoss,1762,HeRoMaRinE
+901,2025-08-19 02:12:13,2025-08-19 02:28:05,King's Cove LE,Solar,Zerg,2176,Astrea,Zerg,1369,Solar
+902,2025-08-11 05:05:33,2025-08-11 05:21:06,Abyssal Reef LE,ShoWTimE,Terran,1736,Rogue,Protoss,2236,Rogue
+903,2025-08-16 20:27:16,2025-08-16 20:39:40,Neon Violet Square LE,Her0,Zerg,2572,Reynor,Protoss,2869,Reynor
+904,2025-08-22 15:31:30,2025-08-22 15:43:36,Whispers of Gold LE,ByuN,Zerg,779,Cyan,Terran,1570,Cyan
+905,2025-08-23 19:20:50,2025-08-23 19:35:24,Neon Violet Square LE,Her0,Protoss,2266,SHIN,Zerg,2863,SHIN
+906,2025-08-04 07:59:37,2025-08-04 08:12:21,Utralove,Solar,Protoss,2443,Astrea,Terran,1765,Solar
+907,2025-08-21 08:52:57,2025-08-21 09:05:07,Amygdala LE,Serral,Zerg,2955,Cure,Zerg,2398,Cure
+908,2025-08-02 22:52:31,2025-08-02 23:04:56,Whispers of Gold LE,Rogue,Protoss,1449,Cure,Protoss,2225,Cure
+909,2025-08-03 04:30:21,2025-08-03 04:44:16,El Dorado LE,trigger,Zerg,1600,Clem,Terran,2846,Clem
+910,2025-08-30 12:43:32,2025-08-30 12:55:42,Utralove,Serral,Zerg,2968,Her0,Terran,2542,Serral
+911,2025-08-01 16:22:17,2025-08-01 16:37:36,Frostline LE,Rogue,Terran,2543,HeRoMaRinE,Zerg,1025,HeRoMaRinE
+912,2025-08-02 23:27:53,2025-08-02 23:40:31,Abyssal Reef LE,Solar,Zerg,3698,Rogue,Protoss,1427,Solar
+913,2025-08-13 22:15:28,2025-08-13 22:30:00,Amygdala LE,Maru,Zerg,2193,Rogue,Protoss,2416,Rogue
+914,2025-08-02 19:15:59,2025-08-02 19:28:08,King's Cove LE,Solar,Terran,3004,Serral,Protoss,3419,Serral
+915,2025-08-10 21:24:25,2025-08-10 21:36:58,Neon Violet Square LE,Rogue,Terran,2515,ByuN,Terran,1747,ByuN
+916,2025-08-21 07:15:13,2025-08-21 07:29:43,Whispers of Gold LE,Solar,Protoss,3095,Reynor,Terran,3176,Solar
+917,2025-08-26 01:46:03,2025-08-26 01:59:19,Utralove,Rogue,Zerg,1414,ByuN,Zerg,1178,Rogue
+918,2025-08-13 07:25:53,2025-08-13 07:41:42,Whispers of Gold LE,trigger,Zerg,1284,Her0,Zerg,2603,Her0
+919,2025-08-13 17:20:52,2025-08-13 17:36:33,El Dorado LE,Cure,Terran,3009,SHIN,Protoss,2451,Cure
+920,2025-08-26 21:29:45,2025-08-26 21:42:31,Utralove,Reynor,Protoss,3654,ByuN,Terran,1267,Reynor
+921,2025-08-23 04:19:48,2025-08-23 04:32:26,El Dorado LE,SHIN,Terran,1636,Serral,Terran,3104,Serral
+922,2025-08-21 11:42:07,2025-08-21 11:55:10,King's Cove LE,Cyan,Terran,1914,trigger,Zerg,1344,trigger
+923,2025-08-22 11:43:42,2025-08-22 11:59:31,King's Cove LE,HeRoMaRinE,Protoss,871,Solar,Protoss,3718,Solar
+924,2025-08-18 16:46:22,2025-08-18 17:00:41,Whispers of Gold LE,Her0,Terran,2207,Rogue,Protoss,2758,Rogue
+925,2025-08-13 12:15:25,2025-08-13 12:28:04,Abyssal Reef LE,Reynor,Protoss,2363,Serral,Zerg,2224,Reynor
+926,2025-08-29 17:59:34,2025-08-29 18:12:19,Ley Lines,Cyan,Zerg,1149,Reynor,Terran,3100,Reynor
+927,2025-08-30 10:15:24,2025-08-30 10:28:17,Frostline LE,Rogue,Terran,2113,Cure,Zerg,3138,Cure
+928,2025-08-19 16:26:57,2025-08-19 16:40:52,Neon Violet Square LE,HeRoMaRinE,Terran,1662,Lambo,Protoss,2006,Lambo
+929,2025-08-24 15:16:37,2025-08-24 15:28:48,Amygdala LE,Lambo,Zerg,1799,Classic,Terran,2259,Classic
+930,2025-08-19 17:18:27,2025-08-19 17:31:01,Neon Violet Square LE,Maru,Protoss,2236,Serral,Terran,2678,Serral
+931,2025-08-03 15:07:43,2025-08-03 15:21:52,Abyssal Reef LE,Maru,Zerg,2881,Cure,Terran,2976,Cure
+932,2025-08-11 21:50:17,2025-08-11 22:03:36,Ley Lines,Lambo,Protoss,2000,trigger,Zerg,1638,Lambo
+933,2025-08-06 11:34:03,2025-08-06 11:46:26,El Dorado LE,HeRoMaRinE,Zerg,983,Rogue,Terran,1812,Rogue
+934,2025-08-07 06:56:30,2025-08-07 07:10:46,Whispers of Gold LE,Astrea,Zerg,1539,Zoun,Terran,1503,Astrea
+935,2025-08-15 00:12:05,2025-08-15 00:25:47,El Dorado LE,Solar,Terran,2540,Serral,Protoss,2928,Serral
+936,2025-08-18 04:59:44,2025-08-18 05:12:24,El Dorado LE,Maru,Protoss,2215,Reynor,Protoss,2786,Reynor
+937,2025-08-09 13:09:39,2025-08-09 13:22:16,Abyssal Reef LE,SHIN,Protoss,2443,Cyan,Zerg,1105,SHIN
+938,2025-08-25 09:28:22,2025-08-25 09:42:03,Amygdala LE,Clem,Terran,1599,Maru,Terran,2982,Maru
+939,2025-08-22 10:50:25,2025-08-22 11:05:32,Utralove,Maru,Terran,3343,Lambo,Protoss,1454,Maru
+940,2025-08-29 07:45:28,2025-08-29 07:59:30,King's Cove LE,Maru,Terran,3662,Rogue,Protoss,2859,Maru
+941,2025-08-02 00:51:52,2025-08-02 01:05:03,Amygdala LE,Solar,Terran,2915,Cyan,Zerg,2031,Solar
+942,2025-08-09 14:11:58,2025-08-09 14:25:52,Neon Violet Square LE,Lambo,Zerg,2109,Solar,Terran,3486,Lambo
+943,2025-08-15 01:05:08,2025-08-15 01:19:09,El Dorado LE,Cure,Protoss,3570,Her0,Zerg,1423,Cure
+944,2025-08-23 07:24:04,2025-08-23 07:38:22,Utralove,Lambo,Terran,2079,ShoWTimE,Protoss,2271,ShoWTimE
+945,2025-08-18 02:43:23,2025-08-18 02:58:25,Ley Lines,Lambo,Zerg,2012,ByuN,Zerg,781,Lambo
+946,2025-08-21 21:09:37,2025-08-21 21:23:03,El Dorado LE,Cyan,Zerg,827,Lambo,Protoss,1228,Lambo
+947,2025-08-19 17:53:48,2025-08-19 18:06:28,Neon Violet Square LE,Classic,Zerg,2701,Zoun,Zerg,2490,Classic
+948,2025-08-08 15:30:45,2025-08-08 15:45:15,Utralove,Cyan,Terran,2101,Lambo,Protoss,1646,Cyan
+949,2025-08-17 02:04:39,2025-08-17 02:16:39,Utralove,Astrea,Zerg,1430,Rogue,Protoss,1949,Rogue
+950,2025-08-09 12:32:26,2025-08-09 12:47:43,El Dorado LE,trigger,Protoss,1035,Her0,Zerg,2516,Her0
+951,2025-08-19 22:50:05,2025-08-19 23:04:06,Neon Violet Square LE,Cyan,Zerg,1934,Clem,Terran,1975,Clem
+952,2025-08-09 09:19:11,2025-08-09 09:33:22,Utralove,SHIN,Terran,1415,Classic,Terran,2561,Classic
+953,2025-08-26 06:58:09,2025-08-26 07:12:51,Neon Violet Square LE,Astrea,Protoss,2172,Lambo,Terran,1766,Astrea
+954,2025-08-06 23:39:38,2025-08-06 23:52:16,Abyssal Reef LE,Serral,Protoss,3146,Her0,Zerg,2758,Serral
+955,2025-08-14 04:31:01,2025-08-14 04:43:51,Frostline LE,Serral,Protoss,2874,Her0,Terran,2946,Her0
+956,2025-08-14 03:18:10,2025-08-14 03:30:34,Ley Lines,Lambo,Terran,1074,ByuN,Terran,1424,ByuN
+957,2025-08-15 09:55:05,2025-08-15 10:11:01,Neon Violet Square LE,ByuN,Protoss,1661,Rogue,Zerg,2297,Rogue
+958,2025-08-12 13:54:56,2025-08-12 14:08:01,Abyssal Reef LE,Reynor,Terran,3570,Zoun,Terran,1459,Zoun
+959,2025-08-13 05:39:15,2025-08-13 05:53:25,Frostline LE,Maru,Zerg,2271,trigger,Protoss,1615,trigger
+960,2025-08-20 15:32:15,2025-08-20 15:47:26,El Dorado LE,SHIN,Zerg,1503,Classic,Terran,2594,Classic
+961,2025-08-08 04:49:24,2025-08-08 05:01:37,Abyssal Reef LE,Maru,Protoss,2252,Solar,Protoss,2937,Solar
+962,2025-08-12 14:42:23,2025-08-12 14:57:15,El Dorado LE,Solar,Terran,3616,SHIN,Terran,2139,Solar
+963,2025-08-01 21:48:32,2025-08-01 22:02:54,King's Cove LE,Maru,Protoss,2307,Zoun,Terran,2813,Zoun
+964,2025-08-07 00:30:22,2025-08-07 00:44:57,El Dorado LE,Clem,Terran,1494,SHIN,Zerg,1703,SHIN
+965,2025-08-11 23:12:42,2025-08-11 23:26:16,Whispers of Gold LE,Classic,Zerg,2379,HeRoMaRinE,Terran,923,Classic
+966,2025-08-06 22:21:14,2025-08-06 22:35:47,Ley Lines,Classic,Protoss,3750,trigger,Protoss,1770,Classic
+967,2025-08-26 21:41:13,2025-08-26 21:55:11,Ley Lines,trigger,Protoss,796,Cyan,Protoss,1975,Cyan
+968,2025-08-21 22:31:13,2025-08-21 22:44:14,Frostline LE,SHIN,Terran,1452,Her0,Zerg,2246,Her0
+969,2025-08-03 16:33:13,2025-08-03 16:46:21,Ley Lines,Maru,Protoss,3390,Cyan,Protoss,1069,Maru
+970,2025-08-01 11:48:18,2025-08-01 12:03:16,Amygdala LE,Clem,Zerg,2256,ShoWTimE,Protoss,1815,Clem
+971,2025-08-19 04:26:31,2025-08-19 04:40:33,Ley Lines,trigger,Protoss,1521,SHIN,Zerg,1699,SHIN
+972,2025-08-01 12:30:50,2025-08-01 12:45:11,Whispers of Gold LE,Serral,Zerg,2624,Her0,Protoss,2700,Her0
+973,2025-08-08 10:28:02,2025-08-08 10:42:24,Ley Lines,Cure,Terran,3214,Clem,Protoss,1640,Clem
+974,2025-08-20 20:50:29,2025-08-20 21:04:42,El Dorado LE,Rogue,Protoss,2155,Her0,Zerg,2938,Her0
+975,2025-08-06 22:55:38,2025-08-06 23:10:09,Amygdala LE,Astrea,Terran,1276,Clem,Terran,2310,Clem
+976,2025-08-31 12:14:26,2025-08-31 12:27:58,Frostline LE,Rogue,Protoss,2262,HeRoMaRinE,Protoss,1960,Rogue
+977,2025-08-21 08:48:06,2025-08-21 09:02:31,King's Cove LE,Lambo,Terran,1460,Classic,Terran,3700,Classic
+978,2025-08-28 04:39:23,2025-08-28 04:54:03,Whispers of Gold LE,Maru,Protoss,2640,Classic,Protoss,2952,Classic
+979,2025-08-02 14:32:52,2025-08-02 14:48:33,Utralove,Zoun,Protoss,2546,ByuN,Protoss,611,Zoun
+980,2025-08-20 09:57:09,2025-08-20 10:11:13,King's Cove LE,Reynor,Zerg,3330,Zoun,Terran,2883,Reynor
+981,2025-08-27 05:16:44,2025-08-27 05:30:00,Neon Violet Square LE,Cyan,Terran,908,HeRoMaRinE,Zerg,2165,HeRoMaRinE
+982,2025-08-30 09:06:04,2025-08-30 09:18:43,Abyssal Reef LE,trigger,Zerg,1032,Cure,Protoss,3018,Cure
+983,2025-08-07 03:49:40,2025-08-07 04:03:58,Abyssal Reef LE,Solar,Terran,2424,Rogue,Zerg,1651,Solar
+984,2025-08-08 02:41:47,2025-08-08 02:54:56,Neon Violet Square LE,SHIN,Terran,2795,Rogue,Terran,1717,SHIN
+985,2025-08-29 06:37:06,2025-08-29 06:51:48,Ley Lines,HeRoMaRinE,Protoss,1275,Serral,Protoss,2548,Serral
+986,2025-08-02 17:23:15,2025-08-02 17:38:33,Amygdala LE,Solar,Protoss,2542,SHIN,Protoss,2073,Solar
+987,2025-08-18 05:10:51,2025-08-18 05:26:10,King's Cove LE,Serral,Zerg,3133,Clem,Zerg,1393,Serral
+988,2025-08-18 05:14:43,2025-08-18 05:30:25,Abyssal Reef LE,Serral,Terran,2672,Her0,Protoss,1478,Serral
+989,2025-08-08 06:15:54,2025-08-08 06:28:25,Frostline LE,ByuN,Zerg,1245,Clem,Zerg,2923,ByuN
+990,2025-08-17 02:03:09,2025-08-17 02:17:11,Utralove,Solar,Zerg,2270,Lambo,Protoss,726,Solar
+991,2025-08-08 16:38:42,2025-08-08 16:54:04,Neon Violet Square LE,Classic,Zerg,2615,Her0,Terran,2239,Classic
+992,2025-08-16 14:28:08,2025-08-16 14:41:10,King's Cove LE,Reynor,Protoss,3113,Cyan,Protoss,976,Reynor
+993,2025-08-06 06:48:35,2025-08-06 07:00:39,Whispers of Gold LE,Maru,Protoss,2467,Lambo,Terran,726,Maru
+994,2025-08-13 01:28:25,2025-08-13 01:40:26,Utralove,Solar,Zerg,2537,Her0,Terran,2385,Solar
+995,2025-08-12 07:43:55,2025-08-12 07:57:48,Frostline LE,Serral,Protoss,3230,ShoWTimE,Terran,2074,Serral
+996,2025-08-04 00:57:45,2025-08-04 01:10:34,Abyssal Reef LE,HeRoMaRinE,Protoss,960,Serral,Protoss,3738,Serral
+997,2025-08-12 13:25:45,2025-08-12 13:39:56,King's Cove LE,Lambo,Zerg,1503,Zoun,Protoss,2413,Zoun
+998,2025-08-13 20:36:51,2025-08-13 20:49:00,Abyssal Reef LE,Zoun,Protoss,1472,Her0,Zerg,1423,Zoun
+999,2025-08-12 01:09:00,2025-08-12 01:22:33,King's Cove LE,Her0,Protoss,2946,Serral,Protoss,3355,Serral
+1000,2025-08-09 16:16:54,2025-08-09 16:31:36,Neon Violet Square LE,Reynor,Zerg,3705,Solar,Terran,3258,Reynor

@@ -9,10 +9,10 @@ These presentations will help you provide an overview of Copilot's capabilities 
 ## Available Demos
 Each different dataset allows you to demo one or more workloads. Please click on each demo in the list to learn more.
 
-1. [Starcraft 2 - Data Pipeline, Dataflows, Data Warehouse, Notebooks](/Demos/Starcraft_2.md)
-2. [Stock Market - KQL Queryset, Real Time Dashboard](/Demos/Stock_Market.md)
-3. [Regional Sales Sample - Power BI](Demos/Regional_Sales.md)
-4. [Heart Failure - End to End Data Science](Demos/Heart_Failure.md)
+1. [Starcraft 2 - Data Pipeline, Dataflows, Data Warehouse, Notebooks](/Demo Instructions/Starcraft_2.md)
+2. [Stock Market - KQL Queryset, Real Time Dashboard](/Demo Instructions/Stock_Market.md)
+3. [Regional Sales Sample - Power BI](Demo Instructions/Regional_Sales.md)
+4. [Heart Failure - End to End Data Science](Demo Instructions/Heart_Failure.md)
 
 ## Installation Instructions
 This repository contains all required Fabric artifacts and data. Follow these instructions to set up your demo in your own Fabric environment.
