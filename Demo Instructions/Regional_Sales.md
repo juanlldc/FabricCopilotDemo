@@ -2,14 +2,14 @@
 This demo covers Power BI CoPilot and all its features. We look at a generic Regional Sales report that shows data for a sales group. To hihglight the usefullness of CoPilot we look at this report as though we have never seen it before, to show how CoPilot can assist with development and analysis.
 
 ## Fabric Resources
-In your Fabric Workspace, browse to the Heart Regional Sales folder. The following Fabric resources are available for this demo:
+In your Fabric Workspace, browse to the Regional Sales folder. The following Fabric resources are available for this demo:
 - Regional Sales Sample - Report that we will be using for bulk of demo. Will also need to download this .pbix to the desktop to demonstrate those features.
 - Regional Sales Sample (POST AI Prep) - this is the sames as the previous report but has the Prep Data for AI steps completed to demonstrate with the Standalone CoPilot.
 
 
 ## Tips
 
-- This document walks the user through delivering this Fabric and PBI CoPilot demo. Prompts to put into the CoPilot pane `are put in these code blocks` and instructions are written out. What you need to do to prep for each section is also listed.
+- This document walks the user through delivering this PBI CoPilot demo. Prompts to put into the CoPilot pane `are put in these code blocks` and instructions are written out. What you need to do to prep for each section is also listed.
 
 # Regional Sales Sample (Power BI)
 ## Prep
